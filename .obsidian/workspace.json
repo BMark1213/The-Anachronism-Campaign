@@ -37,8 +37,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d817969f543cbdcb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,6 +203,7 @@
   },
   "active": "688cf32a203cb5c1",
   "lastOpenFiles": [
+    "Untitled.md",
     "Base Info Folder/Table of Contents.md",
     "Worlds-Timelines/Steampunk Earth 966/Steampunk Earth 966.md",
     "Worlds-Timelines/Ocean Earth 1971/Phospheu/Phospheu.md",
@@ -202,7 +212,6 @@
     "Worlds-Timelines/The Anachronism (World)/The Anachronism (World).md",
     "Worlds-Timelines/The Original Timeline 13879/The Original Timeline 13879.md",
     "Worlds-Timelines/Planes of Existence/Material Plane 1692/Material Plane 1692.md",
-    "Worlds-Timelines/Planes of Existence/Hell 397832/Hell 397832.md",
-    "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md"
+    "Worlds-Timelines/Planes of Existence/Hell 397832/Hell 397832.md"
   ]
 }
