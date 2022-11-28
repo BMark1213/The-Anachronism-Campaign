@@ -11,8 +11,12 @@
             "id": "0be0680fad59d284",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,12 +113,16 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md"
+          }
         }
       }
     ],
     "currentTab": 0
   },
   "active": "0be0680fad59d284",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Important Artifacts/Wanjala’s Ring.md"
+  ]
 }
