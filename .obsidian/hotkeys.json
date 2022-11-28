@@ -1,6 +1,14 @@
 {
   "obsidian-footnotes:insert-footnote": [],
-  "command-palette:open": [],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
   "workspace:copy-path": [
     {
       "modifiers": [
