@@ -1,0 +1,128 @@
+{
+  "collapse-filter": true,
+  "search": "-path:\"Base Info Folder\"",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "file:\"Zatana\"",
+      "color": {
+        "a": 1,
+        "rgb": 5834667
+      }
+    },
+    {
+      "query": "tag:#Player",
+      "color": {
+        "a": 1,
+        "rgb": 5046272
+      }
+    },
+    {
+      "query": "tag:#Gods",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#OG_Team",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:\"Core Main Story NPCs\"",
+      "color": {
+        "a": 1,
+        "rgb": 12482
+      }
+    },
+    {
+      "query": "path:\"NPCs/Side Story NPCs/Groups\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"NPCs/Family NPCs\"",
+      "color": {
+        "a": 1,
+        "rgb": 14855085
+      }
+    },
+    {
+      "query": "tag:#City_Town",
+      "color": {
+        "a": 1,
+        "rgb": 12759680
+      }
+    },
+    {
+      "query": "tag:#Location",
+      "color": {
+        "a": 1,
+        "rgb": 2949186
+      }
+    },
+    {
+      "query": "tag:#Area",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#Island",
+      "color": {
+        "a": 1,
+        "rgb": 5413231
+      }
+    },
+    {
+      "query": "tag:#World",
+      "color": {
+        "a": 1,
+        "rgb": 74752
+      }
+    },
+    {
+      "query": "path:\"Important Artifacts\"",
+      "color": {
+        "a": 1,
+        "rgb": 13080576
+      }
+    },
+    {
+      "query": "path:\"Main Story Points\"",
+      "color": {
+        "a": 1,
+        "rgb": 15806207
+      }
+    },
+    {
+      "query": "path:\"NPCs/Side Story NPCs\" -path:\"NPCs/Side Story NPCs/Guilds\"",
+      "color": {
+        "a": 1,
+        "rgb": 9130064
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.9,
+  "nodeSizeMultiplier": 1.29947916666667,
+  "lineSizeMultiplier": 2.37135416666667,
+  "collapse-forces": true,
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 304,
+  "scale": 0.050344177366519964,
+  "close": false
+}

@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "f5842d3843545060",
+    "type": "split",
+    "children": [
+      {
+        "id": "0030ffb15e3fbd60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d4c7b7cfccc6496",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "8ecff6667ef821ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b3cf568e261c7d8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base Info Folder/Table of Contents.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c748d66563fb3e0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "af575fabf73f99cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "688cf32a203cb5c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d8d838593effcf1",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "3bc63778feee78ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56e1bbd4504c715d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d98f090e31f7b2b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4115b3739d3f9523",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46244d6011e54a73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd85588fedc92463",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d7e53df7f4a2469",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1d96e5cf08b625d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9412702b8eedf8a4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "67b18b79f1d40149",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "533486867a5e6c00",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "dea8d5204b794ab9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "688cf32a203cb5c1",
+  "lastOpenFiles": [
+    "Base Info Folder/Table of Contents.md",
+    "Worlds-Timelines/Steampunk Earth 966/Steampunk Earth 966.md",
+    "Worlds-Timelines/Ocean Earth 1971/Phospheu/Phospheu.md",
+    "Worlds-Timelines/Ocean Earth 1971/Ocean Earth 1971.md",
+    "Worlds-Timelines/Post Apocalyptic 3564/Post Apocalyptic 3564.md",
+    "Worlds-Timelines/The Anachronism (World)/The Anachronism (World).md",
+    "Worlds-Timelines/The Original Timeline 13879/The Original Timeline 13879.md",
+    "Worlds-Timelines/Planes of Existence/Material Plane 1692/Material Plane 1692.md",
+    "Worlds-Timelines/Planes of Existence/Hell 397832/Hell 397832.md",
+    "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md"
+  ]
+}
