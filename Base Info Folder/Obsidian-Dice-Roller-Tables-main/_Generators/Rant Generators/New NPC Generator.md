@@ -14,7 +14,7 @@ color default
 # A selection to synchronize gender with pronouns and name endings
 <$gendersync = [mksel:one]>
 
-<$mark-custom = "<mark style="background-color:E7EAFF">">
+<$mark-custom = "<mark style="background-color:100E17">">
 
 # The Masculine name endings
 [$masc]
