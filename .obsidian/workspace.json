@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "6d0eb0a5c309951d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3beedc153ab1f59f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Side Story NPCs/Cyberpunk 101010010/X Æ A-12.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "0030ffb15e3fbd60",
         "type": "tabs",
         "children": [
@@ -42,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Side Story NPCs/Cyberpunk 101010010/X Æ A-12.md",
+                "file": "NPCs/Side Story NPCs/The Original Timeline 13879/Groups/The Order of the Deserted Shadow.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -136,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Side Story NPCs/Cyberpunk 101010010/X Æ A-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Side Story NPCs/Cyberpunk 101010010/X Æ A-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NPCs/Side Story NPCs/Cyberpunk 101010010/X Æ A-12.md"
-              }
+              "state": {}
             }
           },
           {
@@ -220,17 +197,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3beedc153ab1f59f",
+  "active": "9d4c7b7cfccc6496",
   "lastOpenFiles": [
+    "NPCs/Side Story NPCs/The Original Timeline 13879/Groups/The Order of the Deserted Shadow.md",
+    "NPCs/Side Story NPCs/Steampunk Earth 966/Chisuke/OG Chisuke.md",
+    "NPCs/Side Story NPCs/Steampunk Earth 966/Chisuke/Cassius.md",
+    "NPCs/Side Story NPCs/The Anachronism (World)/Groups/The First Anachronism Team.md",
+    "NPCs/Side Story NPCs/Cyberpunk 101010010/X Æ A-12.md",
+    "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
+    "NPCs/Random NPCs/Cyberpunk/Pyrrhuslen.md",
     "Base Info Folder/Templates/Session Template.md",
     "Base Info Folder/Templates/NPC Template.md",
-    "NPCs/Side Story NPCs/Cyberpunk 101010010/X Æ A-12.md",
-    "NPCs/Side Story NPCs/The Original Timeline 13879/Groups/The Order of the Deserted Shadow.md",
-    "NPCs/Side Story NPCs/Ocean Earth 1971/Groups/Tirade of Mystics.md",
-    "NPCs/Side Story NPCs/Ocean Earth 1971/Groups/Damnation of the Sacred.md",
-    "Worlds-Timelines/The Anachronism (World)/The Anachronism (World).md",
-    "Folder Holder/Worlds/Planes of Existence 1/Material Plane 1692 1/Material Plane 1692.md",
-    "Folder Holder/Worlds/Planes of Existence 1/Material Plane 1692/Material Plane 1692.md",
-    "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md"
+    "NPCs/Side Story NPCs/Ocean Earth 1971/Groups/Tirade of Mystics.md"
   ]
 }

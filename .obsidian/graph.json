@@ -43,7 +43,21 @@
       }
     },
     {
-      "query": "path:\"NPCs/Side Story NPCs/Groups\"",
+      "query": "tag:#Faction",
+      "color": {
+        "a": 1,
+        "rgb": 9130064
+      }
+    },
+    {
+      "query": "tag:#Team",
+      "color": {
+        "a": 1,
+        "rgb": 9130064
+      }
+    },
+    {
+      "query": "path:\"NPCs/Side Story NPCs",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -54,13 +68,6 @@
       "color": {
         "a": 1,
         "rgb": 14855085
-      }
-    },
-    {
-      "query": "path:\"NPCs/Side Story NPCs\" -path:\"NPCs/Side Story NPCs/Guilds\"",
-      "color": {
-        "a": 1,
-        "rgb": 9130064
       }
     },
     {
@@ -120,7 +127,7 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -2.8,
   "nodeSizeMultiplier": 1.50364583333333,
@@ -130,6 +137,6 @@
   "repelStrength": 20,
   "linkStrength": 0.795698924731183,
   "linkDistance": 38,
-  "scale": 0.0078125,
+  "scale": 0.08317427835927564,
   "close": false
 }

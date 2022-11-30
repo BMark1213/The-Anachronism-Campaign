@@ -1,5 +1,8 @@
 #dnd/npc/cybr10
 
+[[Eclipse City]]
+
+
 His character's name is ✦Pyrrhuslen, **He/Him**
 
 He is an ✦Rabbitfolk **Sheriff**. They wear ✦Aquamarine clothes with ✦Chartreuse accents.
