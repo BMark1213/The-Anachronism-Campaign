@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Side Story NPCs/The Original Timeline 13879/Groups/The Order of the Deserted Shadow.md",
+                "file": "NPCs/Side Story NPCs/Cyberpunk 101010010/X Æ A-12.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -136,6 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NPCs/Side Story NPCs/Cyberpunk 101010010/X Æ A-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NPCs/Side Story NPCs/Cyberpunk 101010010/X Æ A-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NPCs/Side Story NPCs/Cyberpunk 101010010/X Æ A-12.md"
+              }
             }
           },
           {
@@ -216,8 +220,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d4c7b7cfccc6496",
+  "active": "3beedc153ab1f59f",
   "lastOpenFiles": [
+    "Base Info Folder/Templates/Session Template.md",
+    "Base Info Folder/Templates/NPC Template.md",
     "NPCs/Side Story NPCs/Cyberpunk 101010010/X Æ A-12.md",
     "NPCs/Side Story NPCs/The Original Timeline 13879/Groups/The Order of the Deserted Shadow.md",
     "NPCs/Side Story NPCs/Ocean Earth 1971/Groups/Tirade of Mystics.md",
@@ -225,8 +231,6 @@
     "Worlds-Timelines/The Anachronism (World)/The Anachronism (World).md",
     "Folder Holder/Worlds/Planes of Existence 1/Material Plane 1692 1/Material Plane 1692.md",
     "Folder Holder/Worlds/Planes of Existence 1/Material Plane 1692/Material Plane 1692.md",
-    "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
-    "NPCs/Side Story NPCs/The Original Timeline 13879/Evedarin.md",
-    "Base Info Folder/Table of Contents.md"
+    "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md"
   ]
 }
