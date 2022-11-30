@@ -4,7 +4,7 @@ tags: [timeline, inftime]
 
 Creation at infinite time
 
-[[The Anachronism Tavern]]
+[[Worlds-Timelines/The Anachronism (World)/The Anachronism Tavern]]
 
 
 <span 

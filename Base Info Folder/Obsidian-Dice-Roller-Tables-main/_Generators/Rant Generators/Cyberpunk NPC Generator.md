@@ -180,11 +180,11 @@ color default
 			[if: <unestablished ? @true>]
 				{
 				
-				"✧`dice: #dnd/npc|link`"|
+				"✧`dice: #dnd/npc/cybr10|link`"|
 				
-				"✧`dice: #dnd/npc|link`"|
+				"✧`dice: #dnd/npc/cybr10|link`"|
 				
-				"✧`dice: #dnd/factions|link`"|
+				"✧`dice: #dnd/factions/cybr10|link`"|
 				
 				"✦`dice: [[Name Dice Tables#^names]]`"\0[sel:<gendersync>]{[masc]|[femme]|} 
 				
@@ -200,7 +200,7 @@ color default
 				
 				"✧`dice: #dnd/pc|link`"|
 				
-				"✧`dice: #dnd/npc|link`"
+				"✧`dice: #dnd/npc/cybr10|link`"
 				
 				}
 		}
@@ -287,7 +287,7 @@ color default
 
 \r"## Additional"
 
-\r <pronouns/they> <pronouns/isare> from {"✧`dice: #dnd/town|link`"|"✧`dice: #DND/Region|link`"}
+\r <pronouns/they> <pronouns/isare> from {"✧`dice: #dnd/town/cybr10|link`"|"✧`dice: #DND/Region|link`"}
 
 \r\r If <pronouns/they> must take up arms, <pronouns/they> would be a <mark-custom>"**"<selected-job/class>"**</mark>".
 

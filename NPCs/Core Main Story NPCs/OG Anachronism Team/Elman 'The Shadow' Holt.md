@@ -7,7 +7,7 @@
 [[Zatana Wynlana]]
 
 
-Originally from [[Phospheu]]
+Originally from [[Worlds-Timelines/Ocean Earth 1971/Phospheu/Phospheu]]
 
 Captain of [[The Apocrypha]]
 

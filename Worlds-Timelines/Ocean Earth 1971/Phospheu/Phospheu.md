@@ -1,3 +1,3 @@
-[[Ocean Earth 1971]]
+[[Worlds-Timelines/Ocean Earth 1971/Ocean Earth 1971]]
 
 #City_Town 

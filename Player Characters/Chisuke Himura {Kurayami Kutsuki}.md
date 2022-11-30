@@ -1,8 +1,10 @@
 #Player
 
-[[Steampunk Earth 966]]
+#dnd/pc
 
-Kurayami Kutsuki (Chisuke Himura) was born in the city of [[Rale]] and doesn’t have anyone he considers family. He has a mom ([[Emica Kutsuki]]), a dad ([[Chikao Kutsuki]]), and a brother ([[Akira Kutsuki]]), but he never felt like he belonged to anybody nor did he grow up with anybody to look up to. He was poor and his home life was rough as his mother would abuse him and he had developed severe anger issues, impulsive behaviors, and mood swings. He found music as an escape, or a way to distract himself. He would try his best to stay away from home for long periods of time and ended up getting involved with the wrong people. He looked to violence and theft to earn money and/or exert his emotions. His brother was much more accepted into the family than he ever was and felt like a punching bag, or a good for nothing in his family. His anger and impulsivity increasingly worsened as did the abuse from his mother. He also started to go insane, having constant thoughts of violence and fantasizing about running away. He developed a plan when he was 14, knowing he’d need a way to adopt a whole new identity… 
+[[Worlds-Timelines/Steampunk Earth 966/Steampunk Earth 966]]
+
+Kurayami Kutsuki (Chisuke Himura) was born in the city of [[Worlds-Timelines/Steampunk Earth 966/Rale]] and doesn’t have anyone he considers family. He has a mom ([[Emica Kutsuki]]), a dad ([[Chikao Kutsuki]]), and a brother ([[Akira Kutsuki]]), but he never felt like he belonged to anybody nor did he grow up with anybody to look up to. He was poor and his home life was rough as his mother would abuse him and he had developed severe anger issues, impulsive behaviors, and mood swings. He found music as an escape, or a way to distract himself. He would try his best to stay away from home for long periods of time and ended up getting involved with the wrong people. He looked to violence and theft to earn money and/or exert his emotions. His brother was much more accepted into the family than he ever was and felt like a punching bag, or a good for nothing in his family. His anger and impulsivity increasingly worsened as did the abuse from his mother. He also started to go insane, having constant thoughts of violence and fantasizing about running away. He developed a plan when he was 14, knowing he’d need a way to adopt a whole new identity… 
 
   
 
@@ -20,7 +22,7 @@ Fun facts:
 
 Log 0: 14 yrs old (February 6th)
 
-I found a guy, his name is [[NPCs/Side Story NPCs/Chisuke/Cassius]], same age, looks pretty similar, he’s the one. 
+I found a guy, his name is [[Cassius]], same age, looks pretty similar, he’s the one. 
 
 List of what to take:
 
