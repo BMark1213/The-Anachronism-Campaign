@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Side Story NPCs/The Original Timeline 13879/Groups/The Order of the Deserted Shadow.md",
+                "file": "Real Life/Guests/Azul Girola.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Real Life/Guests/Azul Girola.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Real Life/Guests/Azul Girola.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Real Life/Guests/Azul Girola.md"
+              }
             }
           },
           {
@@ -197,7 +202,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d4c7b7cfccc6496",
+  "active": "d44f09019474d79d",
   "lastOpenFiles": [
     "NPCs/Side Story NPCs/The Original Timeline 13879/Groups/The Order of the Deserted Shadow.md",
     "NPCs/Side Story NPCs/Steampunk Earth 966/Chisuke/OG Chisuke.md",
