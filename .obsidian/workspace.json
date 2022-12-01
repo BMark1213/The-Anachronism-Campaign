@@ -34,12 +34,9 @@
             "id": "3c03cb8782baacfb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Real Life/Guests/Azul Girola.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Base Info Folder/Images/Artifacts/Pretzel The Frogtopus.jpg"
               }
             }
           },
@@ -95,7 +92,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base Info Folder/Images/Artifacts/Pretzel The Frogtopus.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base Info Folder/Images/Artifacts/Pretzel The Frogtopus.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base Info Folder/Images/Artifacts/Pretzel The Frogtopus.jpg"
+              }
             }
           },
           {
@@ -249,8 +251,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d4c7b7cfccc6496",
+  "active": "3c03cb8782baacfb",
   "lastOpenFiles": [
+    "Base Info Folder/Templates/Session Template.md",
     "Real Life/Guests/Azul Girola.md",
     "Real Life/Places/New World School of the Arts.md",
     "Real Life/Places/Miami Arts Charter School/Miami Arts Charter School.md",
@@ -259,7 +262,6 @@
     "Real Life/Players/Brianna Markson.md",
     "Real Life/Guests/Luciano Angiolini.md",
     "Real Life/Places/Miami Arts Charter School/Theatre Department.md",
-    "Real Life/Places/Miami Arts Charter School/Dance Department.md",
-    "Real Life/Places/French Woods Festival/Fire Spinning.md"
+    "Real Life/Places/Miami Arts Charter School/Dance Department.md"
   ]
 }
