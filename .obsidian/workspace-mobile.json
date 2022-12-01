@@ -10,11 +10,34 @@
           {
             "id": "0be0680fad59d284",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "08ef45ad18f6c566",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deity Generator.md",
-                "mode": "preview",
+                "file": "Real Life/Guests/Alex Taube.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbac891a5881c97b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Real Life/Guests/Azul Girola.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -35,7 +58,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "byCreatedTime"
           }
         }
       },
@@ -74,7 +97,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "39da13c0cd56c14c",
@@ -86,7 +110,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deity Generator.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +126,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deity Generator.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,9 +136,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deity Generator.md"
-          }
+          "state": {}
         }
       },
       {
@@ -146,17 +166,17 @@
     ],
     "currentTab": 0
   },
-  "active": "0cf3b1ae8371fd72",
+  "active": "0be0680fad59d284",
   "lastOpenFiles": [
-    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Angel Generator.md",
-    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deity Generator.md",
-    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Rant Generators/New NPC Generator.md",
-    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/NPC Generator.md",
-    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City.md",
-    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
-    "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
-    "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md",
-    "Base Info Folder/Timelines/Tester (If it worked be happy).md",
-    "Main Story Points/The Anachronism/Zatana Wynlana/The Rift Walkers Gem.md"
+    "Real Life/Guests/Alex Taube.md",
+    "Real Life/Guests/Azul Girola.md",
+    "Real Life/Guests/Luciano Angiolini.md",
+    "Real Life/Players/Sienna Faze.md",
+    "Real Life/Players/Daniel Ohalloran.md",
+    "Real Life/Players/Brianna Markson.md",
+    "Real Life/Players/Carolina Benedetti.md",
+    "Real Life/Players/Elijah Ford.md",
+    "Real Life/Places/French Woods Festival/Fire Spinning.md",
+    "Real Life/Places/Miami Arts Charter School/Theatre Department.md"
   ]
 }
