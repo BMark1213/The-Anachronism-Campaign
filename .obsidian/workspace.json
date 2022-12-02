@@ -34,10 +34,8 @@
             "id": "3c03cb8782baacfb",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Base Info Folder/Images/Artifacts/Pretzel The Frogtopus.jpg"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -167,7 +165,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base Info Folder/Images/Artifacts/Pretzel The Frogtopus.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +181,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base Info Folder/Images/Artifacts/Pretzel The Frogtopus.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,9 +202,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base Info Folder/Images/Artifacts/Pretzel The Frogtopus.jpg"
-              }
+              "state": {}
             }
           },
           {
