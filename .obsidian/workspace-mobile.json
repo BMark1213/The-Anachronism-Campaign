@@ -18,6 +18,58 @@
             }
           },
           {
+            "id": "c55f63a5e3b8b364",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Important Artifacts/Void Key.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5786fa19df3ddd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Important Artifacts/The Compass of Desire.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bbea17bfa799355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Important Artifacts/Multidimensional Compass of Desire.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bcec952dceca5d4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Important Artifacts/The Compass of Desire.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2fec6f1eff59ef85",
             "type": "leaf",
             "state": {
@@ -155,15 +207,15 @@
   },
   "active": "0be0680fad59d284",
   "lastOpenFiles": [
+    "Important Artifacts/Void Key.md",
+    "Important Artifacts/Multidimensional Compass of Desire.md",
+    "Important Artifacts/The Compass of Desire.md",
+    "Base Info Folder/Images/Artifacts/Multidimensional_Compass_of_Desire.jpg",
+    "Base Info Folder/Images/Artifacts/Compass_of_Desire.JPG",
+    "NPCs/Side Story NPCs/Riptide World/Niklaus Hendrix.md",
+    "Important Artifacts/Wanjala’s Ring.md",
     "NPCs/Side Story NPCs/Riptide World/The Owner.md",
     "NPCs/Side Story NPCs/Riptide World/Chip.md",
-    "NPCs/Side Story NPCs/Riptide World/Jay Ferin.md",
-    "NPCs/Side Story NPCs/Riptide World/Gillion Tidestrider.md",
-    "NPCs/Side Story NPCs/Riptide World/Pretzel.md",
-    "NPCs/Side Story NPCs/Riptide World/Old Man Earl.md",
-    "Base Info Folder/Images/NPCs/Gillion_Tidestrider.jpg",
-    "Worlds-Timelines/Riptide (World)/The Big Chipper.md",
-    "Worlds-Timelines/Riptide (World)/The Albatross (Millennium Chipper).md",
-    "NPCs/Family NPCs/TJ/The Apocrypha/The Apocrypha.md"
+    "NPCs/Side Story NPCs/Riptide World/Jay Ferin.md"
   ]
 }
