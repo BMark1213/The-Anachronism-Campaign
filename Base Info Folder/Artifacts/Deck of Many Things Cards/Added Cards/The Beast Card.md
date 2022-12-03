@@ -1,0 +1,1 @@
+Once per day, you can Wildshape. Upon transforming back into your normal self you take 1 point of Exhaustion. (By True_Empire91)

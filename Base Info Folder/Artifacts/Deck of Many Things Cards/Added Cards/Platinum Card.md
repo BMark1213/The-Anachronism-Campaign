@@ -1,0 +1,1 @@
+All platinum you possess (wherever it is) is tripled, but teleported to the lair of a powerful monster or dragon. The name of the monster appears on the card before disappearing. (By Sunkain)

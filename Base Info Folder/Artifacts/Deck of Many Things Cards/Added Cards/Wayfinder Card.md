@@ -1,0 +1,1 @@
+A gate to another dimension appears before the character. This gate connects to the GM's choice of Sigil, The Outlands, The Astral Plane, or another Material Plane. Regardless of the GM's choice, the other side of this gate is guarded by both an Androsphinx and a Gynosphinx that the players will need to bypass in order to freely pass through the gate. (By TheDrunkenMagi)

@@ -1,0 +1,2 @@
+If you single-handedly defeat the next [Hostile](https://roll20.net/compendium/dnd5e/Mysterious%20Islands#h-Hostile) monster or group of [Monsters](https://roll20.net/compendium/dnd5e/Monsters#h-Monsters)you encounter, you gain [Experience Points](https://roll20.net/compendium/dnd5e/Experience%20Points#h-Experience%20Points) enough to gain one level. Otherwise, this card has no [Effect](https://roll20.net/compendium/dnd5e/Wheel%20of%20Fortune#h-Effect).
+

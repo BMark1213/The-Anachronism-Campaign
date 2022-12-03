@@ -1,0 +1,1 @@
+If the drawer of the card owns some type of vehicle (cart, boat, etc.), they will become magically connected with that vehicle. They are able to call that vehicle at will and the vehicle gains a mind of its own.

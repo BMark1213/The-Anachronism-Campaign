@@ -1,0 +1,1 @@
+A card with a sinister looking jester playing a dubious prank. This card does literally nothing. Your PC doesn't need to know this however. Perhaps it could do something different upon vanishing that could add to their unease.

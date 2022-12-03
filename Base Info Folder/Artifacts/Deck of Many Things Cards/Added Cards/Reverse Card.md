@@ -1,0 +1,1 @@
+ Allows the user to hold up the card to deflect things back at the person who the card is facing, once per short or long rest. (By Abs0lutely_N0thing)

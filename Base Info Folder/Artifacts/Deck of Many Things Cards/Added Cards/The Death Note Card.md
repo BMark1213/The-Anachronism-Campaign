@@ -1,0 +1,1 @@
+The first name that is written on this card immediately dies, they start with 2 successes and 2 Fails. 

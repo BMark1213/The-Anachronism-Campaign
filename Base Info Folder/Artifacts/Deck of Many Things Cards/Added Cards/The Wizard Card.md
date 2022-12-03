@@ -1,0 +1,1 @@
+You may choose a spell from the first level list of wizard spells and once per day that spell may be cast without expending a spell slot. Using it at higher tiers still uses higher tier spell slots.

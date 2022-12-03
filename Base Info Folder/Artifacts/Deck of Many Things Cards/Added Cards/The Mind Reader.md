@@ -1,0 +1,1 @@
+You gain the psychic abilities of an Illithid but also gain the face sucking tentacles. (By AllHailMackius)

@@ -1,0 +1,1 @@
+The character can hide their facial features at will.

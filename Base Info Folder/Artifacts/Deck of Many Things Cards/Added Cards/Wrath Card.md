@@ -1,0 +1,1 @@
+You gain the flaw "I am quick to anger, driven to extract vengeance from those who have wronged me and a real bear first thing in the morning." (By oddtwang)

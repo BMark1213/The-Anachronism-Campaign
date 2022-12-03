@@ -1,0 +1,1 @@
+You forever feel sickened when in the presence of evil-aligned people, and forever anxious around those of chaotic alignment. (By ergotofwhy)

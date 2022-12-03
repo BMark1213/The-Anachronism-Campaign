@@ -1,0 +1,1 @@
+Your skin crystallizes. Your speed decreases by 5 feet and you are put under the effect of a stoneskin spell. (By ThanosHeffley)

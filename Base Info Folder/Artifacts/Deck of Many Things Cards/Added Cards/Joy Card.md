@@ -1,0 +1,1 @@
+You find yourself overcome with obnoxious optimism. No matter what happens you always feel like it’s going to turn out okay. You become immune to being frightened but gain disadvantage on insight checks. This can be dismissed by the wish spell or by being knocked unconscious by a hostile creature. (By Spearhartt)

@@ -1,0 +1,1 @@
+For one hour, you have the exact funds to purchase anything you want. Just reach into your backpack and the gold coins are there. (By infinitum3d)

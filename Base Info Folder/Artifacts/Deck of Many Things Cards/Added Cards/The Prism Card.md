@@ -1,0 +1,1 @@
+The character can alter their body's color to whatever they wish at will.

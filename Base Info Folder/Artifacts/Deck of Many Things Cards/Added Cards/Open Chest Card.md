@@ -1,0 +1,1 @@
+The image of an open box resting on the ground grants the person who drew the card a random magical item of random rarity determined by the DM using either the magic tables in the DMG or the DMs choice

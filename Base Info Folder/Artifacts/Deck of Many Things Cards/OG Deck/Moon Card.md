@@ -1,0 +1,1 @@
+You are granted the ability to cast the wish spell 1d3 times.

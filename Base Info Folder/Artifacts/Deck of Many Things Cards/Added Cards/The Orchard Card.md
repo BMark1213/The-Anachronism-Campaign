@@ -1,0 +1,1 @@
+You gain an apple, that, when bitten into, heals itself over time, effectively granting you infinite food. However, if another person were to bite the apple, it would become just a normal apple. [Your character does not know this.] (By LongIslandBall)

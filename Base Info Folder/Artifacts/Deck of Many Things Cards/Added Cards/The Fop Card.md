@@ -1,0 +1,1 @@
+For one hour, you fail every skill test, attack roll, and saving throw. You cannot succeed at anything. (By infinitum3d)

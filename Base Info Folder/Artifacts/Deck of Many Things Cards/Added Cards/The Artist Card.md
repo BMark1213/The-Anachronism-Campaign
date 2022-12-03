@@ -1,0 +1,1 @@
+Your character is now exceptionally skilled in a random art(painting, cooking, singing, etc.) and is known around the world for their talent. (By Silverdragon701)

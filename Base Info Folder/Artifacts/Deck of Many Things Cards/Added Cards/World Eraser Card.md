@@ -1,0 +1,1 @@
+You may fully erase one world from the everlasting multiverse. Some universes may be protected by an outside source, if this is the case you do get to chose a different one.

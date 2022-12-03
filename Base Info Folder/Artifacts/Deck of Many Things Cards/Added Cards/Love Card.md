@@ -1,0 +1,1 @@
+You fall in love with the next non-hostile humanoid stranger you meet. You have disadvantage on any malicious skill checks against this person. This can be dismissed by the Wish spell or an act of true love by someone else towards you. (By Spearhartt)

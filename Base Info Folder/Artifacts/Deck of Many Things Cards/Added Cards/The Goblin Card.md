@@ -1,0 +1,1 @@
+Permanently gain +2 to dexterity and Constitution Permanently lose -2 to charisma and intelligence (By fwimmygoat)

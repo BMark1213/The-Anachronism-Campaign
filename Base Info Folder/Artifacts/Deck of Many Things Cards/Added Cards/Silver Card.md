@@ -1,0 +1,1 @@
+You become vulnerable to silver weapons. When you touch silver at the end of your turn, you gain a level of exhaustion (By Sunkain)

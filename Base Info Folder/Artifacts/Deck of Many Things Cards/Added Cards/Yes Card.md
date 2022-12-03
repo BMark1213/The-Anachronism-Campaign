@@ -1,0 +1,1 @@
+For the next two weeks your character cannot decline any offers for samples, work, quests, magic items, etc. and cannot say the word "no" or similar. (By Sirvantis)

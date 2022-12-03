@@ -1,0 +1,1 @@
++2 AC, disadvantage on Dex saving throws as your skin becomes a hardy but unwieldy mottled grey colour (By sjeveburger)

@@ -1,0 +1,1 @@
+Permanently reduce your [Intelligence](https://roll20.net/compendium/dnd5e/Ability%20Scores#h-Intelligence) by 1d4 + 1 (to a minimum score of 1). You can draw one additional card beyond your declared draws.

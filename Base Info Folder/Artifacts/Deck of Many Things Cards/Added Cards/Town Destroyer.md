@@ -1,0 +1,1 @@
+You can destroy any town you would like at will just by placing this card down in the town square. Some towns may be protected by an outside source, if this is the case you do get to chose a different one.

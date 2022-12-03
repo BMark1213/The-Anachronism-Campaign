@@ -1,0 +1,1 @@
+You are rendered mute until someone says your name three times. You cannot speak or cast any verbal spells during this time. (Your party does not know this). (By Jorster)

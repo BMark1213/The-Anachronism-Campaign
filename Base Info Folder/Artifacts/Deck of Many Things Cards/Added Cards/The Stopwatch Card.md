@@ -1,0 +1,1 @@
+You gain a small tattoo of an oddly-shaped arrow somewhere on your body. The tattoo is imbued with magical power, and will appear as a transmutation effect when viewed with _Detect Magic_. As an action, you may invoke this power to cast _Time Stop_. Once the spell ends, the power is lost forever. (By Ae3qe27u)

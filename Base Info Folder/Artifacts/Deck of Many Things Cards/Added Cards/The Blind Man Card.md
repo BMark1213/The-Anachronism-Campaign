@@ -1,0 +1,1 @@
+Your character is now permanently blinded, physically losing their eyes, and gains tremorsense up to 30 feet. (By Silverdragon701)
