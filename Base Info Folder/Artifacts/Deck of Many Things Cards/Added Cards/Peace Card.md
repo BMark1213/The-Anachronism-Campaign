@@ -1,0 +1,1 @@
+You gain the Calm Emotions spell and can cast it for free once per long rest. (By Spearhartt)

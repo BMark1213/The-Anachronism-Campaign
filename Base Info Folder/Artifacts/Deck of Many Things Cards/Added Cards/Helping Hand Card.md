@@ -1,0 +1,1 @@
+You can cast mage hand if you couldn't before. this doesn't require a spell slot. (By Tobymaxgames)

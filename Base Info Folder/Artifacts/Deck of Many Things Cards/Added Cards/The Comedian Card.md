@@ -1,0 +1,1 @@
++2 To charisma skill checks and saving throws. -1 to all others.

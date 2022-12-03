@@ -1,0 +1,1 @@
+If you’re the last person to enter a room, speak in a conversation, or take your turn in combat, you gain advantage on your next skill check relevant to that scenario. If you are the first, you have disadvantage. (By Spearhartt)

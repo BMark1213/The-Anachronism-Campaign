@@ -1,0 +1,1 @@
+You gain resistance to psychic damage and are less impulsive overall. Barbarians temporary lose these effects when raging. (By Spearhartt)

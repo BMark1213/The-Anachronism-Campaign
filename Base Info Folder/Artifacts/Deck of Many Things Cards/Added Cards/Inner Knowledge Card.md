@@ -1,0 +1,1 @@
+Given your alignment, you now know all flaws you may have that keep you from becoming your perfect self, and how to fix them. You gain one level in the Monk class.

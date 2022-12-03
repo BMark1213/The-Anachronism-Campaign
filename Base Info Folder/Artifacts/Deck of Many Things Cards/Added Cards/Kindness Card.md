@@ -1,0 +1,1 @@
+You find yourself drawn towards charity. For the next 1D6 days, anytime you see someone or something in need and you can assist in any way, you feel compelled to do so. This includes things such as healing, giving away your money, or assisting in a task that doesn’t take longer than the duration rolled earlier. (By Spearhartt)

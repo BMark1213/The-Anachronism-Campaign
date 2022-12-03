@@ -1,0 +1,1 @@
+The deck of many things vanishes. (By Sirvantis)

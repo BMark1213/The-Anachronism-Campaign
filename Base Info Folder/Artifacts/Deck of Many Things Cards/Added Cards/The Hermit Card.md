@@ -1,0 +1,1 @@
+You gain disavantage on any charisma checks. You gain advantage on any wisdom checks. Can be undone by a wish spell. (By awesomemanswag)

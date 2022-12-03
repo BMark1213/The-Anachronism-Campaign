@@ -1,0 +1,1 @@
+The Card - This card features the image of a card on it. It negates all effects of the next card you draw. (By The_Incredible_Thulk)

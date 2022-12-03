@@ -1,0 +1,1 @@
+ You can always choose to be third in the Initiative Order in combat (By Sunkain)

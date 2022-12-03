@@ -1,0 +1,2 @@
+
+From now on all creatures the character encounters with intelligence 6 or greater are initially friendly towards the character. This effect does not change their opinion of the character's companions and does not mean they will treat them as an equal. (By TheDrunkenMagi)

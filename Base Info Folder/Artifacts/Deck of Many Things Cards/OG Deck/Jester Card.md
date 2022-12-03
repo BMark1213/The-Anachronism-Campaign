@@ -1,0 +1,1 @@
+You instantaneously level up and gain a memory important to your past, or you can draw two additional cards beyond your declared draws.

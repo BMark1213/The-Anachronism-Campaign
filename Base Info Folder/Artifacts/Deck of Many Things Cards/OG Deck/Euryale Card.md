@@ -1,0 +1,1 @@
+The card's medusa-like visage [Curses](https://roll20.net/compendium/dnd5e/Curses#h-Curses) you. You take a -2 penalty on [Saving Throws](https://roll20.net/compendium/dnd5e/Saving%20Throws#h-Saving%20Throws) while [Cursed](https://roll20.net/compendium/dnd5e/Mysterious%20Islands#h-Cursed) in this way. Only a god or the magic of The Fates card can end this curse.

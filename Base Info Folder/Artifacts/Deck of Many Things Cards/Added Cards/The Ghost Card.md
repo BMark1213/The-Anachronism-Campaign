@@ -1,0 +1,1 @@
+You immediately become semi-transparent, along with all clothing and equipment that you don (items lose this state if contact is lost). You are unable to change your opacity beyond this; you cannot turn invisible, or be made more visible (except by means of a wish spell). (By vysken)

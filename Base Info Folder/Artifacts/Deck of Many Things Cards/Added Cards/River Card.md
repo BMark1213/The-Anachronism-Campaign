@@ -1,0 +1,1 @@
+The character loses one random magic item and gains another. If they don't have one in the first place, they get a very minor item.

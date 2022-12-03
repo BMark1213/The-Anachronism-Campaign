@@ -1,0 +1,1 @@
+Light seems to dim when you are around. If you are in bright light, it becomes dim light for a 60 ft radius around you. If you are in dim light, it become dark for a 60 ft radius around you. Creatures can not see you, unless they have true sight, if you are in dim light.

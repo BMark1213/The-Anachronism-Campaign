@@ -1,0 +1,1 @@
+Your character dies and the spell reincarnation is cast on your character. (By Chopperuofl)

@@ -1,0 +1,1 @@
+This card immediately transforms into a +3 Warhammer that deals an additional 1d8 fire damage on a hit. The person who drew this card becomes proficient with Warhammers and loses all other weapon proficiencies. (By True_Empire91)

@@ -1,0 +1,1 @@
+A random person you have met throughout your adventure becomes hopelessly, obsessively in love with you

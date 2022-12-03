@@ -1,0 +1,1 @@
+A great beast has your scent. It will arrive in 1d10+5 days or at the DM’s choosing. Only you can slay the beast and all damage not caused by you directly or indirectly (such as through traps) is halved. (By Astr0C4t)

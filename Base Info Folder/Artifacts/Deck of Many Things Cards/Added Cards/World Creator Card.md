@@ -1,0 +1,1 @@
+You can fully create a Universe that is incorporated into the multiverse. You  act like a god for this world. You can shape it to you liking. You may not take any magical items you create in this world. The items created for this world/in this world are bound to it. 

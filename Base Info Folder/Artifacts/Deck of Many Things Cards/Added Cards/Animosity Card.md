@@ -1,0 +1,1 @@
+From now on all creatures the character encounters with intelligence 6 or greater are initially hostile towards the character. This effect does not change their opinion of the character's companions and does not necessarily mean they will attack on sight. (By TheDrunkenMagi)

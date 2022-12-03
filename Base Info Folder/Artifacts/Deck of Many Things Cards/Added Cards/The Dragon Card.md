@@ -1,0 +1,1 @@
+The entire contents of the nearest dragon's horde is placed before you. Immediately after, the dragon is made aware of your name, appearance and current location. The dragon believes you culpable and cannot be convinced otherwise. (By rstarr13)

@@ -1,0 +1,1 @@
+Your character is now a pathological liar and must make a Wisdom saving throw to tell the truth about anything their audience doesn’t already know(I.E, can state the obvious, but must roll to explain a plan or tell a secret truthfully). (By Silverdragon701)

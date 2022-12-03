@@ -1,0 +1,1 @@
+The card puller gains a +3 to all charisma skill tests for 24 hours (By infinitum3d)

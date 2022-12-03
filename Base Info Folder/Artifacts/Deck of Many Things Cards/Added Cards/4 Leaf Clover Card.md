@@ -1,0 +1,1 @@
+You gain the Lucky feat, but you have also gained The Fates disdain. When you re-roll your dice using the Lucky feat roll an additional 1d4 and subtract it from your new roll.

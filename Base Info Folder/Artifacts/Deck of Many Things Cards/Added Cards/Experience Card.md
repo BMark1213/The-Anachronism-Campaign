@@ -1,0 +1,1 @@
+Your mind speeds up, enhancing your senses and reflexes but leaving you more exposed to mental assault. You gain advantage on Dexterity saving throws and Wisdom (Perception) checks, but gain disadvantage on Wisdom saving throws and vulnerability to psychic damage. A Greater Restoration spell can end this effect. (By Cruye)

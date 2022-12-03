@@ -1,0 +1,1 @@
+A force of immense change you may use this card to change one _small_ moment in the past. This will have rippling effects through time to the present day. Choose wisely. (By faerieunderfoot)

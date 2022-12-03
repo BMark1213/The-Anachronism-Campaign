@@ -1,0 +1,1 @@
+You find yourself overcome with obnoxious pessimism . No matter what happens you always feel like it’s going to turn out bad. You become immune to being charmed but gain disadvantage on performance checks. This can be dismissed by the wish spell or by being knocked unconscious by a hostile creature. (By Spearhartt)

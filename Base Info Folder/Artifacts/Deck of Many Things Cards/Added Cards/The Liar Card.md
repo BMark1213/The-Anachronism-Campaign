@@ -1,0 +1,1 @@
+You gain advantage on Deception checks but you are unable to tell the truth — your party has to roll Insight checks whenever you reveal to them information (By Researcher_Boi_314)

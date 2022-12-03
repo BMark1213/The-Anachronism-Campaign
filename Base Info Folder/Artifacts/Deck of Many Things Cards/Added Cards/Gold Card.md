@@ -1,0 +1,1 @@
+You double all Gold coin you possess on this plane (so not in a bag of holding) (By Sunkain)

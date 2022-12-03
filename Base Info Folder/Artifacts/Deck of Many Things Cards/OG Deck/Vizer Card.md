@@ -1,0 +1,1 @@
+ At any time you choose within one year of drawing this card, you can ask a question in meditation and mentally receive a truthful answer to that question. Besides information, the answer helps you solve a puzzling problem or other dilemma. In other words, the knowledge comes with [Wisdom](https://roll20.net/compendium/dnd5e/Ability%20Scores#h-Wisdom) on how to apply it.

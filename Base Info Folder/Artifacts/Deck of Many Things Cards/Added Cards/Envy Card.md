@@ -1,0 +1,1 @@
+Rather than sharing in their victory, your PC becomes saddened at the successes of those closest to them. Every time a party member besides the players rolls a natural 20 on a skill check, you have disadvantage on your next skill check. (By a combination of Spearhartt and Dan-Han-Man)

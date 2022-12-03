@@ -1,0 +1,1 @@
+You can cast the Creation, Greater Restoration, Mass Cure Wounds or Wall of Stone spells once per day. (By Cruye)

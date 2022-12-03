@@ -1,0 +1,1 @@
+You can no longer feel intoxicated, no matter how much you drink. Furthermore, you are made immune to damage/drain of your int, wis, and cha, but also immune to effects that raise those abilities (By ergotofwhy)

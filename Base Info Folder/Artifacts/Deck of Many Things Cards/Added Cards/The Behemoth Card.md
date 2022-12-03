@@ -1,0 +1,1 @@
+When next the character is slain in battle, they shall rise again with temporary hit points double that of the nearest healthy enemy. For the battle, they lose the ability to cast spells, but their Strength score temporarily increases to 30 (+10). When the last nearby enemy dies, they return to normal, and are rendered unconscious, but stable at 1 hit point. (By RollinThundaga)

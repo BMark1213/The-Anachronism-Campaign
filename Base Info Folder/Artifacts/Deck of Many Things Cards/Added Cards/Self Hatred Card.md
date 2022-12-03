@@ -1,0 +1,1 @@
+Whoever draws this card immediately understands to an instinctual, spiritual, emotional, and/or philosophical degree why their most hated enemy/enemies are the way they are and are doing what they're doing. They are able to completely sympathise. (By AndrewRequiem)

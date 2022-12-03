@@ -1,0 +1,1 @@
+You immediately contract a poison that will kill you in 1d10 days. The only way to cure it is with a potato from a different continent. (Your character and party know this) 
