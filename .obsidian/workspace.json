@@ -23,19 +23,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Real Life/Places/Miami Arts Charter School/Miami Arts Charter School.md",
-                "mode": "source",
+                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deck of Many Things Generators.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "3c03cb8782baacfb",
+            "id": "ed564eac9782856e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deck of Many Things Generators.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -50,48 +55,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fc6aba1185448020",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Real Life/Events/The Anachronism Campaign.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9211489d6d1fbcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Real Life/Events/The Last Yam Inn Campaign.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d4ec0a65f5083bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deck of Many Things Generators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deck of Many Things Generators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deck of Many Things Generators.md"
+              }
             }
           },
           {
@@ -245,17 +215,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3c03cb8782baacfb",
+  "active": "7b60db246f45683f",
   "lastOpenFiles": [
+    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/Tables/Deck of Many Things Dice Tables.md",
+    "Real Life/Places/Miami Arts Charter School/Miami Arts Charter School.md",
+    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/NPC Generator.md",
+    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deck of Many Things Generators.md",
+    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/Tables/Misc Dice Tables.md",
+    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/Tables/Location Dice Tables.md",
     "Base Info Folder/Templates/Session Template.md",
     "Real Life/Guests/Azul Girola.md",
     "Real Life/Places/New World School of the Arts.md",
-    "Real Life/Places/Miami Arts Charter School/Miami Arts Charter School.md",
-    "Real Life/Events/The Anachronism Campaign.md",
-    "Real Life/Guests/Skyler Davenport.md",
-    "Real Life/Players/Brianna Markson.md",
-    "Real Life/Guests/Luciano Angiolini.md",
-    "Real Life/Places/Miami Arts Charter School/Theatre Department.md",
-    "Real Life/Places/Miami Arts Charter School/Dance Department.md"
+    "Real Life/Events/The Anachronism Campaign.md"
   ]
 }
