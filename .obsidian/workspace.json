@@ -18,6 +18,19 @@
             }
           },
           {
+            "id": "9c00f8a7ac6a8bf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Characters/Pets/Chrisclonk.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7b60db246f45683f",
             "type": "leaf",
             "state": {
@@ -56,7 +69,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Player Characters/Pets/Chrisclonk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Player Characters/Pets/Chrisclonk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Player Characters/Pets/Chrisclonk.md"
+              }
             }
           },
           {
@@ -210,8 +228,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d4c7b7cfccc6496",
+  "active": "9c00f8a7ac6a8bf0",
   "lastOpenFiles": [
+    "Player Characters/Pets/Chrisclonk.md",
     "NPCs/Family NPCs/Cirice/Sin.md",
     "Worlds-Timelines/Ocean Earth 1971/Ocean Earth 1971.md",
     "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deck of Many Things Generators.md",
@@ -220,7 +239,6 @@
     "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/NPC Generator.md",
     "Base Info Folder/Obsidian-Dice-Roller-Tables-main/Tables/Misc Dice Tables.md",
     "Base Info Folder/Obsidian-Dice-Roller-Tables-main/Tables/Location Dice Tables.md",
-    "Base Info Folder/Templates/Session Template.md",
-    "Real Life/Guests/Azul Girola.md"
+    "Base Info Folder/Templates/Session Template.md"
   ]
 }
