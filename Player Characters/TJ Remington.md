@@ -2,7 +2,7 @@
 
 #dnd/pc
 
-TJ Remington was born in the city of [[Worlds-Timelines/Ocean Earth 1971/Phospheu/Phospheu]], 1971 to [[Rosalie Remington]] and [[Jasper Remington]]. The town is rumored by its inhabitants to be haunted, but below the surface, there’s something deeper going on. TJ knows this, and has never been scared to welcome the town into his heart as it is. Phosphaeu has given him everything. Because his parents frequently argue, TJ is always out of the house, usually exploring the uncharted parts of town or studying at the library. 
+TJ Remington was born in the city of [[Phospheu]], 1971 to [[Rosalie Remington]] and [[Jasper Remington]]. The town is rumored by its inhabitants to be haunted, but below the surface, there’s something deeper going on. TJ knows this, and has never been scared to welcome the town into his heart as it is. Phosphaeu has given him everything. Because his parents frequently argue, TJ is always out of the house, usually exploring the uncharted parts of town or studying at the library. 
 
 TJ’s mother, Rosalie, is part of an Underground Wizardry Committee, unbeknownst to her husband or son--or anyone. The committee moves in secret, though some rebels like to use their magic to trick people or get what they want. When she and Jasper start to argue in public, Rosalie tries to love-spell him, but a rivaling wizard member catches and seizes her. Instantly, she is taken to the rivaling group’s base after the wizard erases the memory of all their witnesses. 
 

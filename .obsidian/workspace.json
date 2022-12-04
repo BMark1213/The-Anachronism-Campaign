@@ -8,6 +8,25 @@
         "type": "tabs",
         "children": [
           {
+            "id": "b9171ff6e65fa900",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3cb30e09a6118d38",
+        "type": "tabs",
+        "children": [
+          {
             "id": "9d4c7b7cfccc6496",
             "type": "leaf",
             "pinned": true,
@@ -16,58 +35,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "9c00f8a7ac6a8bf0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Base Info Folder/Images/StatBlocks/Chrisclonk_Stats.png"
-              }
-            }
-          },
-          {
-            "id": "7b60db246f45683f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Family NPCs/Cirice/Sin.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed564eac9782856e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deck of Many Things Generators.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d44f09019474d79d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Real Life/Guests/Azul Girola.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base Info Folder/Images/StatBlocks/Chrisclonk_Stats.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base Info Folder/Images/StatBlocks/Chrisclonk_Stats.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base Info Folder/Images/StatBlocks/Chrisclonk_Stats.png"
-              }
+              "state": {}
             }
           },
           {
@@ -225,17 +190,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9c00f8a7ac6a8bf0",
+  "active": "9d4c7b7cfccc6496",
   "lastOpenFiles": [
-    "Base Info Folder/Images/Players/Chrisclonk.jpg",
-    "Base Info Folder/Images/Players/Chisuke Himura {Kurayami Kutsuki}.jpeg",
-    "Real Life/Players/Elijah Ford.md",
+    "Player Characters/Chisuke Himura {Kurayami Kutsuki}.md",
+    "Player Characters/Cirice {Keres (Death)}.md",
+    "Player Characters/TJ Remington.md",
+    "Player Characters/Zoltorb Grunklestein.md",
+    "Sessions/Session 1.md",
+    "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md",
+    "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
     "Base Info Folder/Images/StatBlocks/Chrisclonk_Stats.png",
-    "Real Life/Players/Daniel Ohalloran.md",
-    "Real Life/Players/Carolina Benedetti.md",
-    "Player Characters/Pets/Chrisclonk.md",
-    "NPCs/Family NPCs/Cirice/Sin.md",
-    "Worlds-Timelines/Ocean Earth 1971/Ocean Earth 1971.md",
-    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deck of Many Things Generators.md"
+    "Base Info Folder/Images/Players/Chrisclonk.jpg",
+    "Base Info Folder/Images/Players/Chisuke Himura {Kurayami Kutsuki}.jpeg"
   ]
 }
