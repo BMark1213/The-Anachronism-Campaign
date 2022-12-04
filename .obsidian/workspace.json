@@ -23,7 +23,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Base Info Folder/Images/Players/Chisuke Himura {Kurayami Kutsuki}.jpeg"
+                "file": "Base Info Folder/Images/StatBlocks/Chrisclonk_Stats.png"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base Info Folder/Images/Players/Chisuke Himura {Kurayami Kutsuki}.jpeg",
+                "file": "Base Info Folder/Images/StatBlocks/Chrisclonk_Stats.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base Info Folder/Images/Players/Chisuke Himura {Kurayami Kutsuki}.jpeg",
+                "file": "Base Info Folder/Images/StatBlocks/Chrisclonk_Stats.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base Info Folder/Images/Players/Chisuke Himura {Kurayami Kutsuki}.jpeg"
+                "file": "Base Info Folder/Images/StatBlocks/Chrisclonk_Stats.png"
               }
             }
           },
@@ -227,6 +227,8 @@
   },
   "active": "9c00f8a7ac6a8bf0",
   "lastOpenFiles": [
+    "Base Info Folder/Images/Players/Chrisclonk.jpg",
+    "Base Info Folder/Images/Players/Chisuke Himura {Kurayami Kutsuki}.jpeg",
     "Real Life/Players/Elijah Ford.md",
     "Base Info Folder/Images/StatBlocks/Chrisclonk_Stats.png",
     "Real Life/Players/Daniel Ohalloran.md",
@@ -234,8 +236,6 @@
     "Player Characters/Pets/Chrisclonk.md",
     "NPCs/Family NPCs/Cirice/Sin.md",
     "Worlds-Timelines/Ocean Earth 1971/Ocean Earth 1971.md",
-    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deck of Many Things Generators.md",
-    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/Tables/Deck of Many Things Dice Tables.md",
-    "Real Life/Places/Miami Arts Charter School/Miami Arts Charter School.md"
+    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deck of Many Things Generators.md"
   ]
 }
