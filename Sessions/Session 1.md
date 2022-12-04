@@ -1,7 +1,7 @@
 --- 
 
 Session #: 1
-World: The Anachronism (World), Ocean Earth 1971, Steampunk Earth 966, Material Plane 1692, Post Apocalyptic 3564
+World: [[The Anachronism (World)]], [[Ocean Earth 1971]], [[Steampunk Earth 966]], [[Material Plane 1692]], [[Post Apocalyptic 3564]]
 Date: 12/4/2022 
 Game date: Ø/Ø/15051
 Location: The Anachronism Tavern
@@ -24,7 +24,6 @@ All of the players
 - [x] Zoltorb: [[Willow's Stopwatch]]
 - [x] TJ: [[The Captains Coin]]
 - [x] Tell Zatana’s Backstory
-- [ ] 
 
 ## Recap 
 
@@ -58,9 +57,12 @@ All of the players
 
 ## Loot 
 
-- [ ] Cellphone
-- [ ] Artifacts
-- [ ] 
+- Cellphone
+- Chisuke: [[Daiki's Broken Dagger]]
+- Cirice: [[The Clockwork Amulet]]
+- Zoltorb: [[Willow's Stopwatch]]
+- TJ: [[The Captains Coin]]
+- Tell Zatana’s Backstory
 
 --- 
 

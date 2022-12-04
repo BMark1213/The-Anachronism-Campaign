@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 1.md",
+                "file": "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md"
+              }
             }
           },
           {
@@ -190,8 +194,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d4c7b7cfccc6496",
+  "active": "b9171ff6e65fa900",
   "lastOpenFiles": [
+    "Worlds-Timelines/The Anachronism (World)/The Anachronism (World).md",
+    "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
     "Sessions/Session 1.md",
     "Important Artifacts/Players/Daiki's Broken Dagger.md",
     "Important Artifacts/Players/The Captains Coin.md",
@@ -199,8 +205,6 @@
     "Important Artifacts/Players/Willow's Stopwatch.md",
     "Base Info Folder/Images/Artifacts/The_Clockwork_Amulet.png",
     "Base Info Folder/Images/Artifacts/Captians_Coin_Tails.png",
-    "Base Info Folder/Images/Artifacts/Captians_Coin_Heads.png",
-    "Important Artifacts/Heart of the Dessert.md",
-    "Player Characters/Chisuke Himura {Kurayami Kutsuki}.md"
+    "Base Info Folder/Images/Artifacts/Captians_Coin_Heads.png"
   ]
 }
