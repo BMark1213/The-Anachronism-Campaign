@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deck of Many Things Generators.md",
+                "file": "NPCs/Family NPCs/Cirice/Sin.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -56,8 +56,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deck of Many Things Generators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deck of Many Things Generators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deck of Many Things Generators.md"
-              }
+              "state": {}
             }
           },
           {
@@ -215,17 +210,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7b60db246f45683f",
+  "active": "9d4c7b7cfccc6496",
   "lastOpenFiles": [
+    "NPCs/Family NPCs/Cirice/Sin.md",
+    "Worlds-Timelines/Ocean Earth 1971/Ocean Earth 1971.md",
+    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deck of Many Things Generators.md",
     "Base Info Folder/Obsidian-Dice-Roller-Tables-main/Tables/Deck of Many Things Dice Tables.md",
     "Real Life/Places/Miami Arts Charter School/Miami Arts Charter School.md",
     "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/NPC Generator.md",
-    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deck of Many Things Generators.md",
     "Base Info Folder/Obsidian-Dice-Roller-Tables-main/Tables/Misc Dice Tables.md",
     "Base Info Folder/Obsidian-Dice-Roller-Tables-main/Tables/Location Dice Tables.md",
     "Base Info Folder/Templates/Session Template.md",
-    "Real Life/Guests/Azul Girola.md",
-    "Real Life/Places/New World School of the Arts.md",
-    "Real Life/Events/The Anachronism Campaign.md"
+    "Real Life/Guests/Azul Girola.md"
   ]
 }
