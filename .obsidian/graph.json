@@ -141,6 +141,13 @@
       }
     },
     {
+      "query": "tag:#Session",
+      "color": {
+        "a": 1,
+        "rgb": 10616642
+      }
+    },
+    {
       "query": "REAL LIFE MARKER",
       "color": {
         "a": 1,
@@ -207,6 +214,6 @@
   "repelStrength": 11.7708333333333,
   "linkStrength": 0.795698924731183,
   "linkDistance": 312,
-  "scale": 0.01303101921795843,
+  "scale": 0.030182895067324245,
   "close": false
 }

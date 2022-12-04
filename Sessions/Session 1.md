@@ -5,7 +5,7 @@ Date: 12/4/2022
 Game date: Ø/Ø/15051
 Location: The Anachronism Tavern
 Characters: Chisuke, Cirice, TJ, Zoltorb
-Tags: 
+Tags: #Session
 
 --- 
 
