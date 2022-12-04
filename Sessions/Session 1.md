@@ -1,4 +1,5 @@
 --- 
+
 Session #: 1
 World: The Anachronism (World), Ocean Earth 1971, Steampunk Earth 966, Material Plane 1692, Post Apocalyptic 3564
 Date: 12/4/2022 
@@ -11,17 +12,19 @@ Tags: #Session
 
 ## Session Summary: 
 
-
+All of the players 
 
 --- 
 
 ## Housekeeping 
 
-- [ ] Make Sure the players get their items. 
-- [ ] Chisuke: [[Daiki's Broken Dagger]]
-- [ ] Cirice: [[The Clockwork Amulet]]
-- [ ] TJ: [[The Captains Coin]]
-- [ ] Zoltorb: [[Willow's Stopwatch]]
+- [x] Make Sure the players get their items. 
+- [x] Chisuke: [[Daiki's Broken Dagger]]
+- [x] Cirice: [[The Clockwork Amulet]]
+- [x] Zoltorb: [[Willow's Stopwatch]]
+- [x] TJ: [[The Captains Coin]]
+- [x] Tell Zatana’s Backstory
+- [ ] 
 
 ## Recap 
 
@@ -29,23 +32,21 @@ Tags: #Session
 
 ## Scenes 
 
-- [ ] 
-- [ ]  
-- [ ]  
-- [ ]  
-- [ ]  
-- [ ]  
-- [ ]  
-- [ ]  
-- [ ]  
-- [ ]  
-- [ ]  
+- [ ] Chisuke in the woods
+- [ ] Cirice in the woods
+- [ ] Zoltorb in bunker
+- [ ] TJ on boat
+- [ ] The Tavern 
+- [ ] Memories 
+- [ ] Ritual Room 
+- [ ] Cyperpunk Sidewalk 
+- [ ] Cyberpunk Alley
 
   
 ## Secrets and Clues 
 
-- [ ] 
-- [ ] 
+- [ ] Archeology Class
+- [ ] University
 - [ ] 
 - [ ] 
 - [ ] 
@@ -57,8 +58,8 @@ Tags: #Session
 
 ## Loot 
 
-- [ ] 
-- [ ] 
+- [ ] Cellphone
+- [ ] Artifacts
 - [ ] 
 
 --- 

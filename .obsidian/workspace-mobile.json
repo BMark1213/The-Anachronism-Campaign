@@ -8,43 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0be0680fad59d284",
+            "id": "c2c52ac5ce9e1f1c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {},
-              "pinned": true
+              "state": {}
             }
           },
           {
-            "id": "3a5c330c3af32a4c",
+            "id": "0f889a194e93e356",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/Tables/Tarot Dice Tables.md",
+                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Willow Crassus.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "c2b83329787af18f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/Tables/Deck of Many Things Dice Tables.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +94,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/Tables/Deck of Many Things Dice Tables.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +110,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/Tables/Deck of Many Things Dice Tables.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,9 +120,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/Tables/Deck of Many Things Dice Tables.md"
-          }
+          "state": {}
         }
       },
       {
@@ -166,21 +146,29 @@
           "type": "initiative-tracker-view",
           "state": {}
         }
+      },
+      {
+        "id": "3196faa356671aa5",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
       }
     ],
     "currentTab": 6
   },
-  "active": "c2b83329787af18f",
+  "active": "c2c52ac5ce9e1f1c",
   "lastOpenFiles": [
-    "Envy Card.md",
-    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/Tables/Deck of Many Things Dice Tables.md",
-    "Extra Life Card.md",
-    "The Prophet Card.md",
-    "Bronze Medal Card.md",
-    "Silver Card.md",
-    "Gold Card.md",
-    "Platinum Card.md",
-    "The Ghost Card.md",
-    "The Mind Reader.md"
+    "Sessions/Session 1.md",
+    "Worlds-Timelines/The Original Timeline 13879/The Original Timeline 13879.md",
+    "NPCs/Random NPCs/Cyberpunk/Rilvaynnik.md",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Willow Crassus.md",
+    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Rant Generators/Template NPC Gen.md",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
+    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Rant Generators/Cyberpunk NPC Generator.md",
+    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/NPC Generator.md",
+    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deck of Many Things Generators.md",
+    "Base Info Folder/Images/Maps/Artifact Room.jpg"
   ]
 }

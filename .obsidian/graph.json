@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-path:\"Base Info Folder\"",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file:\"Zatana\"",
@@ -214,6 +214,6 @@
   "repelStrength": 11.7708333333333,
   "linkStrength": 0.795698924731183,
   "linkDistance": 312,
-  "scale": 0.021528718442430345,
+  "scale": 0.5030018691790304,
   "close": false
 }
