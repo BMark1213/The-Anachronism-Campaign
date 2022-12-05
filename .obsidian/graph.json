@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file:\"Zatana\"",
@@ -214,6 +214,6 @@
   "repelStrength": 11.7708333333333,
   "linkStrength": 0.795698924731183,
   "linkDistance": 312,
-  "scale": 0.021528718442430463,
+  "scale": 0.06604454579380493,
   "close": false
 }
