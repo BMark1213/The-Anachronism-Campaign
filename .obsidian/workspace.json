@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sessions/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sessions/Session 1.md"
+              }
             }
           },
           {
@@ -190,8 +194,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d4c7b7cfccc6496",
+  "active": "b9171ff6e65fa900",
   "lastOpenFiles": [
+    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Eclipse City.md",
     "Sessions/Session 1.md",
     "Important Artifacts/Players/Daiki's Broken Dagger.md",
     "Important Artifacts/Players/The Captains Coin.md",
@@ -200,7 +205,6 @@
     "Base Info Folder/Images/Artifacts/The_Clockwork_Amulet.png",
     "Base Info Folder/Images/Artifacts/Captians_Coin_Tails.png",
     "Base Info Folder/Images/Artifacts/Captians_Coin_Heads.png",
-    "Important Artifacts/Heart of the Dessert.md",
-    "Player Characters/Chisuke Himura {Kurayami Kutsuki}.md"
+    "Important Artifacts/Heart of the Dessert.md"
   ]
 }
