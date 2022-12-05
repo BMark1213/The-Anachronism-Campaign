@@ -62,7 +62,6 @@ All of the players
 - Cirice: [[The Clockwork Amulet]]
 - Zoltorb: [[Willow's Stopwatch]]
 - TJ: [[The Captains Coin]]
-- Tell Zatana’s Backstory
 
 --- 
 
