@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
+                "file": "Sessions/Session 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
+                "file": "Sessions/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
+                "file": "Sessions/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md"
+                "file": "Sessions/Session 1.md"
               }
             }
           },
@@ -196,15 +196,15 @@
   },
   "active": "b9171ff6e65fa900",
   "lastOpenFiles": [
-    "Worlds-Timelines/The Anachronism (World)/The Anachronism (World).md",
+    "Base Info Folder/Images/Maps/Artifact Room.jpg",
+    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City.md",
     "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
+    "Worlds-Timelines/The Anachronism (World)/The Anachronism (World).md",
     "Sessions/Session 1.md",
     "Important Artifacts/Players/Daiki's Broken Dagger.md",
     "Important Artifacts/Players/The Captains Coin.md",
     "Important Artifacts/Players/The Clockwork Amulet.md",
     "Important Artifacts/Players/Willow's Stopwatch.md",
-    "Base Info Folder/Images/Artifacts/The_Clockwork_Amulet.png",
-    "Base Info Folder/Images/Artifacts/Captians_Coin_Tails.png",
-    "Base Info Folder/Images/Artifacts/Captians_Coin_Heads.png"
+    "Base Info Folder/Images/Artifacts/The_Clockwork_Amulet.png"
   ]
 }

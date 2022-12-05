@@ -38,7 +38,7 @@ All of the players
 - [ ] The Tavern 
 - [ ] Memories 
 - [ ] Ritual Room 
-- [ ] Cyperpunk Sidewalk 
+- [ ] Cyberpunk Sidewalk 
 - [ ] Cyberpunk Alley
 
   
