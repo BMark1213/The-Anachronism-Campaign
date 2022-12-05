@@ -12,7 +12,7 @@ Tags: #Session
 
 ## Session Summary: 
 
-All of the players 
+Each player had run through their own motions before receiving a card that stated:  
 
 --- 
 
