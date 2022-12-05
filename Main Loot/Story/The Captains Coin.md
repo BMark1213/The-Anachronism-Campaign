@@ -1,4 +1,6 @@
-][[TJ Remington]]
+#Loot 
+
+[[TJ Remington]]
 
 [[Elman 'The Shadow' Holt]]
 

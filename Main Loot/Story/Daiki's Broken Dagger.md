@@ -1,3 +1,4 @@
+#Loot 
 
 [[Chisuke Himura {Kurayami Kutsuki}]]
 

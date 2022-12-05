@@ -1,21 +1,22 @@
+#dnd/npc/cybr10 
 
 ## Basics
 
 This character's name is ✦Rilvaynnik, **He/Him**
 
-He is an ✦Northern Kobold **Scholar**. They wear ✦Bisque clothes with ✦Crimsonaccents.
+He is an ✦Northern Kobold **Scholar**. They wear ✦Bisque clothes with ✦Crimson accents.
 
 He is ✦wonderful and ✦brilliant
 
 ## Additional
 
-He is from ✧`dice: #DND/Region|link`
+He is from ✧[[Eclipse City]]
 
-If He must take up arms, He would be a **Cleric**.
+If He must take up arms, He would be a **Artificer**.
 
-**He is out to get ✧Pyrrhuslen.**
+**He is out to get ✧Ravenwood University.**
 
-He initially ✦Neutral towards the party.
+He initially ✦Hostile towards the party.
 
 His goal is ✦To Craft a Special Item
 
