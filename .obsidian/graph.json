@@ -11,21 +11,28 @@
       "query": "file:\"Zatana\"",
       "color": {
         "a": 1,
-        "rgb": 3213137
+        "rgb": 2490438
+      }
+    },
+    {
+      "query": "tag:#OG_Team",
+      "color": {
+        "a": 1,
+        "rgb": 4981133
       }
     },
     {
       "query": "tag:#Player",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 9838845
       }
     },
     {
       "query": "tag:#Pet",
       "color": {
         "a": 1,
-        "rgb": 16743168
+        "rgb": 13017065
       }
     },
     {
@@ -36,80 +43,80 @@
       }
     },
     {
-      "query": "tag:#OG_Team",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    },
-    {
       "query": "tag:#Ships",
       "color": {
         "a": 1,
-        "rgb": 6307345
+        "rgb": 3744260
       }
     },
     {
       "query": "path:\"Core Main Story NPCs\"",
       "color": {
         "a": 1,
-        "rgb": 12482
+        "rgb": 3670016
+      }
+    },
+    {
+      "query": "path:\"NPCs/Arc Important NPCs\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     },
     {
       "query": "tag:#Faction",
       "color": {
         "a": 1,
-        "rgb": 9130064
+        "rgb": 10037794
       }
     },
     {
       "query": "tag:Gang",
       "color": {
         "a": 1,
-        "rgb": 9130064
+        "rgb": 10037794
       }
     },
     {
       "query": "tag:#Team",
       "color": {
         "a": 1,
-        "rgb": 9130064
-      }
-    },
-    {
-      "query": "path:\"NPCs/Side Story NPCs",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
+        "rgb": 10037794
       }
     },
     {
       "query": "path:\"NPCs/Random NPCs\"",
       "color": {
         "a": 1,
-        "rgb": 5373952
+        "rgb": 13915982
+      }
+    },
+    {
+      "query": "path:\"NPCs/Side Story NPCs",
+      "color": {
+        "a": 1,
+        "rgb": 15766927
       }
     },
     {
       "query": "path:\"NPCs/Family NPCs\"",
       "color": {
         "a": 1,
-        "rgb": 16766894
+        "rgb": 16566211
       }
     },
     {
       "query": "tag:#City_Town",
       "color": {
         "a": 1,
-        "rgb": 12088115
+        "rgb": 7815438
       }
     },
     {
       "query": "tag:#Location",
       "color": {
         "a": 1,
-        "rgb": 2949186
+        "rgb": 4240813
       }
     },
     {
@@ -123,21 +130,28 @@
       "query": "tag:#Island",
       "color": {
         "a": 1,
-        "rgb": 5413231
+        "rgb": 39227
       }
     },
     {
       "query": "tag:#World",
       "color": {
         "a": 1,
-        "rgb": 3497531
+        "rgb": 1322520
+      }
+    },
+    {
+      "query": "tag:#Loot",
+      "color": {
+        "a": 1,
+        "rgb": 16777103
       }
     },
     {
       "query": "path:\"Important Artifacts\"",
       "color": {
         "a": 1,
-        "rgb": 13080576
+        "rgb": 10717184
       }
     },
     {
@@ -228,6 +242,6 @@
   "repelStrength": 18.75,
   "linkStrength": 0.795698924731183,
   "linkDistance": 312,
-  "scale": 0.0423159026897594,
+  "scale": 0.010952991388875928,
   "close": false
 }
