@@ -18,6 +18,19 @@
             }
           },
           {
+            "id": "ca62d9fc55973612",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds-Timelines/The Anachronism (World)/The Sanctuary of Balance.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2b02c6ebca354de9",
             "type": "leaf",
             "state": {
@@ -199,15 +212,15 @@
   },
   "active": "b9171ff6e65fa900",
   "lastOpenFiles": [
+    "Worlds-Timelines/The Anachronism (World)/The Sanctuary of Balance.md",
+    "Worlds-Timelines/The Anachronism (World)/The Battlefield of Time.md",
+    "Base Info Folder/Ideas.md",
+    "Worlds-Timelines/The Anachronism (World)/The Anachronism Tavern.md",
+    "Worlds-Timelines/The Anachronism (World)/The Anachronism (World).md",
     "Important Artifacts/Size Controling Measuring Tape.md",
     "Main Loot/Story/Wanjala’s Ring.md",
     "Main Loot/Story/Willow's Stopwatch.md",
     "Main Loot/Story/The Clockwork Amulet.md",
-    "Main Loot/Story/The Captains Coin.md",
-    "Main Loot/Story/Daiki's Broken Dagger.md",
-    "Worlds-Timelines/Riptide (World)/The Big Chipper.md",
-    "Worlds-Timelines/Riptide (World)/The Albatross (Millennium Chipper).md",
-    "NPCs/Arc Important NPCs/Riptide World/Niklaus Hendrix.md",
-    "NPCs/Arc Important NPCs/Riptide World/Pretzel.md"
+    "Main Loot/Story/The Captains Coin.md"
   ]
 }
