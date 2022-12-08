@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 1.md",
+                "file": "Base Info Folder/Filters and Groups.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sessions/Session 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,17 +190,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b9171ff6e65fa900",
+  "active": "9d4c7b7cfccc6496",
   "lastOpenFiles": [
-    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Eclipse City.md",
+    "Base Info Folder/Filters and Groups.md",
     "Sessions/Session 1.md",
+    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Eclipse City.md",
     "Important Artifacts/Players/Daiki's Broken Dagger.md",
     "Important Artifacts/Players/The Captains Coin.md",
     "Important Artifacts/Players/The Clockwork Amulet.md",
     "Important Artifacts/Players/Willow's Stopwatch.md",
     "Base Info Folder/Images/Artifacts/The_Clockwork_Amulet.png",
     "Base Info Folder/Images/Artifacts/Captians_Coin_Tails.png",
-    "Base Info Folder/Images/Artifacts/Captians_Coin_Heads.png",
-    "Important Artifacts/Heart of the Dessert.md"
+    "Base Info Folder/Images/Artifacts/Captians_Coin_Heads.png"
   ]
 }
