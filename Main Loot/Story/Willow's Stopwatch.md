@@ -1,5 +1,5 @@
 
-#Loot
+#Story_Loot
 
 [[Zoltorb Grunklestein]]
 

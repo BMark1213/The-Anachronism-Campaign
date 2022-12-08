@@ -148,6 +148,13 @@
       }
     },
     {
+      "query": "tag:#Story_Loot",
+      "color": {
+        "a": 1,
+        "rgb": 13747272
+      }
+    },
+    {
       "query": "path:\"Important Artifacts\"",
       "color": {
         "a": 1,
@@ -242,6 +249,6 @@
   "repelStrength": 18.75,
   "linkStrength": 0.795698924731183,
   "linkDistance": 312,
-  "scale": 0.16348370567220624,
+  "scale": 0.0078125,
   "close": false
 }
