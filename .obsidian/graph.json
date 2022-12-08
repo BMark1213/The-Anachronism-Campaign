@@ -109,7 +109,7 @@
       "query": "tag:#City_Town",
       "color": {
         "a": 1,
-        "rgb": 7815438
+        "rgb": 0
       }
     },
     {
@@ -242,6 +242,6 @@
   "repelStrength": 18.75,
   "linkStrength": 0.795698924731183,
   "linkDistance": 312,
-  "scale": 0.010952991388875928,
+  "scale": 0.16348370567220624,
   "close": false
 }
