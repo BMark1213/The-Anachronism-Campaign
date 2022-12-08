@@ -98,12 +98,12 @@ Mother & Father Unknown
 
 ### Side Story
 
-* [[Cassius]] (Chisuke)
-* [[OG Chisuke]] (Chisuke)
-* [[The First Anachronism Team]] (Team)
-* [[Damnation of the Sacred]] (Faction) (TJ)
-* [[Tirade of Mystics]](Faction) (TJ)
-* [[The Order of the Deserted Shadow]] (Faction) (Zatana)
+* [[NPCs/Side Story NPCs/Steampunk Earth 966/Chisuke/Cassius]] (Chisuke)
+* [[NPCs/Side Story NPCs/Steampunk Earth 966/Chisuke/OG Chisuke]] (Chisuke)
+* [[NPCs/Side Story NPCs/The Anachronism (World)/Groups/The First Anachronism Team]] (Team)
+* [[NPCs/Side Story NPCs/Ocean Earth 1971/Groups/Damnation of the Sacred]] (Faction) (TJ)
+* [[NPCs/Side Story NPCs/Ocean Earth 1971/Groups/Tirade of Mystics]](Faction) (TJ)
+* [[NPCs/Side Story NPCs/The Original Timeline 13879/Groups/The Order of the Deserted Shadow]] (Faction) (Zatana)
 
 
 

@@ -1,6 +1,6 @@
 
 [[Riptide (World)]]
 
-[[Gillion Tidestrider]]
+[[NPCs/Side Story NPCs/Riptide World/Gillion Tidestrider]]
 
 ![[Compass_of_Desire.JPG]]

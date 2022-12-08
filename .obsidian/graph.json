@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "-path:\"Base Info Folder\" -path:Sessions -path:\"Real Life\"",
   "showTags": false,
   "showAttachments": true,
@@ -43,13 +43,6 @@
       }
     },
     {
-      "query": "path:\"Core Main Story NPCs\"",
-      "color": {
-        "a": 1,
-        "rgb": 12482
-      }
-    },
-    {
       "query": "tag:#Ships",
       "color": {
         "a": 1,
@@ -57,7 +50,21 @@
       }
     },
     {
+      "query": "path:\"Core Main Story NPCs\"",
+      "color": {
+        "a": 1,
+        "rgb": 12482
+      }
+    },
+    {
       "query": "tag:#Faction",
+      "color": {
+        "a": 1,
+        "rgb": 9130064
+      }
+    },
+    {
+      "query": "tag:Gang",
       "color": {
         "a": 1,
         "rgb": 9130064
@@ -78,13 +85,6 @@
       }
     },
     {
-      "query": "path:\"NPCs/Family NPCs\"",
-      "color": {
-        "a": 1,
-        "rgb": 14855085
-      }
-    },
-    {
       "query": "path:\"NPCs/Random NPCs\"",
       "color": {
         "a": 1,
@@ -92,10 +92,17 @@
       }
     },
     {
+      "query": "path:\"NPCs/Family NPCs\"",
+      "color": {
+        "a": 1,
+        "rgb": 16766894
+      }
+    },
+    {
       "query": "tag:#City_Town",
       "color": {
         "a": 1,
-        "rgb": 12759680
+        "rgb": 12088115
       }
     },
     {
@@ -109,7 +116,7 @@
       "query": "tag:#Area",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 128
       }
     },
     {
@@ -123,7 +130,7 @@
       "query": "tag:#World",
       "color": {
         "a": 1,
-        "rgb": 74752
+        "rgb": 3497531
       }
     },
     {
@@ -134,10 +141,17 @@
       }
     },
     {
+      "query": "tag:Event",
+      "color": {
+        "a": 1,
+        "rgb": 16418501
+      }
+    },
+    {
       "query": "path:\"Main Story Points\"",
       "color": {
         "a": 1,
-        "rgb": 15806207
+        "rgb": 16646554
       }
     },
     {
@@ -209,11 +223,11 @@
   "textFadeMultiplier": -1.4,
   "nodeSizeMultiplier": 1.50364583333333,
   "lineSizeMultiplier": 1.50364583333333,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0,
-  "repelStrength": 11.7708333333333,
+  "repelStrength": 18.75,
   "linkStrength": 0.795698924731183,
   "linkDistance": 312,
-  "scale": 0.045159736848888986,
+  "scale": 0.0423159026897594,
   "close": false
 }

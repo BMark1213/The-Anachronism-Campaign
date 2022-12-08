@@ -7,7 +7,7 @@ tags: [timeline, inftime]
 
 [[Adecite Shard]]
 
-[[Evedarin]]
+[[NPCs/Side Story NPCs/The Original Timeline 13879/Evedarin]]
 
 
 

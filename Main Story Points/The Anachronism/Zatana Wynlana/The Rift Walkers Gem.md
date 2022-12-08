@@ -4,7 +4,7 @@ tags: [timeline, inftime]
 ---
 
 
-There was man who was able to travel between time and space in the blink of an eye by creating rifts with the [[Adecite Shard]]. There was a time in the [[Sorcerers War]] in which the man ([[Evedarin]]) was corned and has no other choice but to create a rift in time and space and throw the gem stone into it. that is how it ended up at Zatana's House
+There was man who was able to travel between time and space in the blink of an eye by creating rifts with the [[Adecite Shard]]. There was a time in the [[Sorcerers War]] in which the man ([[NPCs/Side Story NPCs/The Original Timeline 13879/Evedarin]]) was corned and has no other choice but to create a rift in time and space and throw the gem stone into it. that is how it ended up at Zatana's House
 
 
 

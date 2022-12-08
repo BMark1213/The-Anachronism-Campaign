@@ -5,8 +5,8 @@
 
 | Roles          | Person                  |
 | -------------- | ----------------------- |
-| **Captain**    | [[Chip]]                |
-| Right Hand Man | [[Jay Ferin]]           |
-| Protector      | [[Gillion Tidestrider]] |
-| Gil’s Pet      | [[Pretzel]]             |
-| Juice Maker    | [[Old Man Earl]]        |
+| **Captain**    | [[NPCs/Side Story NPCs/Riptide World/Chip]]                |
+| Right Hand Man | [[NPCs/Side Story NPCs/Riptide World/Jay Ferin]]           |
+| Protector      | [[NPCs/Side Story NPCs/Riptide World/Gillion Tidestrider]] |
+| Gil’s Pet      | [[NPCs/Side Story NPCs/Riptide World/Pretzel]]             |
+| Juice Maker    | [[NPCs/Side Story NPCs/Riptide World/Old Man Earl]]        |

@@ -22,7 +22,7 @@ Fun facts:
 
 Log 0: 14 yrs old (February 6th)
 
-I found a guy, his name is [[Cassius]], same age, looks pretty similar, he’s the one. 
+I found a guy, his name is [[NPCs/Side Story NPCs/Steampunk Earth 966/Chisuke/Cassius]], same age, looks pretty similar, he’s the one. 
 
 List of what to take:
 
