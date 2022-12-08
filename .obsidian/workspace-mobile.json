@@ -8,26 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47e339e57540013a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
             "id": "956af4ad987dc398",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Random NPCs/Cyberpunk/Gangs/Electric Eliminators.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -160,8 +145,10 @@
     ],
     "currentTab": 6
   },
-  "active": "47e339e57540013a",
+  "active": "956af4ad987dc398",
   "lastOpenFiles": [
+    "Worlds-Timelines/Post Apocalyptic 3564/Post Apocalyptic 3564.md",
+    "Base Info Folder/Filters and Groups.md",
     "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Eclipse City Science and Technology Competition.md",
     "NPCs/Random NPCs/Cyberpunk/Gangs/Razor Runners.md",
     "NPCs/Random NPCs/Cyberpunk/Gangs/Electric Eliminators.md",
@@ -169,8 +156,6 @@
     "Worlds-Timelines/Riptide (World)/The Big Chipper.md",
     "NPCs/Side Story NPCs/Cyberpunk 101010010/Science Competition/Rilvaynnik.md",
     "NPCs/Random NPCs/Cyberpunk/Pyrrhuslen.md",
-    "Main Loot/Rilvaynnik's Cellphone.md",
-    "Main Loot/Story/Daiki's Broken Dagger.md",
-    "Main Loot/Story/The Captains Coin.md"
+    "Main Loot/Rilvaynnik's Cellphone.md"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:\"Base Info Folder\" -path:Sessions",
+  "search": "-path:\"Base Info Folder\" -path:Sessions -path:\"Real Life\"",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": true,
@@ -214,6 +214,6 @@
   "repelStrength": 11.7708333333333,
   "linkStrength": 0.795698924731183,
   "linkDistance": 312,
-  "scale": 0.08876399378359814,
+  "scale": 0.2637431174215656,
   "close": false
 }
