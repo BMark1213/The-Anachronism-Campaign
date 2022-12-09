@@ -23,7 +23,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worlds-Timelines/The Anachronism (World)/The Sanctuary of Balance.md",
+                "file": "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e9c884498f2dc004",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/Gods/Good.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -31,32 +44,17 @@
             }
           },
           {
-            "id": "2b02c6ebca354de9",
+            "id": "2ec1e7cda123f7af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Important Artifacts/Size Controling Measuring Tape.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "841c2c749292dd47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Loot/Story/Wanjala’s Ring.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Base Info Folder/Images/Main Story/Love_of_Good_and_Evil.jpg"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base Info Folder/Images/Main Story/Love_of_Good_and_Evil.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base Info Folder/Images/Main Story/Love_of_Good_and_Evil.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base Info Folder/Images/Main Story/Love_of_Good_and_Evil.jpg"
+              }
             }
           },
           {
@@ -210,17 +212,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b9171ff6e65fa900",
+  "active": "2ec1e7cda123f7af",
   "lastOpenFiles": [
-    "Worlds-Timelines/The Anachronism (World)/The Sanctuary of Balance.md",
-    "Worlds-Timelines/The Anachronism (World)/The Battlefield of Time.md",
-    "Base Info Folder/Ideas.md",
-    "Worlds-Timelines/The Anachronism (World)/The Anachronism Tavern.md",
-    "Worlds-Timelines/The Anachronism (World)/The Anachronism (World).md",
-    "Important Artifacts/Size Controling Measuring Tape.md",
-    "Main Loot/Story/Wanjala’s Ring.md",
-    "Main Loot/Story/Willow's Stopwatch.md",
-    "Main Loot/Story/The Clockwork Amulet.md",
-    "Main Loot/Story/The Captains Coin.md"
+    "Base Info Folder/Images/Main Story/Good_vs_Evil.jpg",
+    "Base Info Folder/Images/Main Story/Good_and_Evil.jpg",
+    "Base Info Folder/Images/Main Story/Love_of_Good_and_Evil.jpg",
+    "Base Info Folder/Images/Main Story/The Anachronism Team Death.jpg",
+    "NPCs/Core Main Story NPCs/Gods/Good.md",
+    "NPCs/Core Main Story NPCs/Gods/Evil.md",
+    "Main Story Points/Universe Creation.md",
+    "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
+    "Worlds-Timelines/The Original Timeline 13879/The Jagged Isles/Central Valley Technical School.md"
   ]
 }

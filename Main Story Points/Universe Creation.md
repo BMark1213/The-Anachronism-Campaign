@@ -5,7 +5,6 @@
 tags: [timeline, inftime]
 ---
 
-[[The Warden]]
 
 
 
@@ -17,5 +16,5 @@ tags: [timeline, inftime]
 	  data-img = 'Base Info Folder/Images/Graphics/Creation.jpg' 
 	  data-type='range' 
 	  data-end='0'> 
-	The Warden creates the multiverse and becomes the soul watcher of all the timelines.
+	The Universe is created along with the multiverse and becomes The Warden soul watcher of all the timelines.
 </span>
