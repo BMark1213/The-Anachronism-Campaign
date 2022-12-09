@@ -47,14 +47,17 @@
             "id": "2ec1e7cda123f7af",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Base Info Folder/Images/Main Story/Love_of_Good_and_Evil.jpg"
+                "file": "NPCs/Core Main Story NPCs/Gods/The Warden.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base Info Folder/Images/Main Story/Love_of_Good_and_Evil.jpg",
+                "file": "NPCs/Core Main Story NPCs/Gods/Good.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base Info Folder/Images/Main Story/Love_of_Good_and_Evil.jpg",
+                "file": "NPCs/Core Main Story NPCs/Gods/Good.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base Info Folder/Images/Main Story/Love_of_Good_and_Evil.jpg"
+                "file": "NPCs/Core Main Story NPCs/Gods/Good.md"
               }
             }
           },
@@ -212,17 +215,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2ec1e7cda123f7af",
+  "active": "e9c884498f2dc004",
   "lastOpenFiles": [
+    "NPCs/Core Main Story NPCs/Gods/The Warden.md",
+    "NPCs/Core Main Story NPCs/Gods/Evil.md",
+    "NPCs/Core Main Story NPCs/Gods/Good.md",
+    "Base Info Folder/Images/Main Story/Love_of_Good_and_Evil.jpg",
     "Base Info Folder/Images/Main Story/Good_vs_Evil.jpg",
     "Base Info Folder/Images/Main Story/Good_and_Evil.jpg",
-    "Base Info Folder/Images/Main Story/Love_of_Good_and_Evil.jpg",
     "Base Info Folder/Images/Main Story/The Anachronism Team Death.jpg",
-    "NPCs/Core Main Story NPCs/Gods/Good.md",
-    "NPCs/Core Main Story NPCs/Gods/Evil.md",
     "Main Story Points/Universe Creation.md",
     "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md",
-    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
-    "Worlds-Timelines/The Original Timeline 13879/The Jagged Isles/Central Valley Technical School.md"
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md"
   ]
 }
