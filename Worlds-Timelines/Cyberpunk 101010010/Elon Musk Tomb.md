@@ -240,54 +240,30 @@ The weapon grabbed is:
  —— 
   
 
-1.  Peacemaker, Shortsword, Has an olive branch engraved into the blade, the blade is rusty, and the handle is made of leather. 
-    
-2.  Deathbringer, greataxe, black with white trim 
-    
-3.  Oathshatterer, longsword, made of pure silver
-    
-4.  Earthshadow, Greatclub, Made of stones and dirt
-    
-5.  Lightbane, spear, wrapped in a white cloth that never gets dirty, has a glowing white stone in the middle
-    
-6.  Nightbane, spear, wrapped in a black cloth that absorbs all light, has a glowing black stone in the middle
-    
-7.  Prudence, Sickle, Normal leather handle with a blade made of glass
-    
-8.  Nightkiss, Rapier, Black bladed and the handle is a gold ish
-    
-9.  Betrayer's Cleaver, Scimitar, looks a big kitchen knife
-    
-10.  Thunderclap, Longbow, Arrows look like lightning bolts, bow has clouds engraved on it
-    
-11.  Devotion, Greataxe, normal greataxe but the handle has the symbols of different gods on it. 
-    
-12.  Valor, Whip, a green dragon scale whip with a metal handle
-    
-13.  Stonebreaker, Warhammer, looks like a modern day sledge hammer.
-    
-14.  Misery, Dagger, Curvy blade kinda sacrifice knives
-    
-15.  Soulbreaker, Morningstar, the top is a cage that has the souls of all the lives its claimed.
-    
-16.  Treachery, Pike, Very rusted and broken
-    
-17.  Ghostwalker, War Pick, Looks kind of transparent, has a ghostly smoke coming off it.
-    
-18.  Shadowstriker, Crossbow, Black with a purple trim and gold engravings
-    
-19.  Deathraze, Trident, Black and reddish vines coming up it, the spikes are harpoon is
-    
-20.  Mooncleaver, Scimitar, All white blade with a handle made of bone
-    
-21.  Vengeance, Spear, Very beautiful kind an crystalline
-    
-22.  Shadowsteel, Halberd, Obsidian blade
-    
-23.  Hellreaver, Trident, Color changing blade that looks like fire, and emits heat
-    
-24.  Bloodmoon, Longsword, handle is moon white with drips of blood, and the blade is blood red. 
-    
+- [ ]  Deathbringer, Greataxe, Black with white trim 
+- [ ]  Oathshatterer, Longsword, Made of pure silver
+- [ ]  Earthshadow, Greatclub, Made of stones and dirt
+- [ ]  Lightbane, Spear, Wrapped in a white cloth that never gets dirty, has a glowing white stone in the middle
+- [ ]  Nightbane, Spear, Wrapped in a black cloth that absorbs all light, has a glowing black stone in the middle
+- [ ]  Prudence, Sickle, Normal leather handle with a blade made of glass
+- [ ]  Nightkiss, Rapier, Black bladed and the handle is a goldish
+- [ ]  Betrayer's Cleaver, Scimitar, looks a big kitchen knife
+- [ ]  Thunderclap, Longbow, Arrows look like lightning bolts, bow has clouds engraved on it
+- [ ]  Devotion, Greataxe, Normal greataxe but the handle has the symbols of different gods on it. 
+- [ ]  Valor, Whip, A green dragon scale whip with a metal handle
+- [ ]  Stonebreaker, Warhammer, Looks like a modern-day sledge hammer.
+- [ ]  Peacemaker, Shortsword, Has an olive branch engraved into the blade, the blade is rusty, and the handle is made of leather. 
+- [ ]  Misery, Dagger, Curvy blade kinda sacrifice knives
+- [ ]  Soulbreaker, Morningstar, The top is a cage that has the souls of all the lives it's claimed.
+- [ ]  Treachery, Pike, Very rusted and broken
+- [ ]  Ghostwalker, War Pick, Looks kind of transparent, and has a ghostly smoke coming off it.
+- [ ]  Shadowstriker, Crossbow, Black with a purple trim and gold engravings
+- [ ]  Deathraze, Trident, Black and reddish vines coming up it, the spikes are harpoon is
+- [ ]  Mooncleaver, Scimitar, All white blade with a handle made of bone
+- [ ]  Vengeance, Spear, Very beautiful kind and crystalline
+- [ ]  Shadowsteel, Halberd, Obsidian blade
+- [ ]  Hellreaver, Trident, Color changing blade that looks like fire, and emits heat
+- [ ]  Bloodmoon, Longsword, Handle is moon white with drips of blood, and the blade is blood red.**
 
   
   
