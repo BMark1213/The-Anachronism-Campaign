@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md",
+                "file": "Worlds-Timelines/Cyberpunk 101010010/Elon Musk Tomb.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Core Main Story NPCs/Gods/Good.md",
+                "file": "Worlds-Timelines/Cyberpunk 101010010/Elon Musk Tomb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Core Main Story NPCs/Gods/Good.md",
+                "file": "Worlds-Timelines/Cyberpunk 101010010/Elon Musk Tomb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Core Main Story NPCs/Gods/Good.md"
+                "file": "Worlds-Timelines/Cyberpunk 101010010/Elon Musk Tomb.md"
               }
             }
           },
@@ -215,17 +215,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e9c884498f2dc004",
+  "active": "ca62d9fc55973612",
   "lastOpenFiles": [
+    "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
+    "NPCs/Core Main Story NPCs/Gods/Good.md",
     "NPCs/Core Main Story NPCs/Gods/The Warden.md",
     "NPCs/Core Main Story NPCs/Gods/Evil.md",
-    "NPCs/Core Main Story NPCs/Gods/Good.md",
     "Base Info Folder/Images/Main Story/Love_of_Good_and_Evil.jpg",
     "Base Info Folder/Images/Main Story/Good_vs_Evil.jpg",
     "Base Info Folder/Images/Main Story/Good_and_Evil.jpg",
     "Base Info Folder/Images/Main Story/The Anachronism Team Death.jpg",
     "Main Story Points/Universe Creation.md",
-    "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md",
-    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md"
+    "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md"
   ]
 }
