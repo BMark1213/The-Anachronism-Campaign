@@ -16,8 +16,22 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "f41f0f65afea0d5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sessions/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sessions/Session 1.md"
+              }
             }
           },
           {
@@ -171,7 +189,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b9171ff6e65fa900",
+  "active": "f41f0f65afea0d5e",
   "lastOpenFiles": [
     "Worlds-Timelines/Cyberpunk 101010010/Elon Musk Tomb.md",
     "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
