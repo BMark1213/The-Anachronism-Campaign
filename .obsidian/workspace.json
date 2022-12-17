@@ -23,8 +23,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 1.md",
-                "mode": "source",
+                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Rant Generators/Cyberpunk NPC Generator.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 1.md",
+                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Rant Generators/Cyberpunk NPC Generator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 1.md",
+                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Rant Generators/Cyberpunk NPC Generator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 1.md"
+                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Rant Generators/Cyberpunk NPC Generator.md"
               }
             }
           },
@@ -191,6 +191,8 @@
   },
   "active": "f41f0f65afea0d5e",
   "lastOpenFiles": [
+    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Rant Generators/Cyberpunk NPC Generator.md",
+    "Sessions/Session 1.md",
     "Worlds-Timelines/Cyberpunk 101010010/Elon Musk Tomb.md",
     "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
     "NPCs/Core Main Story NPCs/Gods/Good.md",
@@ -198,8 +200,6 @@
     "NPCs/Core Main Story NPCs/Gods/Evil.md",
     "Base Info Folder/Images/Main Story/Love_of_Good_and_Evil.jpg",
     "Base Info Folder/Images/Main Story/Good_vs_Evil.jpg",
-    "Base Info Folder/Images/Main Story/Good_and_Evil.jpg",
-    "Base Info Folder/Images/Main Story/The Anachronism Team Death.jpg",
-    "Main Story Points/Universe Creation.md"
+    "Base Info Folder/Images/Main Story/Good_and_Evil.jpg"
   ]
 }
