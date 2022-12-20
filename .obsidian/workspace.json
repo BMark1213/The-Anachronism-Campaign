@@ -18,12 +18,22 @@
             }
           },
           {
+            "id": "5f5f36176626991f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Base Info Folder/Images/Core NPCs/Core Party/Virna (Time).png"
+              }
+            }
+          },
+          {
             "id": "f41f0f65afea0d5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 1.md",
+                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -31,12 +41,51 @@
             }
           },
           {
-            "id": "76ffc62dc009e635",
+            "id": "a64013c3e7a10944",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 2.md",
+                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Virna (Time).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8809935c9619c3ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Daiki Kutsuki.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97d38fb81d2b17c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Elman 'The Shadow' Holt.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15f566619fa7a3a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Willow Crassus.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -44,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -118,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 2.md",
+                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Willow Crassus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 2.md",
+                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Willow Crassus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 2.md"
+                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Willow Crassus.md"
               }
             }
           },
@@ -202,17 +251,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "688cf32a203cb5c1",
+  "active": "15f566619fa7a3a5",
   "lastOpenFiles": [
-    "Sessions/Session 1.md",
-    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Rant Generators/Cyberpunk NPC Generator.md",
-    "Worlds-Timelines/Cyberpunk 101010010/Elon Musk Tomb.md",
-    "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
-    "NPCs/Core Main Story NPCs/Gods/Good.md",
-    "NPCs/Core Main Story NPCs/Gods/The Warden.md",
-    "NPCs/Core Main Story NPCs/Gods/Evil.md",
-    "Base Info Folder/Images/Main Story/Love_of_Good_and_Evil.jpg",
-    "Base Info Folder/Images/Main Story/Good_vs_Evil.jpg",
-    "Base Info Folder/Images/Main Story/Good_and_Evil.jpg"
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
+    "Base Info Folder/Images/Core NPCs/Core Party/Virna (Time).png",
+    "Base Info Folder/Images/Core NPCs/Core Party/Daiki.jpeg",
+    "Base Info Folder/Images/Core NPCs/Core Party/Willow_Crassus.png",
+    "Base Info Folder/Images/Core NPCs/Core Party/Elman_The Shadow_Holt.png",
+    "Base Info Folder/Images/Players/Cirice {Keres (Death)}.png",
+    "Base Info Folder/Images/Players/Chrisclonk.jpg",
+    "Base Info Folder/Images/Players/Chisuke Himura {Kurayami Kutsuki}.jpeg",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Virna (Time).md",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Daiki Kutsuki.md"
   ]
 }
