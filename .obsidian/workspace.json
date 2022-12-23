@@ -54,9 +54,9 @@
             "id": "daf8730cb3b8108e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "image",
               "state": {
-                "currentVersion": "1.1.8"
+                "file": "Base Info Folder/Images/Core NPCs/The_Warden_Hidden.jpg"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base Info Folder/Images/Core NPCs/Core Party/Virna (Time).png",
+                "file": "Base Info Folder/Images/Core NPCs/The_Warden_Hidden.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base Info Folder/Images/Core NPCs/Core Party/Virna (Time).png",
+                "file": "Base Info Folder/Images/Core NPCs/The_Warden_Hidden.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base Info Folder/Images/Core NPCs/Core Party/Virna (Time).png"
+                "file": "Base Info Folder/Images/Core NPCs/The_Warden_Hidden.jpg"
               }
             }
           },
@@ -273,15 +273,15 @@
   },
   "active": "daf8730cb3b8108e",
   "lastOpenFiles": [
+    "Base Info Folder/Images/Core NPCs/The_Warden_Human.png",
+    "Base Info Folder/Images/Core NPCs/The_Warden_Hidden.jpg",
+    "Base Info Folder/Images/Core NPCs/Zatana.png",
+    "Base Info Folder/Images/Players/Chrisclonk.jpg",
+    "Base Info Folder/Images/Players/Cirice {Keres (Death)}.png",
+    "Base Info Folder/Images/StatBlocks/Chrisclonk_Stats.png",
+    "Base Info Folder/Images/Core NPCs/Zatana Young.png",
     "NPCs/Core Main Story NPCs/OG Anachronism Team/Virna (Time).md",
     "NPCs/Core Main Story NPCs/OG Anachronism Team/Daiki Kutsuki.md",
-    "Base Info Folder/Images/Core NPCs/Core Party/Daiki.jpeg",
-    "NPCs/Core Main Story NPCs/OG Anachronism Team/Willow Crassus.md",
-    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
-    "Base Info Folder/Images/Core NPCs/Core Party/Virna (Time).png",
-    "Base Info Folder/Images/Core NPCs/Core Party/Willow_Crassus.png",
-    "Base Info Folder/Images/Core NPCs/Core Party/Elman_The Shadow_Holt.png",
-    "Base Info Folder/Images/Players/Cirice {Keres (Death)}.png",
-    "Base Info Folder/Images/Players/Chrisclonk.jpg"
+    "Base Info Folder/Images/Core NPCs/Core Party/Daiki.jpeg"
   ]
 }
