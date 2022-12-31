@@ -61,6 +61,16 @@
             }
           },
           {
+            "id": "5fc7f0ac7814caaa",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Base Info Folder/Images/StatBlocks/Chrisclonk_Stats.png"
+              }
+            }
+          },
+          {
             "id": "8809935c9619c3ca",
             "type": "leaf",
             "state": {
@@ -97,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -171,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base Info Folder/Images/Core NPCs/The_Warden_Hidden.jpg",
+                "file": "Base Info Folder/Images/StatBlocks/Chrisclonk_Stats.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base Info Folder/Images/Core NPCs/The_Warden_Hidden.jpg",
+                "file": "Base Info Folder/Images/StatBlocks/Chrisclonk_Stats.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base Info Folder/Images/Core NPCs/The_Warden_Hidden.jpg"
+                "file": "Base Info Folder/Images/StatBlocks/Chrisclonk_Stats.png"
               }
             }
           },
@@ -271,7 +281,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "daf8730cb3b8108e",
+  "active": "688cf32a203cb5c1",
   "lastOpenFiles": [
     "Base Info Folder/Images/Core NPCs/The_Warden_Human.png",
     "Base Info Folder/Images/Core NPCs/The_Warden_Hidden.jpg",
