@@ -21,9 +21,12 @@
             "id": "c506124879f52b0a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Base Info Folder/Images/Maps/Eclipse City.png"
+                "file": "NPCs/Side Story NPCs/Cyberpunk 101010010/Science Competition/Mezroius (Unamed to Players).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -102,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base Info Folder/Images/Maps/Eclipse City.png",
+                "file": "NPCs/Side Story NPCs/Cyberpunk 101010010/Science Competition/Mezroius (Unamed to Players).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base Info Folder/Images/Maps/Eclipse City.png",
+                "file": "NPCs/Side Story NPCs/Cyberpunk 101010010/Science Competition/Mezroius (Unamed to Players).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base Info Folder/Images/Maps/Eclipse City.png"
+                "file": "NPCs/Side Story NPCs/Cyberpunk 101010010/Science Competition/Mezroius (Unamed to Players).md"
               }
             }
           },
@@ -204,15 +207,15 @@
   },
   "active": "c506124879f52b0a",
   "lastOpenFiles": [
+    "NPCs/Side Story NPCs/Cyberpunk 101010010/Science Competition/Rilvaynnik.md",
+    "NPCs/Random NPCs/Cyberpunk/Kirali.md",
+    "NPCs/Random NPCs/Cyberpunk/Maera.md",
+    "NPCs/Random NPCs/Cyberpunk/Gangs/Dark Ravens.md",
+    "Base Info Folder/Images/Maps/Eclipse City.png",
     "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Eclipse City.md",
     "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
     "Worlds-Timelines/The Original Timeline 13879/The Original Timeline 13879.md",
     "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
-    "Worlds-Timelines/The Anachronism (World)/The Anachronism (World).md",
-    "Worlds-Timelines/Steampunk Earth 966/Steampunk Earth 966.md",
-    "Worlds-Timelines/Riptide (World)/Riptide (World).md",
-    "Worlds-Timelines/Post Apocalyptic 3564/Post Apocalyptic 3564.md",
-    "conflict-files-obsidian-git.md",
-    "NPCs/Random NPCs/Cyberpunk/Gangs/Hidden Phantoms.md"
+    "Worlds-Timelines/The Anachronism (World)/The Anachronism (World).md"
   ]
 }
