@@ -16,106 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "5f5f36176626991f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Base Info Folder/Images/Core NPCs/Core Party/Virna (Time).png"
-              }
-            }
-          },
-          {
-            "id": "f41f0f65afea0d5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a64013c3e7a10944",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Base Info Folder/Images/Core NPCs/Core Party/Virna (Time).png"
-              }
-            }
-          },
-          {
-            "id": "daf8730cb3b8108e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Base Info Folder/Images/Core NPCs/The_Warden_Hidden.jpg"
-              }
-            }
-          },
-          {
-            "id": "5fc7f0ac7814caaa",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Base Info Folder/Images/StatBlocks/Chrisclonk_Stats.png"
-              }
-            }
-          },
-          {
-            "id": "8809935c9619c3ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Daiki Kutsuki.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97d38fb81d2b17c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Elman 'The Shadow' Holt.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15f566619fa7a3a5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Base Info Folder/Images/Core NPCs/Core Party/Daiki.jpeg"
-              }
-            }
-          },
-          {
-            "id": "a6941c7d144d3750",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -285,17 +187,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a6941c7d144d3750",
+  "active": "b9171ff6e65fa900",
   "lastOpenFiles": [
+    "Worlds-Timelines/The Original Timeline 13879/The Original Timeline 13879.md",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
+    "Worlds-Timelines/The Anachronism (World)/The Anachronism (World).md",
+    "Worlds-Timelines/Steampunk Earth 966/Steampunk Earth 966.md",
+    "Worlds-Timelines/Riptide (World)/Riptide (World).md",
+    "Worlds-Timelines/Post Apocalyptic 3564/Post Apocalyptic 3564.md",
     "conflict-files-obsidian-git.md",
     "NPCs/Random NPCs/Cyberpunk/Gangs/Hidden Phantoms.md",
     "NPCs/Random NPCs/Cyberpunk/Gangs/Razor Runners.md",
-    "NPCs/Random NPCs/Cyberpunk/Gangs/Titans.md",
-    "Base Info Folder/Images/Core NPCs/The_Warden_Human.png",
-    "Base Info Folder/Images/Core NPCs/The_Warden_Hidden.jpg",
-    "Base Info Folder/Images/Core NPCs/Zatana.png",
-    "Base Info Folder/Images/Players/Chrisclonk.jpg",
-    "Base Info Folder/Images/Players/Cirice {Keres (Death)}.png",
-    "Base Info Folder/Images/StatBlocks/Chrisclonk_Stats.png"
+    "NPCs/Random NPCs/Cyberpunk/Gangs/Titans.md"
   ]
 }
