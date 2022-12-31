@@ -1,5 +1,9 @@
 #dnd/npc/cybr10 
 
+[[Ravenwood University]]
+
+[[Dark Ravens]]
+
 ## Basics
 
 This character's name is ✦Rilvaynnik, **He/Him**

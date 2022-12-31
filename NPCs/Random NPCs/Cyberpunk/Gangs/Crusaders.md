@@ -2,4 +2,4 @@
 
 [[Hobin Ball Tournament]]
 
-[[Steal Coast Artificer Academy]]
+[[Central Engineering Academy]]

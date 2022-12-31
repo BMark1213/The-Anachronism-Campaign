@@ -2,4 +2,5 @@
 
 [[Hobin Ball Tournament]]
 
-[[Steal Coast Artificer Academy]]
+[[Copper Science University]]
+
