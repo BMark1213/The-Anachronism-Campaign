@@ -178,32 +178,21 @@ The Lockpick's Door
 
   
 
-The first lock says "Open" in Common.
-
-  
+The first lock says "Open" in Common.  
 
 The second lock says "Close" in Elvish.
 
-  
-
 The third lock says "Open" in Dwarvish.
-
-  
 
 The fourth lock says "Close" in Infernal.
 
-  
-
 The fifth lock says "Open" in Giant.
-
-  
 
 The seventh lock says "Close" in Halfling.
 
-  
-
 The sixth lock says "Close" in Undercommon.
 
+The Eighth lock says "Open" in Primordial.
   
 
 The objective of the puzzle is to unlock the locks which say "Open" (DC 10, or the trap goes off) and to leave the locks which say "Close" closed, and then turn the door handle, otherwise the Lightning Rune in the center of the hallway (or another trap of your design) activates. The challenge comes from the character's language limitations. Sometimes they will have to do some guess-work.
