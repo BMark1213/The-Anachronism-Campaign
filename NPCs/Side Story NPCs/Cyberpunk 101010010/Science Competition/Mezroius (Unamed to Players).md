@@ -1,6 +1,8 @@
 
 #dnd/npc/cybr10
 
+[[Dark Ravens]]
+
 ## Basics
 
 This character's name is ✦Mezroius, **He/Him**
@@ -21,7 +23,7 @@ If He must take up arms, He would be a **Barbarian**.
 
 He initially ✦Hesitant towards the party.
 
-His goal is ✦To win the [[Eclipse City Science and Technology Competition]] 
+His goal is ✦To win the 
 
 He recently experienced a ✦failure 
 

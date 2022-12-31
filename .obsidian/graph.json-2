@@ -120,13 +120,6 @@
       }
     },
     {
-      "query": "tag:#Shop",
-      "color": {
-        "a": 1,
-        "rgb": 32369
-      }
-    },
-    {
       "query": "tag:#Area",
       "color": {
         "a": 1,
@@ -246,7 +239,7 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1.4,
   "nodeSizeMultiplier": 1.50364583333333,
@@ -256,6 +249,6 @@
   "repelStrength": 18.75,
   "linkStrength": 0.795698924731183,
   "linkDistance": 312,
-  "scale": 0.04231590268975917,
+  "scale": 0.2453753115781513,
   "close": false
 }
