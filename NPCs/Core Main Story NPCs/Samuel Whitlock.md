@@ -1,3 +1,3 @@
-Lives in [[Worlds-Timelines/Planes of Existence/Material Plane 1692/Salem]]
+Lives in [[Salem]]
 
 Has [[Wanjala’s Ring]]

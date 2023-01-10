@@ -1,1 +1,0 @@
-[[Chisuke Himura {Kurayami Kutsuki}]]

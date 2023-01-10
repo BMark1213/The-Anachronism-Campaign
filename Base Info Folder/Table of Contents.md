@@ -12,11 +12,11 @@
 ## Worlds/Timelines
 
 * [[Worlds-Timelines/The Anachronism (World)/The Anachronism (World)]]
-* [[Worlds-Timelines/The Original Timeline 13879/The Original Timeline 13879]] (Zatana)
+* [[The Original Timeline 13879]] (Zatana)
 * [[Worlds-Timelines/Post Apocalyptic 3564/Post Apocalyptic 3564]] (Zoltorb)
 * [[Worlds-Timelines/Ocean Earth 1971/Ocean Earth 1971]] (TJ)
-* [[Worlds-Timelines/Planes of Existence/Hell 397832/Hell 397832]] (Cirice)
-* [[Worlds-Timelines/Planes of Existence/Material Plane 1692/Material Plane 1692]] (Cirice)
+* [[Hell 397832]] (Cirice)
+* [[Material Plane 1692]] (Cirice)
 * [[Worlds-Timelines/Steampunk Earth 966/Steampunk Earth 966]] (Chisuke)
 
 **Discovered:**
@@ -139,9 +139,9 @@ Mother & Father Unknown
 
 **The Original Timeline 13879:**
 
-* [[Worlds-Timelines/The Original Timeline 13879/The Jagged Isles/The Jagged Isles]]
-* [[Worlds-Timelines/The Original Timeline 13879/Black Crystal]]
-* [[Worlds-Timelines/The Original Timeline 13879/The Jagged Isles/Central Valley Technical School]]
+* [[The Jagged Isles]]
+* [[Black Crystal]]
+* [[Central Valley Technical School]]
 
 **Post Apocalyptic 3564:**
 
@@ -160,7 +160,7 @@ Hell:
 
 Material Plane:
 
-* [[Worlds-Timelines/Planes of Existence/Material Plane 1692/Salem]]
+* [[Salem]]
 
 **Steampunk Earth 966:**
 
