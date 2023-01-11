@@ -23,14 +23,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Willow Crassus.md",
+                "file": "Player Characters/Varak.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Player Characters/Varak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Player Characters/Varak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Player Characters/Varak.md"
+              }
             }
           },
           {
@@ -200,7 +205,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b9171ff6e65fa900",
+  "active": "c506124879f52b0a",
   "lastOpenFiles": [
     "NPCs/Core Main Story NPCs/OG Anachronism Team/Willow Crassus.md",
     "Main Loot/Story/Daiki's Broken Dagger.md",
