@@ -1,6 +1,3 @@
-#Player
-
-#dnd/pc 
 
 
 Zoltorb grew up in [[Post Apocalyptic 3564]] that was destroyed by a magical nuke no other information was known. until he made it his mission to discover what happened he found an abandoned bunker of an old artificer. When he walked down the stairs he came upon a sign that stated,”[[Gwydion’s Bunker]]”. Gwydion was the smartest man of all time and the person who built the “Artificer Bomb.” Gwydion’s soul and arcana still lived inside his creations. 

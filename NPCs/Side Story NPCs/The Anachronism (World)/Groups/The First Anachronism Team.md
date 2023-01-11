@@ -2,7 +2,7 @@
 
 [[Zatana Wynlana]]
 
-[[Daiki Kutsuki]]
+[[Aisling The Elf Queen]]
 
 [[Elman 'The Shadow' Holt]]
 
