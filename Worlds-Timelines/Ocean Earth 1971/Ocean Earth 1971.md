@@ -1,4 +1,4 @@
-[[TJ Remington]]
+[[Elre 'Patch' Perberos]]
 
 [[Elman 'The Shadow' Holt]]
 

@@ -5,7 +5,7 @@ Crew:
 | Roles              | Person                             |
 | ------------------ | ---------------------------------- |
 | **Captain**        | [[Elman 'The Shadow' Holt]]        |
-| Right Hand Man     | TJ ‘Lost Soul’ Remington           |
+| Right Hand Man     | Elre ‘Lost Soul’ Perberos           |
 | Quarter Master     | [[Kelby 'The Snake' Derrington]]   |
 | Sailing Master     | [[Alvina 'Nightmare' Pritchard]]   |
 | Boatswain          | [[Fielding 'Merciless' Petrik]]    |

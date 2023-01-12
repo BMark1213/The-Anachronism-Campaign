@@ -1,9 +1,8 @@
 
 ## Players
 
-* [[Zoltorb Grunklestein]]
-* [[TJ Remington]]
-* [[Chisuke Himura {Kurayami Kutsuki}]]
+* [[Varak (The Ferryman)]]
+* [[Elre 'Patch' Perberos]]
 * [[Cirice {Keres (Death)}]]
 
 
@@ -14,10 +13,9 @@
 * [[Worlds-Timelines/The Anachronism (World)/The Anachronism (World)]]
 * [[The Original Timeline 13879]] (Zatana)
 * [[Worlds-Timelines/Post Apocalyptic 3564/Post Apocalyptic 3564]] (Zoltorb)
-* [[Worlds-Timelines/Ocean Earth 1971/Ocean Earth 1971]] (TJ)
+* [[Worlds-Timelines/Ocean Earth 1971/Ocean Earth 1971]] (Elre 'Patch' Perberos)
 * [[Hell 397832]] (Cirice)
 * [[The Original Timeline 1692]] (Cirice)
-* [[Worlds-Timelines/Steampunk Earth 966/Steampunk Earth 966]] (Chisuke)
 
 **Discovered:**
 
@@ -53,10 +51,10 @@
 
 ### Family
 
-##### TJ Remington
+##### Elre 'Patch' Perberos
 
-* [[Jasper Remington]] (Dad)
-* [[Rosalie Remington]] (Mom)
+* [[Jasper Perberos]] (Dad)
+* [[Rosalie Perberos]] (Mom)
 * [[The Blue Hawk]] (Ship)
 * [[The Apocrypha]] (Ship)
 
@@ -73,20 +71,6 @@
 Mother & Father Unknown
 
 
-##### Chisuke Himura {Kurayami Kutsuki}
-
-* [[Emica Kutsuki]] (Mom)
-* [[Chikao Kutsuki]] (Dad)
-
-* [[Akira Kutsuki]] (Brother)
-
-
-
-
-
-
-
-
 
 
 
@@ -98,11 +82,9 @@ Mother & Father Unknown
 
 ### Side Story
 
-* [[NPCs/Side Story NPCs/Steampunk Earth 966/Chisuke/Cassius]] (Chisuke)
-* [[NPCs/Side Story NPCs/Steampunk Earth 966/Chisuke/OG Chisuke]] (Chisuke)
 * [[NPCs/Side Story NPCs/The Anachronism (World)/Groups/The First Anachronism Team]] (Team)
-* [[NPCs/Side Story NPCs/Ocean Earth 1971/Groups/Damnation of the Sacred]] (Faction) (TJ)
-* [[NPCs/Side Story NPCs/Ocean Earth 1971/Groups/Tirade of Mystics]](Faction) (TJ)
+* [[NPCs/Side Story NPCs/Ocean Earth 1971/Groups/Damnation of the Sacred]] (Faction) (Elre 'Patch' Perberos)
+* [[NPCs/Side Story NPCs/Ocean Earth 1971/Groups/Tirade of Mystics]](Faction) (Elre 'Patch' Perberos)
 * [[NPCs/Side Story NPCs/The Original Timeline 13879/Groups/The Order of the Deserted Shadow]] (Faction) (Zatana)
 
 

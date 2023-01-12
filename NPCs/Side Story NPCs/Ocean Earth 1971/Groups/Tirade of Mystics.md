@@ -1,3 +1,3 @@
 #Faction 
 
-[[Rosalie Remington]] was part of this
+[[Rosalie Perberos]] was part of this

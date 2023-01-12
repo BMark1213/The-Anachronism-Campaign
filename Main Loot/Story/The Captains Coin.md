@@ -1,6 +1,6 @@
 #Story_Loot
 
-[[TJ Remington]]
+[[Elre 'Patch' Perberos]]
 
 [[Elman 'The Shadow' Holt]]
 
