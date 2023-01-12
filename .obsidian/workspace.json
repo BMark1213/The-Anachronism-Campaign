@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worlds-Timelines/The Original Timeline/The Original Timeline.md",
+                "file": "Worlds-Timelines/The Original Timeline/The Original Timeline 13879/The Jagged Isles/Central Valley Technical School.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88d36a0cb09a6bc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/The Tower.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4bbda1cf67f07c39",
@@ -110,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worlds-Timelines/The Original Timeline/The Original Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worlds-Timelines/The Original Timeline/The Original Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Worlds-Timelines/The Original Timeline/The Original Timeline.md"
-              }
+              "state": {}
             }
           },
           {
@@ -210,17 +220,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c506124879f52b0a",
+  "active": "b9171ff6e65fa900",
   "lastOpenFiles": [
-    "Worlds-Timelines/The Original Timeline/The Original Timeline 13879/The Original Timeline 13879.md",
-    "Player Characters/Varak.md",
-    "NPCs/Core Main Story NPCs/OG Anachronism Team/Willow Crassus.md",
-    "Main Loot/Story/Daiki's Broken Dagger.md",
-    "NPCs/Side Story NPCs/Steampunk Earth 966/Chisuke/OG Chisuke.md",
-    "NPCs/Side Story NPCs/Steampunk Earth 966/Chisuke/Cassius.md",
-    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
-    "Worlds-Timelines/Steampunk Earth 966/Steampunk Earth 966.md",
-    "Worlds-Timelines/The Original Timeline/The Original Timeline.md",
-    "Worlds-Timelines/The Original Timeline/The Original Timeline 13879/The Jagged Isles/The Jagged Isles.md"
+    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/The Tower.md",
+    "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md",
+    "NPCs/Core Main Story NPCs/Gods/The Warden.md",
+    "NPCs/Side Story NPCs/The Original Timeline 13879/Evedarin.md",
+    "Main Story Points/Wars/Sorcerers War.md",
+    "Main Story Points/The Anachronism/Zatana Wynlana/The Rift Walkers Gem.md",
+    "Main Story Points/The Anachronism/The Anachronism Creation.md",
+    "Main Story Points/The Anachronism/The Anachronism Teams Creation.md",
+    "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
+    "NPCs/Side Story NPCs/The Original Timeline 13879/Groups/The Phayam Tribe.md"
   ]
 }

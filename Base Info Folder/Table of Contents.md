@@ -16,7 +16,7 @@
 * [[Worlds-Timelines/Post Apocalyptic 3564/Post Apocalyptic 3564]] (Zoltorb)
 * [[Worlds-Timelines/Ocean Earth 1971/Ocean Earth 1971]] (TJ)
 * [[Hell 397832]] (Cirice)
-* [[Material Plane 1692]] (Cirice)
+* [[The Original Timeline 1692]] (Cirice)
 * [[Worlds-Timelines/Steampunk Earth 966/Steampunk Earth 966]] (Chisuke)
 
 **Discovered:**
