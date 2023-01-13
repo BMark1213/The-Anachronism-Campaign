@@ -4,38 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "0030ffb15e3fbd60",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c506124879f52b0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base Info Folder/Ideas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88d36a0cb09a6bc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/The Tower.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "4bbda1cf67f07c39",
         "type": "tabs",
         "children": [
@@ -55,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Characters/Varak (The Ferryman).md",
+                "file": "Worlds-Timelines/Placeholder LOL XD/Arena Place.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -149,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base Info Folder/Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base Info Folder/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base Info Folder/Ideas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -249,17 +213,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c506124879f52b0a",
+  "active": "b9171ff6e65fa900",
   "lastOpenFiles": [
-    "Sessions/Session 0.md",
-    "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
-    "Main Story Points/The Anachronism/The Anachronism Teams Creation.md",
-    "Main Story Points/The Anachronism/The Anachronism Creation.md",
-    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
-    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Schools/Ravenwood University.md",
-    "Sessions/Session 2.md",
-    "Player Characters/Elre 'Patch' Perberos.md",
-    "Player Characters/Varak (The Ferryman).md",
-    "Base Info Folder/Table of Contents.md"
+    "Worlds-Timelines/Placeholder LOL XD/Arena Place.md",
+    "NPCs/Core Main Story NPCs/Gods/Demigods/Wisdom.md",
+    "NPCs/Core Main Story NPCs/Gods/Demigods/Morality.md",
+    "NPCs/Core Main Story NPCs/Gods/Demigods/Love.md",
+    "NPCs/Core Main Story NPCs/Gods/Demigods/Justice.md",
+    "NPCs/Core Main Story NPCs/Gods/Demigods/Integrity.md",
+    "NPCs/Core Main Story NPCs/Gods/Demigods/Honesty.md",
+    "NPCs/Core Main Story NPCs/Gods/Demigods/Hate.md",
+    "NPCs/Core Main Story NPCs/Gods/Demigods/Fear.md",
+    "NPCs/Core Main Story NPCs/Gods/Demigods/Faith.md"
   ]
 }
