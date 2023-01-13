@@ -149,7 +149,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +165,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,9 +186,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sessions/Session 0.md"
-              }
+              "state": {}
             }
           },
           {
@@ -249,12 +245,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c506124879f52b0a",
+  "active": "b9171ff6e65fa900",
   "lastOpenFiles": [
+    "Sessions/Session 0.md",
     "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
     "Main Story Points/The Anachronism/The Anachronism Teams Creation.md",
     "Main Story Points/The Anachronism/The Anachronism Creation.md",
-    "Sessions/Session 0.md",
     "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
     "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Schools/Ravenwood University.md",
     "Sessions/Session 2.md",

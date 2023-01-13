@@ -20,6 +20,7 @@ Each player had run through their own motions before receiving a card that state
 
 - [x] Make Sure the players get their items. 
 - [x] Cirice: [[The Clockwork Amulet]]
+- [x] Patch: [[The Captains Coin]]
 - [x] Tell Zatana’s Backstory
 
 ## Recap 
