@@ -1,14 +1,16 @@
+
+
 [[Zoltorb Grunklestein]]
 
 #OG_Team
 
-[[Zatana Wynlana]]
+[Zatana Wynlana]
 
 [[Worlds-Timelines/Post Apocalyptic 3564/Post Apocalyptic 3564]]
 
 Best friend that they lost: Willow Crassus
 
-[[The Anachronism Teams Creation]]
+[The Anachronism Teams Creation]
 
 Zoltorb and Willow were running from a gang they had just stolen from and Willow had fallen off a cliff Zoltorb caught her by the hand of her robotic arm and as he was trying his hardest to pull her up, the arm that he made her came off her body and she fell to her death.
 

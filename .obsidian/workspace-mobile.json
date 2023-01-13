@@ -8,14 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b154099f0dc6e299",
+            "id": "a2d3febae025b34c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "9b376b84e1b22215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds-Timelines/Placeholder LOL XD/Arena Place.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3259fc742c002572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds-Timelines/The Pantheon of The Gods/The Pantheon of The Gods.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Worlds-Timelines/Placeholder LOL XD/Arena Place.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Worlds-Timelines/Placeholder LOL XD/Arena Place.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +138,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Worlds-Timelines/Placeholder LOL XD/Arena Place.md"
+          }
         }
       },
       {
@@ -145,17 +178,17 @@
     ],
     "currentTab": 6
   },
-  "active": "b154099f0dc6e299",
+  "active": "9b376b84e1b22215",
   "lastOpenFiles": [
-    "Player Characters/Varak.md",
-    "NPCs/Family NPCs/Varak/Noir (God of Darkness).md",
-    "NPCs/Family NPCs/Varak/Chiara (Goddess of Light).md",
-    "Player Characters/TJ Remington.md",
-    "NPCs/Core Main Story NPCs/OG Anachronism Team/Aisling The Elf Queen.md",
-    "NPCs/Core Main Story NPCs/Gods/The Warden.md",
-    "NPCs/Family NPCs/Aisling/Galena (Goddess of Health).md",
-    "NPCs/Family NPCs/Aisling/Vitale (God of Life).md",
-    "NPCs/Family NPCs/Cirice/Wicus (Conquest).md",
-    "NPCs/Core Main Story NPCs/OG Anachronism Team/Elman 'The Shadow' Holt.md"
+    "Worlds-Timelines/The Pantheon of The Gods/The Pantheon of The Gods.md",
+    "Worlds-Timelines/Purgatory/Purgatory.md",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Willow Crassus.md",
+    "Main Story Points/The Anachronism/The Anachronism Teams Creation.md",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
+    "NPCs/Side Story NPCs/The Anachronism (World)/Groups/The First Anachronism Team.md",
+    "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
+    "NPCs/Side Story NPCs/Purgatory/Psychopomps.md",
+    "Worlds-Timelines/The Anachronism (World)/The Sanctuary of Balance.md",
+    "Player Characters/Varak.md"
   ]
 }
