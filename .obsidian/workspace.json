@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 0.md",
+                "file": "Base Info Folder/Ideas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -149,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base Info Folder/Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,6 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base Info Folder/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +188,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base Info Folder/Ideas.md"
+              }
             }
           },
           {
@@ -245,7 +249,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b9171ff6e65fa900",
+  "active": "c506124879f52b0a",
   "lastOpenFiles": [
     "Sessions/Session 0.md",
     "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
