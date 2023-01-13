@@ -18,12 +18,38 @@
             }
           },
           {
+            "id": "ce6a3bf1aaaa7a7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/Gods/Demigods/Justice.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0887ff8253cd17d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds-Timelines/The Arena/The Arena.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9b376b84e1b22215",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worlds-Timelines/Placeholder LOL XD/Arena Place.md",
+                "file": "Worlds-Timelines/The Arena/The Arena.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -43,8 +69,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +135,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Worlds-Timelines/Placeholder LOL XD/Arena Place.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +151,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Worlds-Timelines/Placeholder LOL XD/Arena Place.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,9 +161,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Worlds-Timelines/Placeholder LOL XD/Arena Place.md"
-          }
+          "state": {}
         }
       },
       {
@@ -178,17 +199,17 @@
     ],
     "currentTab": 6
   },
-  "active": "9b376b84e1b22215",
+  "active": "a2d3febae025b34c",
   "lastOpenFiles": [
-    "Worlds-Timelines/The Pantheon of The Gods/The Pantheon of The Gods.md",
-    "Worlds-Timelines/Purgatory/Purgatory.md",
-    "NPCs/Core Main Story NPCs/OG Anachronism Team/Willow Crassus.md",
-    "Main Story Points/The Anachronism/The Anachronism Teams Creation.md",
-    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
-    "NPCs/Side Story NPCs/The Anachronism (World)/Groups/The First Anachronism Team.md",
-    "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
-    "NPCs/Side Story NPCs/Purgatory/Psychopomps.md",
-    "Worlds-Timelines/The Anachronism (World)/The Sanctuary of Balance.md",
-    "Player Characters/Varak.md"
+    "NPCs/Core Main Story NPCs/Gods/Demigods/Justice.md",
+    "NPCs/Core Main Story NPCs/Gods/Demigods/Wisdom.md",
+    "NPCs/Core Main Story NPCs/Gods/Demigods/Morality.md",
+    "NPCs/Core Main Story NPCs/Gods/Demigods/Love.md",
+    "NPCs/Core Main Story NPCs/Gods/Demigods/Honesty.md",
+    "NPCs/Core Main Story NPCs/Gods/Demigods/Fear.md",
+    "NPCs/Core Main Story NPCs/Gods/Demigods/Faith.md",
+    "NPCs/Core Main Story NPCs/Gods/Demigods/Fairness.md",
+    "NPCs/Core Main Story NPCs/Gods/Demigods/Integrity.md",
+    "NPCs/Core Main Story NPCs/Gods/Demigods/Hate.md"
   ]
 }
