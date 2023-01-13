@@ -129,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Player Characters/Elre 'Patch' Perberos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Player Characters/Elre 'Patch' Perberos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +188,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Player Characters/Elre 'Patch' Perberos.md"
+              }
             }
           },
           {
@@ -246,7 +249,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b9171ff6e65fa900",
+  "active": "688cf32a203cb5c1",
   "lastOpenFiles": [
     "Player Characters/Varak (The Ferryman).md",
     "Base Info Folder/Table of Contents.md",
