@@ -18,16 +18,50 @@
             }
           },
           {
-            "id": "ad56a8017c0267cc",
+            "id": "3375711540a6c80a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worlds-Timelines/Placeholder LOL XD/Arena Place.md",
+                "file": "Main Loot/Story/The Captains Coin.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "c5c529f99956b5d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Loot/Story/The Dagger of Transport.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81d4a599da9ee0bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad56a8017c0267cc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -43,7 +77,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -213,17 +252,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b9171ff6e65fa900",
+  "active": "81d4a599da9ee0bf",
   "lastOpenFiles": [
+    "Main Loot/Story/The Dagger of Transport.md",
+    "Main Loot/Story/The Captains Coin.md",
+    "Main Loot/Story/The Clockwork Amulet.md",
+    "conflict-files-obsidian-git.md",
+    "Important Artifacts/Heart of the Dessert.md",
+    "Important Artifacts/Wanjala’s Ring.md",
+    "Main Loot/Story/Willow's Stopwatch.md",
     "Worlds-Timelines/Placeholder LOL XD/Arena Place.md",
     "NPCs/Core Main Story NPCs/Gods/Demigods/Wisdom.md",
-    "NPCs/Core Main Story NPCs/Gods/Demigods/Morality.md",
-    "NPCs/Core Main Story NPCs/Gods/Demigods/Love.md",
-    "NPCs/Core Main Story NPCs/Gods/Demigods/Justice.md",
-    "NPCs/Core Main Story NPCs/Gods/Demigods/Integrity.md",
-    "NPCs/Core Main Story NPCs/Gods/Demigods/Honesty.md",
-    "NPCs/Core Main Story NPCs/Gods/Demigods/Hate.md",
-    "NPCs/Core Main Story NPCs/Gods/Demigods/Fear.md",
-    "NPCs/Core Main Story NPCs/Gods/Demigods/Faith.md"
+    "NPCs/Core Main Story NPCs/Gods/Demigods/Morality.md"
   ]
 }
