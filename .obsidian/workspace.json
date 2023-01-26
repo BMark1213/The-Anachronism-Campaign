@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Hobin Ball Tournament.md",
+                "file": "NPCs/Random NPCs/Cyberpunk/Gangs/Razor Runners.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -90,8 +90,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d98f090e31f7b2b9",
@@ -166,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Hobin Ball Tournament.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +180,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Hobin Ball Tournament.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,9 +201,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Hobin Ball Tournament.md"
-              }
+              "state": {}
             }
           },
           {
@@ -266,17 +260,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "688cf32a203cb5c1",
+  "active": "b9171ff6e65fa900",
   "lastOpenFiles": [
+    "NPCs/Random NPCs/Cyberpunk/Gangs/Razor Runners.md",
+    "NPCs/Random NPCs/Cyberpunk/Gangs/Dark Ravens.md",
     "NPCs/Random NPCs/Cyberpunk/Deltric.md",
     "NPCs/Random NPCs/Cyberpunk/Kirali.md",
+    "NPCs/Random NPCs/Cyberpunk/Pyrrhuslen.md",
+    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Hobin Ball Tournament.md",
     "NPCs/Random NPCs/Cyberpunk/Glaisa.md",
     "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Rant Generators/Cyberpunk NPC Generator.md",
-    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Hobin Ball Tournament.md",
     "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Eclipse City Science and Technology Competition.md",
-    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Eclipse City.md",
-    "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
-    "NPCs/Random NPCs/Cyberpunk/Maera.md",
-    "NPCs/Random NPCs/Cyberpunk/Pyrrhuslen.md"
+    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Eclipse City.md"
   ]
 }
