@@ -47,8 +47,26 @@
             "id": "81d4a599da9ee0bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Random NPCs/Cyberpunk/Glaisa.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3358a1e5205e66b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Random NPCs/Cyberpunk/Deltric.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -72,8 +90,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,17 +260,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "81d4a599da9ee0bf",
+  "active": "b9171ff6e65fa900",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Main Loot/Story/The Dagger of Transport.md",
-    "Main Loot/Story/The Captains Coin.md",
-    "Main Loot/Story/The Clockwork Amulet.md",
-    "Important Artifacts/Heart of the Dessert.md",
-    "Important Artifacts/Wanjala’s Ring.md",
-    "Main Loot/Story/Willow's Stopwatch.md",
-    "Worlds-Timelines/Placeholder LOL XD/Arena Place.md",
-    "NPCs/Core Main Story NPCs/Gods/Demigods/Wisdom.md",
-    "NPCs/Core Main Story NPCs/Gods/Demigods/Morality.md"
+    "NPCs/Random NPCs/Cyberpunk/Deltric.md",
+    "NPCs/Random NPCs/Cyberpunk/Kirali.md",
+    "NPCs/Random NPCs/Cyberpunk/Glaisa.md",
+    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Rant Generators/Cyberpunk NPC Generator.md",
+    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Hobin Ball Tournament.md",
+    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Eclipse City Science and Technology Competition.md",
+    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Eclipse City.md",
+    "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
+    "NPCs/Random NPCs/Cyberpunk/Maera.md",
+    "NPCs/Random NPCs/Cyberpunk/Pyrrhuslen.md"
   ]
 }
