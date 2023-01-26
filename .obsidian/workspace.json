@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Loot/Story/The Captains Coin.md",
+                "file": "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Hobin Ball Tournament.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -90,7 +90,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d98f090e31f7b2b9",
@@ -164,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Hobin Ball Tournament.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Hobin Ball Tournament.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Hobin Ball Tournament.md"
+              }
             }
           },
           {
@@ -260,7 +266,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b9171ff6e65fa900",
+  "active": "688cf32a203cb5c1",
   "lastOpenFiles": [
     "NPCs/Random NPCs/Cyberpunk/Deltric.md",
     "NPCs/Random NPCs/Cyberpunk/Kirali.md",

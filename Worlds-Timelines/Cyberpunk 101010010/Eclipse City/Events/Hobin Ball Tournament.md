@@ -30,7 +30,7 @@ Movement in Goat-Ball consists of leaping from one platform to another. A player
 
 ### Throwing The Ball
 
-A player holding a goat ball can throw it by making an attack roll. The range is maximum 40ft. This roll doesn't take into account proficiency, and so is a d20 + DEX modifier roll. On a miss the ball falls, and the target takes possession of the ball.
+A player holding a goat ball can throw it by making an attack roll. The range is maximum 50ft. This roll doesn't take into account proficiency, and so is a d20 + STR modifier roll. On a miss the ball falls, and the target takes possession of the ball.
 
 On a hit, the target must make an Acrobatics saving throw of DC 10 + the difference between the attack roll and the target's AC. For instance, say Peppy the gnome hits Goliath Johnson with a 15. Goliath Johnson has an AC of 10, so Peppy's attack was greater by 5. Goliath Johnson would need to succeed on a DC 15 (10 + 5) Acrobatics check or be knocked off his platform. Failing this saving throw means being knocked off and taken out of the game.
 
