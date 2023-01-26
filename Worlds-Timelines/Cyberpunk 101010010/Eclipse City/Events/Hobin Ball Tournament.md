@@ -39,7 +39,7 @@ If the attack hits and knocks the target off, the attacker gets possession of th
 
 ### Passing
 
-Instead of attacking, a player may choose to pass the ball to a teammate they feel is in a better position. By using their action, a player with the ball can toss it to another player within 40ft. The other player is assumed to catch without needing a roll. However, a player who failed a movement check is too busy balancing and can't accept a pass.
+Instead of attacking, a player may choose to pass the ball to a teammate they feel is in a better position. By using their action, a player with the ball can toss it to another player within 50ft. The other player is assumed to catch without needing a roll. However, a player who failed a movement check is too busy balancing and can't accept a pass.
 
 
 ### Dodging
