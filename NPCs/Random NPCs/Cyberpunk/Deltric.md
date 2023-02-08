@@ -6,7 +6,7 @@
 
 This character's name is ✦, **They/Them**
 
-They are an ✦Half Halfling and half Plainsfolk **Astrologer**. They wear ✦Tan clothes with ✦Dark Magenta accents.
+They are an ✦Half Halfling and half Plainsfolk **Bartender**. They wear ✦Tan clothes with ✦Dark Magenta accents.
 
 They are ✦old-fashioned and ✦unreliable
 

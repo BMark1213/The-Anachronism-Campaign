@@ -1,11 +1,11 @@
 --- 
 Session #: 
 World: 
-Date: {{date}} 
-Game date: 
+Date: ? 
+Game date: ?
 Location: 
-Characters: 
-Tags: 
+Characters: [[Varak (The Ferryman)]], [[Cirice {Keres (Death)}]], [[Elre 'Patch' Perberos]]
+Tags: #Session 
 
 --- 
 

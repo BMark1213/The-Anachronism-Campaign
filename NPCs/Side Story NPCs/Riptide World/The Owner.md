@@ -1,3 +1,3 @@
 
-[[Blue Royale Casino]]
+[[Deep Sea Casino]]
 
