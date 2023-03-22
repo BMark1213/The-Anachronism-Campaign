@@ -21,14 +21,29 @@
             "id": "8a6d6fb75fbf5853",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "Sessions/Session 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "825b683cb567cc5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d98f090e31f7b2b9",
@@ -199,8 +213,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8a6d6fb75fbf5853",
+  "active": "b9171ff6e65fa900",
   "lastOpenFiles": [
+    "Sessions/Session 4.md",
+    "NPCs/Random NPCs/Cyberpunk/Glaisa.md",
+    "NPCs/Random NPCs/Cyberpunk/Kirali.md",
     "Sessions/Session 3.md",
     "Sessions/Session 2.md",
     "Main Loot/Rilvaynnik's Cellphone.md",

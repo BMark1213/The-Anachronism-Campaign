@@ -71,3 +71,6 @@ Keywords
 ✦Strength - Power  
 ✦Ten Of Swords - Obsession  
 ✦Page Of Cups - Romanticism
+
+
+[[Elon Musk Tomb]]
