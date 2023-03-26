@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions/Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sessions/Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sessions/Session 4.md"
+              }
             }
           },
           {
@@ -213,7 +218,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b9171ff6e65fa900",
+  "active": "825b683cb567cc5c",
   "lastOpenFiles": [
     "Sessions/Session 4.md",
     "NPCs/Random NPCs/Cyberpunk/Glaisa.md",
