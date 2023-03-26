@@ -4,65 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "41a72d782243a622",
+        "id": "c43b8ca747327542",
         "type": "tabs",
         "children": [
           {
-            "id": "a2d3febae025b34c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "ce6a3bf1aaaa7a7d",
+            "id": "2c24ad13d01da5bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Core Main Story NPCs/Gods/Demigods/Justice.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0887ff8253cd17d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds-Timelines/The Arena/The Arena.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b376b84e1b22215",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds-Timelines/The Arena/The Arena.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3259fc742c002572",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds-Timelines/The Pantheon of The Gods/The Pantheon of The Gods.md",
+                "file": "NPCs/Core Main Story NPCs/Ultra Gods/The Warden.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -135,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "NPCs/Core Main Story NPCs/Ultra Gods/The Warden.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "NPCs/Core Main Story NPCs/Ultra Gods/The Warden.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -161,7 +114,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "NPCs/Core Main Story NPCs/Ultra Gods/The Warden.md"
+          }
         }
       },
       {
@@ -199,17 +154,49 @@
     ],
     "currentTab": 6
   },
-  "active": "a2d3febae025b34c",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-gallery:Gallery": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
+    }
+  },
+  "active": "0cf3b1ae8371fd72",
   "lastOpenFiles": [
-    "NPCs/Core Main Story NPCs/Gods/Demigods/Justice.md",
-    "NPCs/Core Main Story NPCs/Gods/Demigods/Wisdom.md",
-    "NPCs/Core Main Story NPCs/Gods/Demigods/Morality.md",
-    "NPCs/Core Main Story NPCs/Gods/Demigods/Love.md",
-    "NPCs/Core Main Story NPCs/Gods/Demigods/Honesty.md",
-    "NPCs/Core Main Story NPCs/Gods/Demigods/Fear.md",
-    "NPCs/Core Main Story NPCs/Gods/Demigods/Faith.md",
-    "NPCs/Core Main Story NPCs/Gods/Demigods/Fairness.md",
-    "NPCs/Core Main Story NPCs/Gods/Demigods/Integrity.md",
-    "NPCs/Core Main Story NPCs/Gods/Demigods/Hate.md"
+    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Fire.md",
+    "NPCs/Core Main Story NPCs/Ultra Gods/The Warden.md",
+    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Air.md",
+    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Earth.md",
+    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Water.md",
+    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Adventuring.md",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Aisling The Elf Queen.md",
+    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Fear.md",
+    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Anger.md",
+    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Morality.md",
+    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Hate.md",
+    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Fairness.md",
+    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Honesty.md",
+    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Wisdom.md",
+    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Love.md",
+    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Integrity.md",
+    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Faith.md",
+    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Justice.md",
+    "NPCs/Core Main Story NPCs/Gods/Demigods/Gods.md",
+    "Worlds-Timelines/The Arena/The Arena.md",
+    "NPCs/Side Story NPCs/Daisy Bell.md",
+    "NPCs/Core Main Story NPCs/Ultra Gods/Instability.md",
+    "NPCs/Arc Important NPCs/Cyberpunk 101010010/X Æ A-12.md",
+    "Worlds-Timelines/The Anachronism (World)/The Sanctuary of Balance.md",
+    "NPCs/Side Story NPCs/The Original Timeline 13879/Groups/The Phayam Tribe.md",
+    "NPCs/Core Main Story NPCs/Ultra Gods/Good.md"
   ]
 }
