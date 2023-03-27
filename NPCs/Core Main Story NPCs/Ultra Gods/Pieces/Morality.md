@@ -1,4 +1,0 @@
-#Gods 
-
-[[The Warden]]
-

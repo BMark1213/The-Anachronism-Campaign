@@ -1,5 +1,4 @@
-
-#Gods 
+#HighDeities
 
 [[The Warden]]
 

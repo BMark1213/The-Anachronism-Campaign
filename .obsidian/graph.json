@@ -36,10 +36,24 @@
       }
     },
     {
+      "query": "tag:#HighDeities",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
       "query": "tag:#Gods",
       "color": {
         "a": 1,
         "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#DemiGods",
+      "color": {
+        "a": 1,
+        "rgb": 5395026
       }
     },
     {
@@ -109,21 +123,21 @@
       "query": "tag:#City_Town",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 8846590
       }
     },
     {
       "query": "tag:#Location",
       "color": {
         "a": 1,
-        "rgb": 4240813
+        "rgb": 3706761
       }
     },
     {
       "query": "tag:#Shop",
       "color": {
         "a": 1,
-        "rgb": 32369
+        "rgb": 1659466
       }
     },
     {
@@ -246,7 +260,7 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -1.4,
   "nodeSizeMultiplier": 1.50364583333333,
@@ -256,6 +270,6 @@
   "repelStrength": 18.75,
   "linkStrength": 0.795698924731183,
   "linkDistance": 312,
-  "scale": 1.1517564656485675,
+  "scale": 0.11660891579457497,
   "close": false
 }

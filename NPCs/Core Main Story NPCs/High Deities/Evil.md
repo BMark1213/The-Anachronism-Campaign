@@ -1,7 +1,7 @@
 KL
 ![[Good_and_Evil.jpg]]
 
-#Gods 
+#HighDeities
 
 [[The Warden]]
 
