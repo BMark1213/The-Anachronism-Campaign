@@ -20,6 +20,7 @@
           {
             "id": "730c7c62714cb58a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -27,11 +28,24 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b4e2db722bc85dfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Characters/Cirice {Keres (Death)}.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Core Main Story NPCs/High Deities/The Warden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Core Main Story NPCs/High Deities/The Warden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NPCs/Core Main Story NPCs/High Deities/The Warden.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,35 +215,35 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "730c7c62714cb58a",
+  "active": "b9171ff6e65fa900",
   "lastOpenFiles": [
-    "Water, [[Adventure, Travel, and Curiosity.md",
+    "Player Characters/Cirice {Keres (Death)}.md",
+    "NPCs/Family NPCs/Cirice/Sin.md",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Aisling The Elf Queen.md",
+    "NPCs/Side Story NPCs/The Original Timeline 13879/Groups/The Phayam Tribe.md",
+    "NPCs/Side Story NPCs/Daisy Bell.md",
     "NPCs/Core Main Story NPCs/High Deities/The Warden.md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Vestaran (God of Earth).md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Xypheros (God of Air).md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Lumidos (God of Water).md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Elysara (Goddess of Spirit).md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Xyphera (Goddess of Fire).md",
+    "Player Characters/Varak (The Ferryman).md",
+    "Worlds-Timelines/Purgatory/Purgatory.md",
+    "NPCs/Family NPCs/Varak/Noir (God of Darkness).md",
+    "NPCs/Family NPCs/Varak/Aisling/Galena (Goddess of Health).md",
+    "NPCs/Family NPCs/Varak/Aisling/Vitale (God of Life).md",
+    "NPCs/Family NPCs/Cirice/Edith (War).md",
+    "NPCs/Family NPCs/Cirice/Wanjala (Famine).md",
+    "NPCs/Family NPCs/Cirice/Wicus (Conquest).md",
+    "NPCs/Family NPCs/TJ/Rosalie Perberos.md",
+    "Player Characters/Elre 'Patch' Perberos.md",
+    "Water, [[Adventure, Travel, and Curiosity.md",
     "NPCs/Core Main Story NPCs/High Deities/Gods/Honesty and Fairness.md",
     "NPCs/Core Main Story NPCs/High Deities/Gods/Justice and Integrity.md",
     "Sessions/Session 3.md",
     "NPCs/Core Main Story NPCs/High Deities/Gods/Adventure, Travel, and Curiosity.md",
-    "NPCs/Side Story NPCs/Daisy Bell.md",
-    "NPCs/Core Main Story NPCs/High Deities/Instability.md",
-    "NPCs/Core Main Story NPCs/High Deities/Good.md",
-    "NPCs/Core Main Story NPCs/High Deities/Evil.md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Water.md",
-    "Sessions/Session 4.md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Wisdom.md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Morality.md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Love.md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Integrity.md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Hate.md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Fear.md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Fire.md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Faith.md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Fairness.md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Anger.md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Earth.md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Air.md",
     "NPCs/Core Main Story NPCs/High Deities/Gods",
-    "NPCs/Core Main Story NPCs/High Deities",
-    "NPCs/Random NPCs/Cyberpunk/Glaisa.md",
-    "NPCs/Random NPCs/Cyberpunk/Kirali.md"
+    "NPCs/Core Main Story NPCs/High Deities"
   ]
 }

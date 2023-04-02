@@ -16,3 +16,7 @@ Later that year, her world came crashing down around her. She had become friends
 
   
 ![](https://cdn.discordapp.com/attachments/1045549086071337020/1045549597205995540/unknown.png)
+
+
+
+Demi God Child of [[Xyphera (Goddess of Fire)]]

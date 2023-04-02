@@ -2,9 +2,8 @@
 
 #dnd/pc
 
-[[Noir (God of Darkness)]]
+[[The Warden]]
 
-[[Chiara (Goddess of Light)]]
 
 [[Aisling The Elf Queen]]
 

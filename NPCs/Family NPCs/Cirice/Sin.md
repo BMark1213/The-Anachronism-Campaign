@@ -1,5 +1,7 @@
 Mother of 
 
+[[Xyphera (Goddess of Fire)]]
+
 * [[Cirice {Keres (Death)}]]
 * [[NPCs/Family NPCs/Cirice/Wicus (Conquest)]]
 * [[NPCs/Family NPCs/Cirice/Edith (War)]]
