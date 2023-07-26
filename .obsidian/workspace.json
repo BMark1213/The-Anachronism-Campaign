@@ -38,14 +38,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Characters/Cirice {Keres (Death)}.md",
+                "file": "NPCs/Core Main Story NPCs/High Deities/Gods/Xypheros (God of Air).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe1c19b6b92eea97",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,6 +109,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "b562f1bcbbe83756",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -119,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NPCs/Core Main Story NPCs/High Deities/Gods/Xypheros (God of Air).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NPCs/Core Main Story NPCs/High Deities/Gods/Xypheros (God of Air).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/High Deities/Gods/Xypheros (God of Air).md"
+              }
             }
           },
           {
@@ -215,19 +238,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b9171ff6e65fa900",
+  "active": "fe1c19b6b92eea97",
   "lastOpenFiles": [
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Xyphera (Goddess of Fire).md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Vestaran (God of Earth).md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Lumidos (God of Water).md",
+    "NPCs/Core Main Story NPCs/High Deities/The Warden.md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Elysara (Goddess of Spirit).md",
     "Player Characters/Cirice {Keres (Death)}.md",
     "NPCs/Family NPCs/Cirice/Sin.md",
     "NPCs/Core Main Story NPCs/OG Anachronism Team/Aisling The Elf Queen.md",
     "NPCs/Side Story NPCs/The Original Timeline 13879/Groups/The Phayam Tribe.md",
     "NPCs/Side Story NPCs/Daisy Bell.md",
-    "NPCs/Core Main Story NPCs/High Deities/The Warden.md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Vestaran (God of Earth).md",
     "NPCs/Core Main Story NPCs/High Deities/Gods/Xypheros (God of Air).md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Lumidos (God of Water).md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Elysara (Goddess of Spirit).md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Xyphera (Goddess of Fire).md",
     "Player Characters/Varak (The Ferryman).md",
     "Worlds-Timelines/Purgatory/Purgatory.md",
     "NPCs/Family NPCs/Varak/Noir (God of Darkness).md",
