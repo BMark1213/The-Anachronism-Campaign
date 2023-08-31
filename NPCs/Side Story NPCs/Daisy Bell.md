@@ -1,3 +1,3 @@
-Child of [[Vestaran (God of Earth)]]
+Child of [[Vestarean (God of Earth)]]
 
 #DemiGods

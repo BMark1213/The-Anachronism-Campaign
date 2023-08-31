@@ -10,10 +10,72 @@
           {
             "id": "2c24ad13d01da5bb",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "0ef175ed64a5dee6",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Core Main Story NPCs/Ultra Gods/The Warden.md",
+                "file": "NPCs/Core Main Story NPCs/Elman 'The Shadow' Holt.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26a140711d4a69c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Side Story NPCs/The Original Timeline 13879/Evedarin.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "940c4107858768f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Side Story NPCs/The Anachronism (World)/Groups/The First Anachronism Team.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28858fe63a1f237e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Family NPCs/Cirice/Wanjala (Famine).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b722d0f8b6e856c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/High Deities/Gods/Xyphera (Goddess of Fire).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,6 +134,14 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "b0a63b50566ed05f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -86,7 +156,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "NPCs/Core Main Story NPCs/Ultra Gods/The Warden.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +172,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "NPCs/Core Main Story NPCs/Ultra Gods/The Warden.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,9 +182,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "NPCs/Core Main Story NPCs/Ultra Gods/The Warden.md"
-          }
+          "state": {}
         }
       },
       {
@@ -170,33 +236,33 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "0cf3b1ae8371fd72",
+  "active": "2c24ad13d01da5bb",
   "lastOpenFiles": [
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Xyphera (Goddess of Fire).md",
+    "NPCs/Family NPCs/Cirice/Wanjala (Famine).md",
+    "NPCs/Side Story NPCs/The Anachronism (World)/Groups/The First Anachronism Team.md",
+    "NPCs/Core Main Story NPCs/Gwydion.md",
+    "NPCs/Core Main Story NPCs/Elman 'The Shadow' Holt.md",
+    "NPCs/Side Story NPCs/The Original Timeline 13879/Evedarin.md",
+    "NPCs/Core Main Story NPCs/Aisling The Elf Queen.md",
+    "NPCs/Core Main Story NPCs/Virna (Time).md",
+    "NPCs/Core Main Story NPCs/Willow Crassus.md",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
+    "NPCs/Side Story NPCs/Purgatory/Psychopomps.md",
+    "Worlds-Timelines/The Original Timeline/The Original Timeline 1692/Salem.md",
+    "Worlds-Timelines/The Original Timeline/The Original Timeline 4328/The Original Timeline 4328.md",
+    "Worlds-Timelines/The Original Timeline/The Original Timeline 4328/The Woods of Time.md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Lumidos (God of Water).md",
+    "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
+    "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Xypheros (God of Air).md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Vestarean (God of Earth).md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Elysara (Goddess of Spirit).md",
     "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Fire.md",
     "NPCs/Core Main Story NPCs/Ultra Gods/The Warden.md",
     "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Air.md",
     "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Earth.md",
     "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Water.md",
-    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Adventuring.md",
-    "NPCs/Core Main Story NPCs/OG Anachronism Team/Aisling The Elf Queen.md",
-    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Fear.md",
-    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Anger.md",
-    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Morality.md",
-    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Hate.md",
-    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Fairness.md",
-    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Honesty.md",
-    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Wisdom.md",
-    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Love.md",
-    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Integrity.md",
-    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Faith.md",
-    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Justice.md",
-    "NPCs/Core Main Story NPCs/Gods/Demigods/Gods.md",
-    "Worlds-Timelines/The Arena/The Arena.md",
-    "NPCs/Side Story NPCs/Daisy Bell.md",
-    "NPCs/Core Main Story NPCs/Ultra Gods/Instability.md",
-    "NPCs/Arc Important NPCs/Cyberpunk 101010010/X Æ A-12.md",
-    "Worlds-Timelines/The Anachronism (World)/The Sanctuary of Balance.md",
-    "NPCs/Side Story NPCs/The Original Timeline 13879/Groups/The Phayam Tribe.md",
-    "NPCs/Core Main Story NPCs/Ultra Gods/Good.md"
+    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Adventuring.md"
   ]
 }

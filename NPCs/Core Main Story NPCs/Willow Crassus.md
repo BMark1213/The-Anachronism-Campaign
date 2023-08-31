@@ -2,7 +2,6 @@
 
 [[Zoltorb Grunklestein]]
 
-#OG_Team
 
 [Zatana Wynlana]
 

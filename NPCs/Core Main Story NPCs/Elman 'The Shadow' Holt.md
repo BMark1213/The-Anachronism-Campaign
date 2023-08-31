@@ -1,15 +1,14 @@
 [[Elre 'Patch' Perberos]]
 
-#OG_Team
 
-[[The Anachronism Teams Creation]]
+[[The Anachronism Teams Creation
 
-[[Zatana Wynlana]]
+[[Zatana Wynlana
 
 
-Originally from [[Worlds-Timelines/Ocean Earth 1971/Phospheu/Phospheu]]
+Originally from [[Worlds-Timelines/Ocean Earth 1971/Phospheu/Phospheu
 
-Captain of [[The Apocrypha]]
+Captain of [[The Apocrypha
 
 
 
@@ -24,4 +23,4 @@ Elman taught Patch everything he knew about leaving his old life behind and beco
 
 ![](https://cdn.discordapp.com/attachments/1040841635304574996/1044459237184647219/download20221101224754.png)
 
-[[War Against Magic]]
+[[War Against Magic
