@@ -1,5 +1,5 @@
 
-* [[Alex’s Character Test Change]]
+* [[Alex’s Character]]
 * [[Wicus (Conquest)]]
 * [[Sin]]
 * [[Wanjala (Famine)]]

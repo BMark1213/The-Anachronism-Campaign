@@ -1,4 +1,4 @@
-* [[Alex’s Character Test Change]]
+* [[Alex’s Character]]
 * [[Edith (War)]]
 * [[Sin]]
 * [[Wanjala (Famine)]]
