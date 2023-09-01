@@ -1,4 +1,4 @@
-[[Cirice {Keres (Death)}]]
+[[Alex’s Character]]
 
 [[Hell]]
 
@@ -7,6 +7,5 @@
 [[The Anachronism Teams Creation]]
 
 
-#OG_Team
-
+[[Xyphera (Goddess of Fire)]]
 

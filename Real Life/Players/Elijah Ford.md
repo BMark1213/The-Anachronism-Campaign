@@ -1,3 +1,0 @@
-#IRL
-
-[[Theatre Department]]

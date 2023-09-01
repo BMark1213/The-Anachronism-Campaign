@@ -11,7 +11,7 @@ Evil and Good were able to create Balance (The Warden) but not only did they cre
 [[Elysara (Goddess of Spirit)]]
 [[Xyphera (Goddess of Fire)]]
 [[Lumidos (God of Water)]]
-[[Vestaran (God of Earth)]]
+[[Vestarean (God of Earth)]]
 [[Xypheros (God of Air)]]
 
 

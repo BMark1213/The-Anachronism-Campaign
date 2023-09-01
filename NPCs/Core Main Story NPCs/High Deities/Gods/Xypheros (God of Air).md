@@ -1,5 +1,5 @@
 #Gods 
 
-The God of Air, Inspiration, Energy, Discovery, The Arts, and Innovation
+Xypheros: God of Air, Inspiration, Energy, Discovery, The Arts, Innovation, Flow, and Gender & Sexuallity
 
 Non Binary

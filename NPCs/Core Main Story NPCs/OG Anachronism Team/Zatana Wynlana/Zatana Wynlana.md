@@ -26,8 +26,8 @@ Zatana was brought into a kind of ritual chamber and stood where she was suppose
 
 She then gathered a team of amazing people:
 
-First [[Elman 'The Shadow' Holt]], then [Willow Crassus], then [[Aisling The Elf Queen]], and lastly [[Virna (Time)]].
 
+[[Virna (Time)]]
 
 
 
