@@ -7,7 +7,7 @@ tags: [timeline, inftime]
 [[Zatana Wynlana]]
 
 
-[[Virna (Time)
+[[Virna (Time)]]
 
 [[Willow Crassus
 
@@ -22,7 +22,7 @@ Forest Green: [Willow Crassus]
 Psychic Purple: [[Zatana Wynlana
 Icey Blue: [[Aisling The Elf Queen
 Void Black: Unknown
-Magma Red: [[Virna (Time)
+Magma Red: [[Virna (Time)]]
 
 Once this had happened the Warden flew into a rage. He then forced Zatana against the wall and held her there. The Warden then forced the others to there knees in a line in front of Zatana. He then said, "I expected more out of you Zatana. Attachments only lead to failure. That's the funny thing about friends isn't it. The more you love them the more it hurts when they go." The Warden then took a deep breath, looked at Zatana, raised his sword, and said, "Allow me to demonstrate." Then the Warden killed each individual team member as they all looked into Zatana's eyes. Zatana, physically unable to speak just cried. First went [[Elman 'The Shadow' Holt, then [Willow Crassus], then [[Aisling The Elf Queen, and lastly [[Virna (Time). The Warden then smiled at Zatana and said, "You will learn." As each of them died their soul went with the artifact that they had removed. 
 

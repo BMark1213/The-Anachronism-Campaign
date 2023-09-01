@@ -32,6 +32,6 @@ tags: [timeline, inftime]
 	  data-img = 'Base Info Folder/Images/Main Story/Treaty_Of_Magic.jpg' 
 	  data-type='range' 
 	  data-end='7955'> 
-	The Rift Walker becomes head of the Sorcerers and offers a treaty to the opposing party. They accept and they all meet at the center of the first battlefield and the Treaty of Magic is signed.
+	The Rift Walker becomes a neutral party due to the fact he gets magic from the stone but its a normal person. He offers a treaty to the both parties. They accept and they all meet at the center of the first battlefield and the Treaty of Magic is signed.
 </span>
 

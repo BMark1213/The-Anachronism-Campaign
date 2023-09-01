@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "0ef175ed64a5dee6",
+            "id": "1e7df59e1e7d87cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Core Main Story NPCs/Elman 'The Shadow' Holt.md",
+                "file": "Base Info Folder/Templates/Timeline Entry.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -31,12 +31,12 @@
             }
           },
           {
-            "id": "26a140711d4a69c1",
+            "id": "c722aac60a02376a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Side Story NPCs/The Original Timeline 13879/Evedarin.md",
+                "file": "Main Story Points/Wars/Sorcerers War.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -44,45 +44,20 @@
             }
           },
           {
-            "id": "940c4107858768f0",
+            "id": "cc26e7a640a4298a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Side Story NPCs/The Anachronism (World)/Groups/The First Anachronism Team.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28858fe63a1f237e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Family NPCs/Cirice/Wanjala (Famine).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b722d0f8b6e856c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Core Main Story NPCs/High Deities/Gods/Xyphera (Goddess of Fire).md",
+                "file": "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,6 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -172,6 +148,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -182,7 +159,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md"
+          }
         }
       },
       {
@@ -236,33 +215,39 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "2c24ad13d01da5bb",
+  "active": "cc26e7a640a4298a",
   "lastOpenFiles": [
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Xyphera (Goddess of Fire).md",
-    "NPCs/Family NPCs/Cirice/Wanjala (Famine).md",
-    "NPCs/Side Story NPCs/The Anachronism (World)/Groups/The First Anachronism Team.md",
-    "NPCs/Core Main Story NPCs/Gwydion.md",
-    "NPCs/Core Main Story NPCs/Elman 'The Shadow' Holt.md",
-    "NPCs/Side Story NPCs/The Original Timeline 13879/Evedarin.md",
-    "NPCs/Core Main Story NPCs/Aisling The Elf Queen.md",
-    "NPCs/Core Main Story NPCs/Virna (Time).md",
-    "NPCs/Core Main Story NPCs/Willow Crassus.md",
-    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
-    "NPCs/Side Story NPCs/Purgatory/Psychopomps.md",
-    "Worlds-Timelines/The Original Timeline/The Original Timeline 1692/Salem.md",
+    "Base Info Folder/Templates/Timeline Entry.md",
+    "Main Story Points/Wars/Sorcerers War.md",
+    "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md",
+    "Main Story Points/Universe Creation.md",
+    "Worlds-Timelines/The Anachronism (World)/The Battlefield of Time.md",
+    "Main Story Points/The Anachronism/The Anachronism Creation.md",
+    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Eclipse City.md",
+    "Important Artifacts/The God Killer.md",
     "Worlds-Timelines/The Original Timeline/The Original Timeline 4328/The Original Timeline 4328.md",
-    "Worlds-Timelines/The Original Timeline/The Original Timeline 4328/The Woods of Time.md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Lumidos (God of Water).md",
-    "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
+    "Worlds-Timelines/The Original Timeline/The Original Timeline 13879/The Original Timeline 13879.md",
+    "NPCs/Core Main Story NPCs/Gwydion.md",
+    "NPCs/Core Main Story NPCs/Samuel Whitlock.md",
+    "Main Loot/Story/The Captains Coin.md",
+    "Base Info Folder/Templates/NPC Template.md",
+    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/NPC Generator.md",
+    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deity Generator.md",
+    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Dice Generators/Deck of Many Things Generators.md",
+    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/Tables/Tarot Dice Tables.md",
+    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/Tables/Random Encounters.md",
+    "NPCs/Core Main Story NPCs/High Deities/The Warden.md",
+    "NPCs/Core Main Story NPCs/Virna (Time).md",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
+    "NPCs/Side Story NPCs/The Anachronism (World)/Groups/The First Anachronism Team.md",
     "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Xypheros (God of Air).md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Vestarean (God of Earth).md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Elysara (Goddess of Spirit).md",
-    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Fire.md",
-    "NPCs/Core Main Story NPCs/Ultra Gods/The Warden.md",
-    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Air.md",
-    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Earth.md",
-    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Water.md",
-    "NPCs/Core Main Story NPCs/Ultra Gods/Pieces/Adventuring.md"
+    "Main Story Points/The Anachronism/The Anachronism Teams Creation.md",
+    "NPCs/Side Story NPCs/The Original Timeline 13879/Evedarin.md",
+    "Players",
+    "Base Info Folder/Images/NPCs/Chisuke Himura {Kurayami Kutsuki}.jpeg",
+    "Base Info Folder/Images/NPCs/Zoltorb Grunklestein.png",
+    "Base Info Folder/Images/NPCs/TJ Remington.png",
+    "Base Info Folder/Images/Maps/Eclipse City.png",
+    "Base Info Folder/Images/Graphics/Phoenix_Flames.jpg"
   ]
 }

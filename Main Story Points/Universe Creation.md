@@ -12,7 +12,7 @@ tags: [timeline, inftime]
 	  class='ob-timelines' 
 	  data-date='0' 
 	  data-title='Universe Creation' 
-	  data-class='orange' 
+	  data-class='black' 
 	  data-img = 'Base Info Folder/Images/Graphics/Creation.jpg' 
 	  data-type='range' 
 	  data-end='0'> 
