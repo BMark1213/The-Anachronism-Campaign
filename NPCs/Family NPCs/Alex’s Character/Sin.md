@@ -2,7 +2,7 @@ Mother of
 
 [[Xyphera (Goddess of Fire)]]
 
-* [[Alex’s Character]]
+* [[Alex’s Character Test Change]]
 * [[Wicus (Conquest)]]
 * [[Edith (War)]]
 * [[Wanjala (Famine)]]

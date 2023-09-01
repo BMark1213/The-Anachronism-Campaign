@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Alex’s Character.md",
+                "file": "Players/Alex’s Character Test Change.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Alex’s Character.md",
+                "file": "Players/Alex’s Character Test Change.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,8 +60,13 @@
             "id": "13f5a036e33d4b24",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Players/Alex’s Character Test Change.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -147,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Players/Alex’s Character Test Change.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Players/Alex’s Character Test Change.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Players/Alex’s Character Test Change.md"
+              }
             }
           },
           {
@@ -242,7 +251,7 @@
   "active": "13f5a036e33d4b24",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "Players/Alex’s Character.md",
+    "Players/Alex’s Character Test Change.md",
     "NPCs/Side Story NPCs/Ocean Earth 1971/Groups/Damnation of the Sacred.md",
     "Players",
     "NPCs/Family NPCs/Alex’s Character/Wicus (Conquest).md",
