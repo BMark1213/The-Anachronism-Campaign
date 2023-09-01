@@ -47,13 +47,8 @@
             "id": "cc26e7a640a4298a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -131,7 +126,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -148,7 +142,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -159,9 +152,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md"
-          }
+          "state": {}
         }
       },
       {
@@ -215,11 +206,11 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "cc26e7a640a4298a",
+  "active": "0cf3b1ae8371fd72",
   "lastOpenFiles": [
+    "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md",
     "Base Info Folder/Templates/Timeline Entry.md",
     "Main Story Points/Wars/Sorcerers War.md",
-    "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md",
     "Main Story Points/Universe Creation.md",
     "Worlds-Timelines/The Anachronism (World)/The Battlefield of Time.md",
     "Main Story Points/The Anachronism/The Anachronism Creation.md",
