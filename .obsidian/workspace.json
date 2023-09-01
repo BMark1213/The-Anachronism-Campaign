@@ -63,22 +63,9 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "d19d9a510cb4bf08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,9 +184,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -256,7 +239,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "d19d9a510cb4bf08",
+  "active": "13f5a036e33d4b24",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Players/Alex’s Character.md",
