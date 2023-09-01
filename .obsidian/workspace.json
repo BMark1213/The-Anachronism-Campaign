@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "5f36399552f72f3f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
+          },
+          {
             "id": "730c7c62714cb58a",
             "type": "leaf",
             "pinned": true,
@@ -53,7 +63,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,7 +246,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b9171ff6e65fa900",
+  "active": "5f36399552f72f3f",
   "lastOpenFiles": [
     "NPCs/Core Main Story NPCs/High Deities/Gods/Xyphera (Goddess of Fire).md",
     "NPCs/Core Main Story NPCs/High Deities/Gods/Vestaran (God of Earth).md",
