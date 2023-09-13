@@ -1,5 +1,5 @@
-* [[Alex’s Character]]
-* [[Wicus (Conquest)]]
+* [[Utrilius (Conquest)]]
+* [[Dearil (Death)]]
 * [[Sin]]
 * [[Edith (War)]]
 *  [[Virna (Time)]]

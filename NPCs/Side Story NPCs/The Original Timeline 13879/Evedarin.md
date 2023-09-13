@@ -1,3 +1,3 @@
 [[Adecite Shard]]
 
-[[The Warden]]
+[[The Warden (Balance)]]

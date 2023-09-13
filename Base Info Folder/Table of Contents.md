@@ -31,7 +31,7 @@
 
 **Gods:**
 
-* [[The Warden]]
+* [[The Warden (Balance)]]
 
 **The First Team:**
 
@@ -61,7 +61,7 @@
 ##### Cirice {Keres (Death)}
 
 * [[Sin]] (Mom)
-* [[Wicus (Conquest)]] (Sister)
+* [[Dearil (Death)]] (Sister)
 * [[Edith (War)]] (Sister)
 * [[Wanjala (Famine)]] (Sister)
 

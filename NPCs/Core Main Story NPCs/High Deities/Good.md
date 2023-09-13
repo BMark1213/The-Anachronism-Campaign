@@ -1,6 +1,6 @@
 #HighDeities
 
-[[The Warden]]
+[[The Warden (Balance)]]
 
 [[Instability]]
 

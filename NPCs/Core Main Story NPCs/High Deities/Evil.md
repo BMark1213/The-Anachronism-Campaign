@@ -3,7 +3,7 @@ KL
 
 #HighDeities
 
-[[The Warden]]
+[[The Warden (Balance)]]
 
 [[Good]]
 

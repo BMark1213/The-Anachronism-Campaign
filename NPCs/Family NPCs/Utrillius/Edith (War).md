@@ -1,6 +1,6 @@
 
-* [[Alex’s Character]]
-* [[Wicus (Conquest)]]
+* [[Utrilius (Conquest)]]
+* [[Dearil (Death)]]
 * [[Sin]]
 * [[Wanjala (Famine)]]
 * [[Virna (Time)]]

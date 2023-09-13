@@ -2,8 +2,8 @@ Mother of
 
 [[Xyphera (Goddess of Fire)]]
 
-* [[Alex’s Character]]
-* [[Wicus (Conquest)]]
+* [[Utrilius (Conquest)]]
+* [[Dearil (Death)]]
 * [[Edith (War)]]
 * [[Wanjala (Famine)]]
 * [[Virna (Time)]]
