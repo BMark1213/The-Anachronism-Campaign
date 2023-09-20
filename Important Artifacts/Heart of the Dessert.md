@@ -1,1 +1,0 @@
-The [[Artificer Bomb]] main source of power.

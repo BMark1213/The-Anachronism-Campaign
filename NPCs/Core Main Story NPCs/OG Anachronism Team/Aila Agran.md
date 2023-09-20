@@ -1,8 +1,5 @@
-[[Utrilius (Conquest)]]
+[[Dordaral]]
 
-[[Hell]]
-
-[[Zatana Wynlana]]
 
 [[The Anachronism Teams Creation]]
 
@@ -11,5 +8,6 @@
 [[The First Anachronism Team]]
 
 
-[[Xyphera (Goddess of Fire)]]
+[[Horgar Agran]]
 
+[[Ilta Agran]]
