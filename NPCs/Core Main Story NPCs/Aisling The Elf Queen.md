@@ -1,5 +1,0 @@
-
-
-
-[[The Phayam Tribe]]
-

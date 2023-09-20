@@ -50,10 +50,17 @@
       }
     },
     {
-      "query": "tag:#DemiGods",
+      "query": "tag:#FalseGods  ",
       "color": {
         "a": 1,
         "rgb": 5395026
+      }
+    },
+    {
+      "query": "tag:#DemiGods",
+      "color": {
+        "a": 1,
+        "rgb": 8750469
       }
     },
     {
@@ -269,7 +276,7 @@
   "centerStrength": 0,
   "repelStrength": 18.75,
   "linkStrength": 0.795698924731183,
-  "linkDistance": 312,
-  "scale": 0.24940368621922138,
+  "linkDistance": 121,
+  "scale": 0.1166089157945732,
   "close": false
 }
