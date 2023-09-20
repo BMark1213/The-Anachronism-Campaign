@@ -39,9 +39,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3ef7f9340fa6bc3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -129,7 +139,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -225,7 +235,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "a5d725af00d8f2b5",
+  "active": "f3ef7f9340fa6bc3",
   "lastOpenFiles": [
     "NPCs/Side Story NPCs/Ocean Earth 1971/Groups/Damnation of the Sacred.md",
     "Worlds-Timelines/The Pantheon of Gods/The Pantheon of Gods.md",
