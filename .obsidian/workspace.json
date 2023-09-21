@@ -16,6 +16,19 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "cb7fd44e42655ba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Players/Danyver Nightbloom.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -181,11 +194,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,6 +218,8 @@
   },
   "active": "b9171ff6e65fa900",
   "lastOpenFiles": [
+    "Players/Danyver Nightbloom.md",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
     "conflict-files-obsidian-git.md",
     "Worlds-Timelines/Pradenia 5863/Pradenia 5863.md",
     "Worlds-Timelines/Pradenia 5863",
@@ -211,7 +228,6 @@
     "Worlds-Timelines/Contritum 372/Contritum 372.md",
     "Worlds-Timelines/Contritum 372",
     "Players/Folgaira Gigalad.md",
-    "Players/Danyver Nightbloom.md",
     "NPCs/Family NPCs/Folgaira Gigalad/Jade Gigalad.md",
     "NPCs/Family NPCs/Folgaira Gigalad/Ilta Agran.md",
     "NPCs/Family NPCs/Folgaira Gigalad/Horgar Agran.md",
@@ -238,7 +254,6 @@
     "Worlds-Timelines/The Hidden Line/The Hidden Line.md",
     "Worlds-Timelines/The Hidden Line/Temple of Flux.md",
     "Worlds-Timelines/The Hidden Line",
-    "Players/Utrilius (Conquest).md",
     "Base Info Folder/Images/NPCs/Zoltorb Grunklestein.png",
     "Base Info Folder/Images/NPCs/TJ Remington.png",
     "Base Info Folder/Images/NPCs/Cirice {Keres (Death)}.png",
