@@ -29,8 +29,58 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a941ad151e92fc54",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Base Info Folder/Images/The Tavern/The_Tavern_Inside.png"
+              }
+            }
+          },
+          {
+            "id": "342623356dc3cacc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1b774f7f127399e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Virna (Time).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24a1711e6df6dc93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -112,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +201,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md"
+              }
             }
           },
           {
@@ -216,10 +270,19 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "b9171ff6e65fa900",
+  "active": "24a1711e6df6dc93",
   "lastOpenFiles": [
-    "Players/Danyver Nightbloom.md",
+    "Base Info Folder/Images/Core NPCs/The_Warden_Hidden.jpg",
+    "Base Info Folder/Images/Core NPCs/The_Warden_Human.png",
+    "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
+    "Main Story Points/The Anachronism/The Anachronism Creation.md",
+    "Main Story Points/The Anachronism/The Anachronism Teams Creation.md",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Virna (Time).md",
     "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
+    "Base Info Folder/Images/Core NPCs/Zatana Young.png",
+    "Base Info Folder/Images/The Tavern/The_Tavern_Inside.png",
+    "Players/Danyver Nightbloom.md",
+    "Base Info Folder/Images/Core NPCs/Zatana.png",
     "conflict-files-obsidian-git.md",
     "Worlds-Timelines/Pradenia 5863/Pradenia 5863.md",
     "Worlds-Timelines/Pradenia 5863",
@@ -246,13 +309,8 @@
     "Main Story Points/Battles/Battle for the Isles.md",
     "Main Story Points/Battles",
     "NPCs/Side Story NPCs/Ocean Earth 1971/Groups/Damnation of the Sacred.md",
-    "Worlds-Timelines/The Pantheon of Gods/The Pantheon of Gods.md",
     "Worlds-Timelines/The Pantheon of Gods",
-    "Worlds-Timelines/The House of the High Deities/The House of the High Deities.md",
     "Worlds-Timelines/The House of the High Deities",
-    "Players/Alex’s Character.md",
-    "Worlds-Timelines/The Hidden Line/The Hidden Line.md",
-    "Worlds-Timelines/The Hidden Line/Temple of Flux.md",
     "Worlds-Timelines/The Hidden Line",
     "Base Info Folder/Images/NPCs/Zoltorb Grunklestein.png",
     "Base Info Folder/Images/NPCs/TJ Remington.png",
