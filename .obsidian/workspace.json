@@ -72,15 +72,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
+                "file": "Base Info Folder/Timelines/Zatana Full Story.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ebb996cc42b612a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Family NPCs/Utrillius/Wanjala (Famine).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +174,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +190,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,9 +211,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md"
-              }
+              "state": {}
             }
           },
           {
@@ -270,15 +278,19 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "24a1711e6df6dc93",
+  "active": "b9171ff6e65fa900",
   "lastOpenFiles": [
+    "NPCs/Family NPCs/Utrillius/Wanjala (Famine).md",
+    "Base Info Folder/Timelines/Zatana Full Story.md",
+    "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
+    "Base Info Folder/Images/Maps/Artifact Room.jpg",
+    "Base Info Folder/Images/Main Story/Treaty_Of_Magic.jpg",
     "Base Info Folder/Images/Core NPCs/The_Warden_Hidden.jpg",
     "Base Info Folder/Images/Core NPCs/The_Warden_Human.png",
-    "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
     "Main Story Points/The Anachronism/The Anachronism Creation.md",
     "Main Story Points/The Anachronism/The Anachronism Teams Creation.md",
     "NPCs/Core Main Story NPCs/OG Anachronism Team/Virna (Time).md",
-    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
     "Base Info Folder/Images/Core NPCs/Zatana Young.png",
     "Base Info Folder/Images/The Tavern/The_Tavern_Inside.png",
     "Players/Danyver Nightbloom.md",
@@ -308,14 +320,11 @@
     "Main Story Points/Battles/Destruction of Dordaral.md",
     "Main Story Points/Battles/Battle for the Isles.md",
     "Main Story Points/Battles",
-    "NPCs/Side Story NPCs/Ocean Earth 1971/Groups/Damnation of the Sacred.md",
     "Worlds-Timelines/The Pantheon of Gods",
     "Worlds-Timelines/The House of the High Deities",
     "Worlds-Timelines/The Hidden Line",
     "Base Info Folder/Images/NPCs/Zoltorb Grunklestein.png",
     "Base Info Folder/Images/NPCs/TJ Remington.png",
-    "Base Info Folder/Images/NPCs/Cirice {Keres (Death)}.png",
-    "Base Info Folder/Images/NPCs/Chrisclonk.jpg",
-    "Base Info Folder/Images/NPCs/Chisuke Himura {Kurayami Kutsuki}.jpeg"
+    "Base Info Folder/Images/NPCs/Cirice {Keres (Death)}.png"
   ]
 }
