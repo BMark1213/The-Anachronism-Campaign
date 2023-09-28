@@ -91,8 +91,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f645b55f41f5bc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Rant Generators/Cyberpunk NPC Generator.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -174,6 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Rant Generators/Cyberpunk NPC Generator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Rant Generators/Cyberpunk NPC Generator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +227,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Rant Generators/Cyberpunk NPC Generator.md"
+              }
             }
           },
           {
@@ -278,7 +296,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "b9171ff6e65fa900",
+  "active": "0f645b55f41f5bc9",
   "lastOpenFiles": [
     "NPCs/Family NPCs/Utrillius/Wanjala (Famine).md",
     "Base Info Folder/Timelines/Zatana Full Story.md",
