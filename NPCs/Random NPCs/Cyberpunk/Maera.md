@@ -5,9 +5,9 @@
 
 ## Basics
 
-This character's name is ✦Maera, **They/Them**
+This character's name is ✦Impulse, **They/Them**
 
-They are an ✦Tortle **Tattoo Artist**. They wear ✦Lime Green clothes with ✦Purple accents.
+They are an ✦Tiefling **Tattoo Artist**. They wear ✦Lime Green clothes with ✦Purple accents.
 
 They are ✦ridiculous and ✦naive
 

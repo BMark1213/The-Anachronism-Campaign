@@ -104,9 +104,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5530a958d3097a1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Rant Generators/Cyberpunk NPC Generator.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b6bb6d41f0632e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Random NPCs/Cyberpunk/Maera.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -188,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Rant Generators/Cyberpunk NPC Generator.md",
+                "file": "NPCs/Random NPCs/Cyberpunk/Maera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Rant Generators/Cyberpunk NPC Generator.md",
+                "file": "NPCs/Random NPCs/Cyberpunk/Maera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Rant Generators/Cyberpunk NPC Generator.md"
+                "file": "NPCs/Random NPCs/Cyberpunk/Maera.md"
               }
             }
           },
@@ -296,8 +322,9 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "0f645b55f41f5bc9",
+  "active": "5b6bb6d41f0632e8",
   "lastOpenFiles": [
+    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Rant Generators/Cyberpunk NPC Generator.md",
     "NPCs/Family NPCs/Utrillius/Wanjala (Famine).md",
     "Base Info Folder/Timelines/Zatana Full Story.md",
     "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
@@ -336,7 +363,6 @@
     "NPCs/Arc Important NPCs/Contritum/The Red Scarves.md",
     "NPCs/Arc Important NPCs/Contritum",
     "Main Story Points/Battles/Destruction of Dordaral.md",
-    "Main Story Points/Battles/Battle for the Isles.md",
     "Main Story Points/Battles",
     "Worlds-Timelines/The Pantheon of Gods",
     "Worlds-Timelines/The House of the High Deities",
