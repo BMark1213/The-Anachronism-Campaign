@@ -130,9 +130,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f1b0ec5a0d33de8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -322,7 +332,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "5b6bb6d41f0632e8",
+  "active": "8f1b0ec5a0d33de8",
   "lastOpenFiles": [
     "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Rant Generators/Cyberpunk NPC Generator.md",
     "NPCs/Family NPCs/Utrillius/Wanjala (Famine).md",
