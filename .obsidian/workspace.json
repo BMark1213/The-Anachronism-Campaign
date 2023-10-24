@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "793a6b5f152cd38d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d98f090e31f7b2b9",
@@ -234,7 +245,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "0fa458a051ed35b0",
+  "active": "793a6b5f152cd38d",
   "lastOpenFiles": [
     "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Hobin Ball Tournament.md",
     "Worlds-Timelines/Cyberpunk 101010010/Elon Musk Tomb.md",
