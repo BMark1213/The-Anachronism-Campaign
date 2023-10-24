@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1603c7f7d563c70f",
+        "id": "46a627ff10b4b968",
         "type": "tabs",
         "children": [
           {
-            "id": "b9171ff6e65fa900",
+            "id": "866c69225ddd530c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "9565a4b20290e9f6",
+            "id": "aa9b8bd951523fa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Hobin Ball Tournament.md",
+                "file": "NPCs/Core Main Story NPCs/Party NPCs/IMPULSE.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -31,12 +31,12 @@
             }
           },
           {
-            "id": "0fa458a051ed35b0",
+            "id": "e87559cd83750461",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Hobin Ball Tournament.md",
+                "file": "NPCs/Core Main Story NPCs/Party NPCs/IMPULSE.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -44,17 +44,84 @@
             }
           },
           {
-            "id": "793a6b5f152cd38d",
+            "id": "9d01de5af31aca80",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Virna (Time).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "753abf7af74c20d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Virna (Time).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7195227f6b6dd01e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/Party NPCs/IMPULSE.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f125168ea7864efa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/Party NPCs/Snake.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95dbfa6f1165d0e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Story Points/The Anachronism/The New Anachronism Team (PIT VIPERS).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c4fd7ede72898f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/Party NPCs/Snake.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d98f090e31f7b2b9",
@@ -137,7 +203,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Hobin Ball Tournament.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +219,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Hobin Ball Tournament.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,9 +240,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Hobin Ball Tournament.md"
-              }
+              "state": {}
             }
           },
           {
@@ -245,9 +307,23 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "793a6b5f152cd38d",
+  "active": "866c69225ddd530c",
   "lastOpenFiles": [
+    "NPCs/Core Main Story NPCs/Party NPCs/Snake.md",
+    "Main Story Points/The Anachronism/The New Anachronism Team (PIT VIPERS).md",
+    "NPCs/Core Main Story NPCs/Party NPCs/IMPULSE.md",
+    "NPCs/Core Main Story NPCs/Party NPCs",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Virna (Time).md",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Lydia Eosphoros.md",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Aila Agran.md",
+    "Main Story Points/The Anachronism/The Anachronism Teams Creation.md",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
     "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Hobin Ball Tournament.md",
+    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Eclipse City.md",
+    "NPCs/Random NPCs/Cyberpunk/Gangs/Razor Runners.md",
+    "Players/Folgaira Gigalad.md",
+    "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
+    "Main Story Points/The Anachronism/The Anachronism Creation.md",
     "Worlds-Timelines/Cyberpunk 101010010/Elon Musk Tomb.md",
     "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/The Tower.md",
     "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/The Steam Engine (Body Enhancements).md",
@@ -266,32 +342,18 @@
     "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Rant Generators/Cyberpunk NPC Generator.md",
     "NPCs/Family NPCs/Utrillius/Wanjala (Famine).md",
     "Base Info Folder/Timelines/Zatana Full Story.md",
-    "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
-    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
-    "Main Story Points/The Anachronism/The Anachronism Creation.md",
-    "Main Story Points/The Anachronism/The Anachronism Teams Creation.md",
-    "NPCs/Core Main Story NPCs/OG Anachronism Team/Virna (Time).md",
     "Players/Danyver Nightbloom.md",
     "conflict-files-obsidian-git.md",
     "Worlds-Timelines/Pradenia 5863/Pradenia 5863.md",
     "Worlds-Timelines/Pradenia 5863",
     "Worlds-Timelines/Contritum 372/Isle of the Damned.md",
-    "Worlds-Timelines/Contritum 372/Dordaral.md",
-    "Worlds-Timelines/Contritum 372/Contritum 372.md",
     "Worlds-Timelines/Contritum 372",
-    "Players/Folgaira Gigalad.md",
-    "NPCs/Family NPCs/Folgaira Gigalad/Jade Gigalad.md",
-    "NPCs/Family NPCs/Folgaira Gigalad/Ilta Agran.md",
-    "NPCs/Family NPCs/Folgaira Gigalad/Horgar Agran.md",
     "NPCs/Family NPCs/Folgaira Gigalad",
-    "NPCs/Core Main Story NPCs/OG Anachronism Team/Aila Agran.md",
-    "NPCs/Core Main Story NPCs/High Deities/High Table/The Warden (Balance).md",
     "NPCs/Core Main Story NPCs/High Deities/High Table",
     "NPCs/Core Main Story NPCs/High Deities/Gods Alliases",
     "NPCs/Arc Important NPCs/Contritum",
     "Main Story Points/Battles",
     "Worlds-Timelines/The Pantheon of Gods",
-    "Worlds-Timelines/The House of the High Deities",
-    "Worlds-Timelines/The Hidden Line"
+    "Worlds-Timelines/The House of the High Deities"
   ]
 }
