@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "file:\"Zatana\"",
@@ -272,11 +272,11 @@
   "textFadeMultiplier": -1.7,
   "nodeSizeMultiplier": 1.65677083333333,
   "lineSizeMultiplier": 1.4015625,
-  "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 18.75,
+  "collapse-forces": true,
+  "centerStrength": 0.0376344086021505,
+  "repelStrength": 15.9139784946237,
   "linkStrength": 0.795698924731183,
-  "linkDistance": 121,
-  "scale": 0.04231590268976099,
+  "linkDistance": 136,
+  "scale": 0.09392052178255168,
   "close": false
 }

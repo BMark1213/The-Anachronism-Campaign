@@ -17,11 +17,11 @@ tags: [timeline, inftime]
 
 <span 
 	  class='ob-timelines' 
-	  data-date='15050' 
-	  data-title='The Anachronism Team Dies' 
+	  data-date='16074' 
+	  data-title='The New Anachronism Team' 
 	  data-class='orange' 
-	  data-img = 'Base Info Folder/Images/Main Story/The Anachronism Team Death.jpg' 
+	  data-img = 'Base Info Folder/Images/Main Story/New_Team_Creation.png' 
 	  data-type='range' 
-	  data-end='15050'> 
-	After a long hard battle against the Warden fought by The Anachronism Team, The team manages to get rid of most of the artifacts. The Warden then slaughters the whole team in front Zatana mercilessly but leaves her alive. Zatana weeps over their dead bodies and makes a vow to get them back and destroy the Warden.
+	  data-end='16074'> 
+	Zatana ends up finding people in the timeline to create an new team to find the orbs and attempt to kill the warden again
 </span> 

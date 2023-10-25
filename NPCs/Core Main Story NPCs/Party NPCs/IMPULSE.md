@@ -3,6 +3,26 @@
 [[The Steam Engine (Body Enhancements)]]
 
 
+
+The ARM:  "I.M.P.U.L.S.E”: Integrated Mechanized Prosthesis Utilized for Lethal Strategic Engagements. 
+
+NAME: "I.M.P.U.L.S.E”: Iron-Melded Phantom, Underworld's Lurking Shadow Engineer"
+
+OG Cyber Name: Echo Volt 
+
+OG OG name: Nyx Bloodrift 
+
+[[Virna (Time)]]‘s old girlfriend
+
+[[Zatana Wynlana]]
+
+
+
+
+
+
+
+
 ## Basics
 
 This character's name is ✦Impulse, **They/Them**
