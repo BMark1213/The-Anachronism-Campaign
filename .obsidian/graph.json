@@ -11,7 +11,7 @@
       "query": "file:\"Zatana\"",
       "color": {
         "a": 1,
-        "rgb": 917529
+        "rgb": 2883628
       }
     },
     {
@@ -209,62 +209,6 @@
         "a": 1,
         "rgb": 10616642
       }
-    },
-    {
-      "query": "REAL LIFE MARKER",
-      "color": {
-        "a": 1,
-        "rgb": 5395026
-      }
-    },
-    {
-      "query": "tag:#DM",
-      "color": {
-        "a": 1,
-        "rgb": 3997696
-      }
-    },
-    {
-      "query": "tag:#The_Last_Yam_Inn",
-      "color": {
-        "a": 1,
-        "rgb": 6287
-      }
-    },
-    {
-      "query": "tag:#IRL",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "tag:#Department",
-      "color": {
-        "a": 1,
-        "rgb": 16904
-      }
-    },
-    {
-      "query": "path:\"Real Life/Places\"",
-      "color": {
-        "a": 1,
-        "rgb": 1179392
-      }
-    },
-    {
-      "query": "path:\"Real Life/Guests\"",
-      "color": {
-        "a": 1,
-        "rgb": 6094991
-      }
-    },
-    {
-      "query": "path:\"Real Life/Events\"",
-      "color": {
-        "a": 1,
-        "rgb": 16774912
-      }
     }
   ],
   "collapse-display": true,
@@ -273,10 +217,10 @@
   "nodeSizeMultiplier": 1.65677083333333,
   "lineSizeMultiplier": 1.4015625,
   "collapse-forces": true,
-  "centerStrength": 0.0376344086021505,
-  "repelStrength": 15.9139784946237,
-  "linkStrength": 0.795698924731183,
-  "linkDistance": 136,
-  "scale": 0.0939205217825519,
+  "centerStrength": 0,
+  "repelStrength": 18.6021505376344,
+  "linkStrength": 0.827956989247312,
+  "linkDistance": 407,
+  "scale": 0.020741977614507634,
   "close": false
 }

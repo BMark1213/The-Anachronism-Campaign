@@ -4,7 +4,7 @@
 
 
 
-The ARM:  "I.M.P.U.L.S.E”: Integrated Mechanized Prosthesis Utilized for Lethal Strategic Engagements. 
+The ARM:  "I.M.P.U.L.S.E”: Integrated Mechanized Prosthesis Utilized for Lethal Strategic Elimination. 
 
 NAME: "I.M.P.U.L.S.E”: Iron-Melded Phantom, Underworld's Lurking Shadow Engineer"
 

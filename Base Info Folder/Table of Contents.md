@@ -1,27 +1,22 @@
 
 ## Players
 
-* [[Varak (The Ferryman)]]
-* [[Elre 'Patch' Perberos]]
-* [[Cirice {Keres (Death)}]]
 
 
 
 
 ## Worlds/Timelines
 
-* [[Worlds-Timelines/The Anachronism (World)/The Anachronism (World)]]
-* [[The Original Timeline 13879]] (Zatana)
-* [[Worlds-Timelines/Post Apocalyptic 3564/Post Apocalyptic 3564]] (Zoltorb)
-* [[Worlds-Timelines/Ocean Earth 1971/Ocean Earth 1971]] (Elre 'Patch' Perberos)
-* [[Hell 397832]] (Cirice)
-* [[The Original Timeline 1692]] (Cirice)
+* [[The Anachronism (World)]]
+* [[The Original Timeline 13879]] 
+* [[Hell 397832]] 
 
 **Discovered:**
 
+* [[Cyberpunk 101010010]]
+
 **Undiscovered:**
 
-* [[Cyberpunk 101010010]]
 
 
 
@@ -43,20 +38,13 @@
 
 **Others:**
 
-* [[Gwydion]] (Zoltorb)
-* [[Lunarse the Tyrant of the Fallen Skies]] (Zoltorb)
-* [[Samuel Whitlock]] (Cirice)
+
 
 
 
 ### Family
 
-##### Elre 'Patch' Perberos
 
-* [[Jasper Perberos]] (Dad)
-* [[Rosalie Perberos]] (Mom)
-* [[The Blue Hawk]] (Ship)
-* [[The Apocrypha]] (Ship)
 
 ##### Cirice {Keres (Death)}
 
@@ -66,9 +54,7 @@
 * [[Wanjala (Famine)]] (Sister)
 
 
-##### Zoltorb Grunklestein
 
-Mother & Father Unknown
 
 
 
@@ -83,8 +69,6 @@ Mother & Father Unknown
 ### Side Story
 
 * [[NPCs/Side Story NPCs/The Anachronism (World)/Groups/The First Anachronism Team]] (Team)
-* [[NPCs/Side Story NPCs/Ocean Earth 1971/Groups/Damnation of the Sacred]] (Faction) (Elre 'Patch' Perberos)
-* [[NPCs/Side Story NPCs/Ocean Earth 1971/Groups/Tirade of Mystics]](Faction) (Elre 'Patch' Perberos)
 * [[NPCs/Side Story NPCs/The Original Timeline 13879/Groups/The Order of the Deserted Shadow]] (Faction) (Zatana)
 
 
@@ -99,8 +83,6 @@ Mother & Father Unknown
 * [[The Anachronism Teams Destruction]]
 * [[The Rift Walkers Gem]] (Original Timeline)
 * [[Sorcerers War]] (Original Timeline)
-* [[War Against Magic]] (Ocean Earth)
-* [[Burning Skies Event]] (Post Apocalyptic)
   
 
 
@@ -108,16 +90,14 @@ Mother & Father Unknown
 ## Artifacts
 
 * [[Adecite Shard]] (Original Timeline)
-* [[Artificer Bomb]] (Post Apocalyptic 3564)
-* [[Heart of the Dessert]] (Post Apocalyptic 3564)
 * [[Wanjala’s Ring]] (Material Plane 1692)
 
 ## Locations
 
 **The Anachronism (World)**
 
-* [[Worlds-Timelines/The Anachronism (World)/The Anachronism Tavern]]
-* [[Worlds-Timelines/The Anachronism (World)/The Battlefield of Time]]
+* [[The Anachronism Tavern]]
+* [[The Battlefield of Time]]
 
 **The Original Timeline 13879:**
 
@@ -127,14 +107,11 @@ Mother & Father Unknown
 
 **Post Apocalyptic 3564:**
 
-* [[Worlds-Timelines/Post Apocalyptic 3564/Gwydion’s Bunker]]
-* [[Worlds-Timelines/Post Apocalyptic 3564/The Fallen Skies Empire/The Fallen Skies Empire]]
-* [[Worlds-Timelines/Post Apocalyptic 3564/The Fallen Skies Empire/The Scavenging Division]]
+
 
 **Ocean Earth 1971:**
 
-* [[Worlds-Timelines/Ocean Earth 1971/Phospheu/Phospheu]]
-* [[Worlds-Timelines/Ocean Earth 1971/The Ocean]]
+
 
 **Planes of Existence:**
 
@@ -146,6 +123,4 @@ Material Plane:
 
 **Steampunk Earth 966:**
 
-* [[Worlds-Timelines/Steampunk Earth 966/Athebus]]
-* [[Worlds-Timelines/Steampunk Earth 966/Rale]]
 

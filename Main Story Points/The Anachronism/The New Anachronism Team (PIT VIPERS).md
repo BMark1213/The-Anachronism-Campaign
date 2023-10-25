@@ -3,7 +3,6 @@ tags: [timeline, inftime]
 ---
 
 
-
 [[Zatana Wynlana]]
 
 
@@ -13,6 +12,19 @@ tags: [timeline, inftime]
 [[Lillian Eosphoros]]
 [[Utrilius (Conquest)]]
 [[IMPULSE]]
+
+## Worlds Visited
+
+[[The Anachronism (World)]]
+[[Cyberpunk 101010010]] 
+
+### Towns Visited
+Eclipse City
+
+#### Events
+
+Hobin Ball Tournament
+
 
 
 <span 
