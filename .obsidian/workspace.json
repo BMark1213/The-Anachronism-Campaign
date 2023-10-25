@@ -41,14 +41,6 @@
             }
           },
           {
-            "id": "9d8d838593effcf1",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
-          },
-          {
             "id": "3bc63778feee78ef",
             "type": "leaf",
             "state": {
@@ -136,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -144,22 +138,6 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "67b18b79f1d40149",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "533486867a5e6c00",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
               "state": {}
             }
           },
@@ -180,6 +158,22 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "6998f03d45c0cdbb",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "9762b83ab3d3fce9",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -197,14 +191,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-gallery:Gallery": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "866c69225ddd530c",
+  "active": "688cf32a203cb5c1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Divinas.md",
+    "Base Info Folder/Images/Main Story/New_Team_Creation.png",
     "NPCs/Core Main Story NPCs/Party NPCs/Snake.md",
     "Main Story Points/The Anachronism/The New Anachronism Team (PIT VIPERS).md",
     "NPCs/Core Main Story NPCs/Party NPCs/IMPULSE.md",
@@ -233,16 +234,13 @@
     "Base Info Folder/Images/Main Story/The Anachronism Team Death.jpg",
     "Base Info Folder/Images/Main Story/Treaty_Of_Magic.jpg",
     "Base Info Folder/Images/Maps/Eclipse City.png",
-    "Base Info Folder/Images/Maps/Artifact Room.jpg",
     "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
     "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Rant Generators/Cyberpunk NPC Generator.md",
     "NPCs/Family NPCs/Utrillius/Wanjala (Famine).md",
     "Base Info Folder/Timelines/Zatana Full Story.md",
     "Players/Danyver Nightbloom.md",
-    "conflict-files-obsidian-git.md",
     "Worlds-Timelines/Pradenia 5863/Pradenia 5863.md",
     "Worlds-Timelines/Pradenia 5863",
-    "Worlds-Timelines/Contritum 372/Isle of the Damned.md",
     "Worlds-Timelines/Contritum 372",
     "NPCs/Family NPCs/Folgaira Gigalad",
     "NPCs/Core Main Story NPCs/High Deities/High Table",
