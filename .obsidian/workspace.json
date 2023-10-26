@@ -128,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,7 +199,7 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "688cf32a203cb5c1",
+  "active": "866c69225ddd530c",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "NPCs/Core Main Story NPCs/OG Anachronism Team/Divinas.md",
