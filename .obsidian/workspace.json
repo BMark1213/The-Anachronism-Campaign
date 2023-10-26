@@ -16,6 +16,19 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "b4c7a962e3e639d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Players/Utrilius (Conquest).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -201,6 +214,7 @@
   },
   "active": "866c69225ddd530c",
   "lastOpenFiles": [
+    "Players/Utrilius (Conquest).md",
     "Worlds-Timelines/Nezzi 909/The Dunes of Donaar.md",
     "Worlds-Timelines/Nezzi 909/Nezzi 909.md",
     "Worlds-Timelines/Nezzi 909/Aroonshire.md",
@@ -238,7 +252,6 @@
     "Base Info Folder/Images/Main Story/Treaty_Of_Magic.jpg",
     "Base Info Folder/Images/Maps/Eclipse City.png",
     "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
-    "Base Info Folder/Obsidian-Dice-Roller-Tables-main/_Generators/Rant Generators/Cyberpunk NPC Generator.md",
     "Worlds-Timelines/Pradenia 5863",
     "Worlds-Timelines/Contritum 372",
     "NPCs/Family NPCs/Folgaira Gigalad",
