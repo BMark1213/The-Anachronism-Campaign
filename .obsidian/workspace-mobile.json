@@ -18,149 +18,25 @@
             }
           },
           {
-            "id": "a55c3a038965a43b",
+            "id": "e380c2b182b6dc2a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Important Artifacts/The God Killer.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "a50739a644e0996e",
+            "id": "b4d57efc30b521ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Important Artifacts/Microchip 01001001 01101110 01100110.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f137951f5fba9a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds-Timelines/Cyberpunk 101010010/Elon Musk Tomb.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0317579a06e15a3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93c3dbd430025112",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Story Points/The Anachronism/The New Anachronism Team (PIT VIPERS).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "387a306727958fc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Random NPCs/Cyberpunk/Gangs/Razor Runners.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5527e639846c7a32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Story Points/The Anachronism/The New Anachronism Team (PIT VIPERS).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1012b5324aa41569",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "643bb8a493d003e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Story Points/The Anachronism/The New Anachronism Team (PIT VIPERS).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e909971e36fc9de5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Eclipse City.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ff9504e9028a21f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds-Timelines/Nezzi 909/Aroonshire.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Base Info Folder/Images/Core NPCs/Gods/IMG_0304.WEBP"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -244,6 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Base Info Folder/Images/Core NPCs/Gods/IMG_0304.WEBP",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -260,6 +137,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Base Info Folder/Images/Core NPCs/Gods/IMG_0304.WEBP",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -270,7 +148,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Base Info Folder/Images/Core NPCs/Gods/IMG_0304.WEBP"
+          }
         }
       },
       {
@@ -325,8 +205,27 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "0fedfce836917d58",
+  "active": "b4d57efc30b521ae",
   "lastOpenFiles": [
+    "Base Info Folder/Images/Core NPCs/Gods/IMG_0306.WEBP",
+    "Base Info Folder/Images/Core NPCs/Gods/IMG_0307.WEBP",
+    "Base Info Folder/Images/Core NPCs/Gods/IMG_0308.WEBP",
+    "Base Info Folder/Images/Core NPCs/Core Party/Willow_Crassus.png",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Xypheros (God of Air).md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Xyphera (Goddess of Fire).md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Vestarean (God of Earth).md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Elysara (Goddess of Spirit).md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Lumidos (God of Water).md",
+    "Base Info Folder/Images/Core NPCs/Gods/Lumidos (God of Water).PNG",
+    "Players/Danyver Nightbloom.md",
+    "Base Info Folder/Images/Core NPCs/Gods/Elysara (Goddess of Spirit).PNG",
+    "Base Info Folder/Images/Core NPCs/Gods/Xypheros (God of Air).PNG",
+    "Base Info Folder/Images/Core NPCs/Gods/Xyphera (Goddess of Fire).PNG",
+    "Base Info Folder/Images/Core NPCs/Gods/Vestarean (God of Earth).PNG",
+    "Base Info Folder/Images/Core NPCs/Gods/IMG_0300 2.PNG",
+    "Base Info Folder/Images/Core NPCs/Gods/IMG_0300.zip",
+    "Base Info Folder/Images/Core NPCs/Gods/IMG_0300.PNG",
+    "Base Info Folder/Images/Core NPCs/Gods",
     "Worlds-Timelines/Nezzi 909/Aroonshire.md",
     "Main Story Points/The Anachronism/The New Anachronism Team (PIT VIPERS).md",
     "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Eclipse City.md",
@@ -341,38 +240,19 @@
     "Worlds-Timelines/Nezzi 909/Nezzi 909.md",
     "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
     "Worlds-Timelines/Nezzi 909/The Dunes of Donaar.md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Elysara (Goddess of Spirit).md",
-    "Base Info Folder/Images/Rift Walker/Portal_Testing.jpg",
-    "Base Info Folder/Images/Rift Walker/The_Rift_Walker.png",
-    "Base Info Folder/Images/Core NPCs/The_Warden_Hidden.jpg",
-    "Base Info Folder/Images/Core NPCs/Zatana Young.png",
-    "Base Info Folder/Images/Core NPCs/Zatana.png",
-    "Base Info Folder/Images/Core NPCs/The_Warden_Human.png",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Xyphera (Goddess of Fire).md",
     "NPCs/Core Main Story NPCs/High Deities/High Table/The Warden (Balance).md",
-    "Base Info Folder/Images/Main Story/Love_of_Good_and_Evil.jpg",
-    "Base Info Folder/Images/Main Story/Good_vs_Evil.jpg",
-    "Base Info Folder/Images/Main Story/Good_and_Evil.jpg",
     "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md",
     "Base Info Folder/Timelines/Zatana Full Story.md",
     "Worlds-Timelines/The Anachronism (World)/The Anachronism (World).md",
     "Worlds-Timelines/Riptide (World)/Riptide (World).md",
-    "Worlds-Timelines/The Anachronism (World)/The Battlefield of Time.md",
-    "Worlds-Timelines/Nezzi 909/Pradenia 5863.md",
-    "Worlds-Timelines/Pradenia 5863/Pradenia 5863.md",
-    "Worlds-Timelines/The Pantheon of Gods/The Pantheon of Gods.md",
     "Worlds-Timelines/Nezzi 909",
-    "Worlds-Timelines/Contritum 372/Contritum 372.md",
     "Worlds-Timelines/Untitled",
-    "Base Info Folder/Images/Main Story/The Anachronism Team Death.jpg",
     "Worlds-Timelines/Pradenia 5863",
     "Untitled.canvas",
     "Main Story Points/Battles",
     "NPCs/Arc Important NPCs/Contritum 1",
     "NPCs/Arc Important NPCs/Contritum",
     "NPCs/Core Main Story NPCs/High Deities/High Table",
-    "NPCs/Core Main Story NPCs/High Deities/Gods Alliases",
-    "NPCs/Family NPCs/Folgaira Gigalad",
-    "Worlds-Timelines/Contritum 372"
+    "NPCs/Core Main Story NPCs/High Deities/Gods Alliases"
   ]
 }
