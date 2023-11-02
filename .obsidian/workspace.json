@@ -16,8 +16,29 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "43a453d84571aee9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Base Info Folder/Images/Core NPCs/Gods/Xypheros (God of Air).webp"
+              }
+            }
+          },
+          {
+            "id": "2299952a34d387e5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Base Info Folder/Images/Core NPCs/Gods/Xypheros (God of Air).webp"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -75,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 324.5
   },
   "right": {
     "id": "d98f090e31f7b2b9",
@@ -91,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base Info Folder/Images/Core NPCs/Gods/Xypheros (God of Air).webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base Info Folder/Images/Core NPCs/Gods/Xypheros (God of Air).webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base Info Folder/Images/Core NPCs/Gods/Xypheros (God of Air).webp"
+              }
             }
           },
           {
@@ -201,13 +226,24 @@
   },
   "active": "688cf32a203cb5c1",
   "lastOpenFiles": [
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Xypheros (God of Air).md",
+    "Base Info Folder/Images/Core NPCs/Gods/Xypheros (God of Air).webp",
+    "conflict-files-obsidian-git.md",
+    "Base Info Folder/Images/Core NPCs/Gods/Xyphera (Goddess of Fire).webp",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Xyphera (Goddess of Fire).md",
+    "Base Info Folder/Images/Core NPCs/Gods/Vestarean (God of Earth).webp",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Vestarean (God of Earth).md",
+    "Base Info Folder/Images/Core NPCs/Gods/Elysara (Goddess of Spirit).webp",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Elysara (Goddess of Spirit).md",
+    "Base Info Folder/Images/Core NPCs/Gods/Lumidos (God of Water).webp",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Lumidos (God of Water).md",
+    "Base Info Folder/Images/Core NPCs/Gods",
     "Players/Utrilius (Conquest).md",
     "Worlds-Timelines/Nezzi 909/The Dunes of Donaar.md",
     "Worlds-Timelines/Nezzi 909/Nezzi 909.md",
     "Worlds-Timelines/Nezzi 909/Aroonshire.md",
     "Worlds-Timelines/Nezzi 909",
     "Important Artifacts/Microchip 01001001 01101110 01100110.md",
-    "conflict-files-obsidian-git.md",
     "NPCs/Core Main Story NPCs/OG Anachronism Team/Divinas.md",
     "Base Info Folder/Images/Main Story/New_Team_Creation.png",
     "NPCs/Core Main Story NPCs/Party NPCs/Snake.md",
@@ -225,27 +261,16 @@
     "Players/Folgaira Gigalad.md",
     "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
     "Main Story Points/The Anachronism/The Anachronism Creation.md",
-    "Worlds-Timelines/Cyberpunk 101010010/Elon Musk Tomb.md",
-    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/The Tower.md",
-    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/The Steam Engine (Body Enhancements).md",
-    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Knock Out Inn.md",
     "Base Info Folder/Images/Graphics/Creation.jpg",
     "Base Info Folder/Images/Graphics/Phoenix_Flames.jpg",
     "Base Info Folder/Images/Main Story/Good_vs_Evil.jpg",
     "Base Info Folder/Images/Main Story/Good_and_Evil.jpg",
-    "Base Info Folder/Images/Main Story/Love_of_Good_and_Evil.jpg",
-    "Base Info Folder/Images/Main Story/Sorcerer_Wars.jpg",
-    "Base Info Folder/Images/Main Story/The Anachronism Team Death.jpg",
-    "Base Info Folder/Images/Main Story/Treaty_Of_Magic.jpg",
-    "Base Info Folder/Images/Maps/Eclipse City.png",
-    "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
     "Worlds-Timelines/Pradenia 5863",
     "Worlds-Timelines/Contritum 372",
     "NPCs/Family NPCs/Folgaira Gigalad",
     "NPCs/Core Main Story NPCs/High Deities/High Table",
     "NPCs/Core Main Story NPCs/High Deities/Gods Alliases",
     "NPCs/Arc Important NPCs/Contritum",
-    "Main Story Points/Battles",
-    "Worlds-Timelines/The Pantheon of Gods"
+    "Main Story Points/Battles"
   ]
 }
