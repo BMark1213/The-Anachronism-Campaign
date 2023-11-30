@@ -267,7 +267,7 @@ The weapon grabbed is:
 - [ ]  Vengeance, Spear, Very beautiful kind and crystalline
 - [ ]  Shadowsteel, Halberd, Obsidian blade
 - [ ]  Hellreaver, Trident, Color changing blade that looks like fire, and emits heat
-- [ ]  Bloodmoon, Longsword, Handle is moon white with drips of blood, and the blade is blood red.**
+- [ ]  Bloodmoon, Longsword, Handle is moon white with drips of blood, and the blade is blood red.
 
   
   
