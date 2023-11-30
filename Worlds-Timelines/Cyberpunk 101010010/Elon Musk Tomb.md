@@ -55,6 +55,26 @@ Across from the door they entered s a large set of double doors, which reads "It
 
 When players interact with the pressure plates, it causes the rubble to float into the air. Players will notice that the rubble is forming words. However, each player sees something completely different. Despite each player seeing something different, there is a theme. (Ex. Player One sees dew, Two sees river, Three sees ice, Four sees mist. Theme: water/liquids) When players identify/say the theme and place the bottles of the theme on each pedestal, the double doors at the opposite end will open. 
 
+
+1. **Glowing Ember Stone**: A small, red stone that glows softly.
+    
+2. **Frost-Sealed Vial**: A vial containing swirling, icy mist.
+    
+3. **Eternal Sand Hourglass**: An hourglass with sand that flows upwards.
+    
+4. **Singing Crystal Shard**: A crystal shard that hums a melody.
+    
+5. **Moonlit Pearl**: A pearl that shines like moonlight.
+    
+6. **Shadow Box**: A small box that absorbs light.
+    
+7. **Sunbeam Lantern**: A lantern that glows with sunlight even in darkness.
+    
+8. **Mystic Seed Pod**: A pod with a pulsating, colorful glow.
+    
+9. **Rune-Engraved Bone**: A bone with ancient runes etched into it.
+    
+10. **Dreamcatcher Amulet**: An amulet with a miniature dreamcatcher.
   
 
 Themes: Space, Transportation, and Birds
