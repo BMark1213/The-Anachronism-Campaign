@@ -61,7 +61,7 @@ When players interact with the pressure plates, it causes the rubble to float in
 **Eternal Sand Hourglass**: An hourglass with sand that flows upwards.
 **Bottle of Oil**
 **Singing Crystal Shard**: A crystal shard that hums a melody.
-**Moonlit Pearl**: A pearl that shines like moonlight.\
+**Moonlit Pearl**: A pearl that shines like moonlight.
 **Bottle of Nebula**
 **Shadow Box**: A small box that absorbs light.
 **Sunbeam Lantern**: A lantern that glows with sunlight even in darkness.
