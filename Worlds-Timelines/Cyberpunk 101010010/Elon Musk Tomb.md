@@ -114,7 +114,7 @@ Number 1:
     
 3.  Star
     
-4.  Galaxy
+4.  Planet
     
 5.  Cosmic
     
