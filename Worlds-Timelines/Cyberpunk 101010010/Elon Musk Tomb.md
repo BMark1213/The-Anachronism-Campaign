@@ -193,19 +193,19 @@ The Lockpick's Door
 
   
 
-The first lock says "Open" in Common.  
+The first lock says "Open" in Common.  -
 
-The second lock says "Close" in Elvish.
+The second lock says "Close" in Elvish. Vera
 
 The third lock says "Open" in Dwarvish.
 
-The fourth lock says "Close" in Infernal.
+The fourth lock says "Close" in Infernal. Tril/Lil
 
 The fifth lock says "Open" in Gnomish.
 
 The seventh lock says "Close" in Theves' Cant.
 
-The sixth lock says "Close" in Undercommon.
+The sixth lock says "Close" in Undercommon. Tril/Lil
 
 The Eighth lock says "Open" in Goblin.
   
