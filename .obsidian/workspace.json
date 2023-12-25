@@ -36,14 +36,145 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worlds-Timelines/Addola 2063/Auguste.md",
+                "file": "Worlds-Timelines/Addola 2063/Auguste/Auguste.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "338b59c36706bd02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds-Timelines/The Hidden Line/Norwich.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb75a710a3b8303e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds-Timelines/The Hidden Line/The Hidden Line.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "634ee031830d9363",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Players/Lillian Eosphoros.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bf27d17f11765e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Players/Danyver Nightbloom.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d370de779423e685",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Story Points/Battles/Battle for the Isles.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0adbaaa29135e442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Important Artifacts/Multidimensional Compass of Desire.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bfa7a60d67ef211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Important Artifacts/The Compass of Desire.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "722d5e6a02a878a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Important Artifacts/The Compass of Desire.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79bed45cdbe34ca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds-Timelines/Addola 2063/Auguste/Auguste.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e48f7dd0320c891",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds-Timelines/Addola 2063/Auguste/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -117,6 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Worlds-Timelines/Addola 2063/Auguste/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Worlds-Timelines/Addola 2063/Auguste/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +287,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Worlds-Timelines/Addola 2063/Auguste/Untitled.md"
+              }
             }
           },
           {
@@ -239,9 +374,19 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "866c69225ddd530c",
+  "active": "4e48f7dd0320c891",
   "lastOpenFiles": [
-    "Worlds-Timelines/Addola 2063/Auguste.md",
+    "Worlds-Timelines/Addola 2063/Auguste/Untitled.md",
+    "Worlds-Timelines/Addola 2063/Auguste/Auguste.md",
+    "Worlds-Timelines/Addola 2063/Auguste",
+    "Important Artifacts/The Compass of Desire.md",
+    "Important Artifacts/Multidimensional Compass of Desire.md",
+    "Main Story Points/Battles/Battle for the Isles.md",
+    "Players/Danyver Nightbloom.md",
+    "Players/Lillian Eosphoros.md",
+    "Worlds-Timelines/The Hidden Line/The Hidden Line.md",
+    "Worlds-Timelines/The Hidden Line/Norwich.md",
+    "Worlds-Timelines/Contritum 372/Dordaral.md",
     "Players/Spoon (Unknown Name).md",
     "NPCs/Core Main Story NPCs/High Deities/Gods/Xypheros (God of Air).md",
     "NPCs/Core Main Story NPCs/High Deities/Gods/Lumidos (God of Water).md",
@@ -258,17 +403,8 @@
     "NPCs/Core Main Story NPCs/OG Anachronism Team/Divinas.md",
     "NPCs/Core Main Story NPCs/OG Anachronism Team/Aila Agran.md",
     "Worlds-Timelines/Addola 2063/Addola 2063.md",
-    "Worlds-Timelines/Contritum 372/Dordaral.md",
-    "Players/Danyver Nightbloom.md",
     "Worlds-Timelines/2063/Untitled.md",
-    "Worlds-Timelines/Nezzi 909/Nezzi 909.md",
     "Worlds-Timelines/Addola 2063",
-    "Worlds-Timelines/Worlds-Timelines.md",
-    "Worlds-Timelines/Nezzi 909/The Dunes of Donaar.md",
-    "Worlds-Timelines/Hell 397832/Hell 397832.md",
-    "Worlds-Timelines/Pradenia 5863/Pradenia 5863.md",
-    "Worlds-Timelines/Contritum 372/Isle of the Damned.md",
-    "Worlds-Timelines/Contritum 372/Contritum 372.md",
     "Base Info Folder/Images/Core NPCs/Gods/Xypheros (God of Air).webp",
     "Base Info Folder/Images/Core NPCs/Gods/Xyphera (Goddess of Fire).webp",
     "Base Info Folder/Images/Core NPCs/Gods/Lumidos (God of Water).webp",
@@ -285,7 +421,6 @@
     "Worlds-Timelines/Pradenia 5863",
     "Worlds-Timelines/Contritum 372",
     "NPCs/Family NPCs/Folgaira Gigalad",
-    "NPCs/Core Main Story NPCs/High Deities/High Table",
-    "NPCs/Core Main Story NPCs/High Deities/Gods Alliases"
+    "NPCs/Core Main Story NPCs/High Deities/High Table"
   ]
 }

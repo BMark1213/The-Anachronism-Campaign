@@ -1,6 +1,4 @@
 
-[[Riptide (World)]]
-
-[[NPCs/Side Story NPCs/Riptide World/Gillion Tidestrider]]
+[[Spoon (Unknown Name)]]
 
 ![[Compass_of_Desire.JPG]]
