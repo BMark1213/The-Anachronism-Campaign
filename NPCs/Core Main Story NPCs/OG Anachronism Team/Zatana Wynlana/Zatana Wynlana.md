@@ -27,10 +27,6 @@ Zatana was brought into a kind of ritual chamber and stood where she was suppose
 She then gathered a team of amazing people:
 
 
-[[Virna (Time)]]
-
-
-
 
 
 

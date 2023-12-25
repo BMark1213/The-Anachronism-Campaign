@@ -29,8 +29,152 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c642e8223750912",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72af2ffac9bcca68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Old Man Chester.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a050c66c3a3844d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Old Man Chester.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb872445e8c00ed3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Divinas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3efcea35e43c4893",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Arc Important NPCs/Cyberpunk 101010010/X Æ A-12.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08b3fac2b3f38522",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Arc Important NPCs/Addola 2063/THE KING.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de6598c091343827",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Old Man Chester.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb65f5ad07df7f7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/Party NPCs/IMPULSE.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef9812d1aaa850ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Virna (Time).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "732c506c04bdb93b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a15b69a11039ee96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/High Deities/Gods/Lumidos (God of Water).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -104,6 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NPCs/Core Main Story NPCs/High Deities/Gods/Lumidos (God of Water).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NPCs/Core Main Story NPCs/High Deities/Gods/Lumidos (God of Water).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +287,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/High Deities/Gods/Lumidos (God of Water).md"
+              }
             }
           },
           {
@@ -226,9 +374,21 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "866c69225ddd530c",
+  "active": "a15b69a11039ee96",
   "lastOpenFiles": [
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Vestarean (God of Earth).md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Xyphera (Goddess of Fire).md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Xypheros (God of Air).md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Lumidos (God of Water).md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Elysara (Goddess of Spirit).md",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Virna (Time).md",
+    "NPCs/Core Main Story NPCs/Party NPCs/IMPULSE.md",
     "NPCs/Core Main Story NPCs/OG Anachronism Team/Old Man Chester.md",
+    "NPCs/Arc Important NPCs/Addola 2063/THE KING.md",
+    "NPCs/Arc Important NPCs/Cyberpunk 101010010/X Æ A-12.md",
+    "NPCs/Arc Important NPCs/Addola 2063",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Divinas.md",
     "Players/Spoon (Unknown Name).md",
     "NPCs/Core Main Story NPCs/OG Anachronism Team/Aila Agran.md",
     "Worlds-Timelines/Addola 2063/Auguste.md",
@@ -244,23 +404,12 @@
     "Worlds-Timelines/Pradenia 5863/Pradenia 5863.md",
     "Worlds-Timelines/Contritum 372/Isle of the Damned.md",
     "Worlds-Timelines/Contritum 372/Contritum 372.md",
-    "Worlds-Timelines/Cyberpunk 101010010/Elon Musk Tomb.md",
-    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Eclipse City.md",
-    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
-    "NPCs/Core Main Story NPCs/Party NPCs/IMPULSE.md",
     "Base Info Folder/Images/Core NPCs/Gods/Xypheros (God of Air).webp",
     "Base Info Folder/Images/Core NPCs/Gods/Xyphera (Goddess of Fire).webp",
     "Base Info Folder/Images/Core NPCs/Gods/Lumidos (God of Water).webp",
     "Base Info Folder/Images/Core NPCs/Gods/Elysara (Goddess of Spirit).webp",
     "Base Info Folder/Images/Core NPCs/Gods/Vestarean (God of Earth).webp",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Xypheros (God of Air).md",
-    "conflict-files-obsidian-git.md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Xyphera (Goddess of Fire).md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Vestarean (God of Earth).md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Elysara (Goddess of Spirit).md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Lumidos (God of Water).md",
     "Base Info Folder/Images/Core NPCs/Gods",
-    "Players/Utrilius (Conquest).md",
     "Worlds-Timelines/Nezzi 909",
     "Base Info Folder/Images/Main Story/New_Team_Creation.png",
     "NPCs/Core Main Story NPCs/Party NPCs",
@@ -272,7 +421,6 @@
     "Worlds-Timelines/Contritum 372",
     "NPCs/Family NPCs/Folgaira Gigalad",
     "NPCs/Core Main Story NPCs/High Deities/High Table",
-    "NPCs/Core Main Story NPCs/High Deities/Gods Alliases",
-    "NPCs/Arc Important NPCs/Contritum"
+    "NPCs/Core Main Story NPCs/High Deities/Gods Alliases"
   ]
 }

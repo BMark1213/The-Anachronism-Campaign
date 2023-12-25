@@ -5,7 +5,6 @@
 
 [[NPCs/Core Main Story NPCs/Party NPCs/Snake|Snake]]
 
-[[Zatana Wynlana]]
 
 [[The Anachronism Teams Creation]]
 
