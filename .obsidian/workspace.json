@@ -18,64 +18,12 @@
             }
           },
           {
-            "id": "9f68ce044389e9bf",
+            "id": "b738a402fab6ce04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worlds-Timelines/Addola 2063/Addola 2063.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d83545ccd5ac73b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Players/Spoon (Unknown Name).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be71c708dfcfdcc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds-Timelines/Contritum 372/Dordaral.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b7ee9ccbd3feb32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Players/Spoon (Unknown Name).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f0f180232f79970",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds-Timelines/Addola 2063/Auguste.md",
+                "file": "NPCs/Core Main Story NPCs/OG Anachronism Team/Old Man Chester.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -280,9 +228,11 @@
   },
   "active": "866c69225ddd530c",
   "lastOpenFiles": [
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Old Man Chester.md",
+    "Players/Spoon (Unknown Name).md",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Aila Agran.md",
     "Worlds-Timelines/Addola 2063/Auguste.md",
     "Worlds-Timelines/Addola 2063/Addola 2063.md",
-    "Players/Spoon (Unknown Name).md",
     "Worlds-Timelines/Contritum 372/Dordaral.md",
     "Players/Danyver Nightbloom.md",
     "Worlds-Timelines/2063/Untitled.md",
@@ -311,9 +261,7 @@
     "NPCs/Core Main Story NPCs/High Deities/Gods/Lumidos (God of Water).md",
     "Base Info Folder/Images/Core NPCs/Gods",
     "Players/Utrilius (Conquest).md",
-    "Worlds-Timelines/Nezzi 909/Aroonshire.md",
     "Worlds-Timelines/Nezzi 909",
-    "Important Artifacts/Microchip 01001001 01101110 01100110.md",
     "Base Info Folder/Images/Main Story/New_Team_Creation.png",
     "NPCs/Core Main Story NPCs/Party NPCs",
     "Base Info Folder/Images/Graphics/Creation.jpg",
