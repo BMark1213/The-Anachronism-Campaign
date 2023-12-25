@@ -52,5 +52,14 @@
       ],
       "key": "M"
     }
+  ],
+  "obsidian-git:fetch": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "J"
+    }
   ]
 }
