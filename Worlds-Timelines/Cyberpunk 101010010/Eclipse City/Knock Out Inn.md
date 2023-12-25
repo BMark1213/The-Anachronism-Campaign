@@ -1,4 +1,4 @@
-#Location 
+#Shop 
 
 [[Eclipse City]]
 
