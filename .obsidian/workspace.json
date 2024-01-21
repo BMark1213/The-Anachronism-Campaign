@@ -133,8 +133,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b408054a2c2478d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/Party NPCs/IMPULSE.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06eb9c28a1d0ff49",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -208,6 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NPCs/Core Main Story NPCs/Party NPCs/IMPULSE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,6 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NPCs/Core Main Story NPCs/Party NPCs/IMPULSE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +271,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/Party NPCs/IMPULSE.md"
+              }
             }
           },
           {
@@ -270,7 +298,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -330,8 +360,12 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "69f148469d531d19",
+  "active": "06eb9c28a1d0ff49",
   "lastOpenFiles": [
+    "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
+    "Base Info Folder/Images/The Anachronism/Wasteland_With_City.jpg",
+    "Base Info Folder/Images/The Anachronism/Blood_Moon_Wasteland.jpg",
+    "Base Info Folder/Images/The Anachronism/The_Anachronism.jpg",
     "NPCs/Side Story NPCs/Auguste/The MAFIA/Chico Stephano (Boss's Right Hand Man).md",
     "NPCs/Side Story NPCs/Auguste/The MAFIA/Boss (Giggles Capone).md",
     "NPCs/Random NPCs/Cyberpunk/Gangs/The M.A.F.I.A.md",
@@ -361,7 +395,6 @@
     "NPCs/Core Main Story NPCs/High Deities/Gods/Vestarean (God of Earth).md",
     "NPCs/Core Main Story NPCs/High Deities/Gods/Elysara (Goddess of Spirit).md",
     "NPCs/Core Main Story NPCs/High Deities/Gods/Xyphera (Goddess of Fire).md",
-    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
     "NPCs/Arc Important NPCs/Addola 2063",
     "Worlds-Timelines/Addola 2063",
     "Base Info Folder/Images/Core NPCs/Gods/Xypheros (God of Air).webp",
@@ -374,9 +407,6 @@
     "Base Info Folder/Images/Main Story/New_Team_Creation.png",
     "NPCs/Core Main Story NPCs/Party NPCs",
     "Base Info Folder/Images/Graphics/Creation.jpg",
-    "Base Info Folder/Images/Graphics/Phoenix_Flames.jpg",
-    "Base Info Folder/Images/Main Story/Good_vs_Evil.jpg",
-    "Base Info Folder/Images/Main Story/Good_and_Evil.jpg",
     "Worlds-Timelines/Pradenia 5863"
   ]
 }
