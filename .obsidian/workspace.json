@@ -36,15 +36,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Lillian Eosphoros.md",
+                "file": "Players/Utrilius (Conquest).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Lillian Eosphoros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/Lillian Eosphoros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Players/Lillian Eosphoros.md"
-              }
+              "state": {}
             }
           },
           {
@@ -246,13 +241,13 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "50467a6677d640f2",
+  "active": "69f148469d531d19",
   "lastOpenFiles": [
-    "Players/Danyver Nightbloom.md",
-    "Players/Folgaira Gigalad.md",
-    "Players/Lillian Eosphoros.md",
-    "Players/Spoon (Unknown Name).md",
     "Players/Utrilius (Conquest).md",
+    "Players/Folgaira Gigalad.md",
+    "Players/Danyver Nightbloom.md",
+    "Players/Spoon (Unknown Name).md",
+    "Players/Lillian Eosphoros.md",
     "Worlds-Timelines/Addola 2063/Auguste/Auguste.md",
     "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
     "NPCs/Core Main Story NPCs/High Deities/Gods/Lumidos (God of Water).md",

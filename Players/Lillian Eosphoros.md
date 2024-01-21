@@ -15,3 +15,8 @@ Void Born Soul
 Mom: [[Lydia Eosphoros]] (Dead)
 
 Dad: [[Fabian Eosphoros]]
+
+
+Deepest Desire:
+
+Alright cool so her deepest desire is to find her mom and get a better connection than she has with her and understand the book
