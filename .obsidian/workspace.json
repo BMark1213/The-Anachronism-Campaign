@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "8518ff83d2a98fdc",
+            "id": "8dc2872afbde3261",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worlds-Timelines/Addola 2063/Auguste/The Mafia's Hideout.md",
+                "file": "NPCs/Core Main Story NPCs/High Deities/Gods/Xypheros (God of Air).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -31,134 +31,20 @@
             }
           },
           {
-            "id": "4d139db33a4c29d9",
+            "id": "50467a6677d640f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Random NPCs/Cyberpunk/Gangs/The M.A.F.I.A.md",
+                "file": "Players/Lillian Eosphoros.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "b6bb487742787832",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Random NPCs/Cyberpunk/Gangs/The M.A.F.I.A.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eff31f7b8b3e2735",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Side Story NPCs/Auguste/The MAFIA/Boss (Giggles Capone).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96fad797b9063715",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Side Story NPCs/Auguste/The MAFIA/Boss (Giggles Capone).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2785dc352828880b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Random NPCs/Cyberpunk/Gangs/The M.A.F.I.A.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc1ec50bc3d42ac6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Side Story NPCs/Auguste/The MAFIA/Boss (Giggles Capone).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "693bd7004827def9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Side Story NPCs/Auguste/The MAFIA/Chico Stephano (Boss's Right Hand Man).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9c6720b1b6a8dcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Side Story NPCs/Auguste/The MAFIA/Chico Stephano (Boss's Right Hand Man).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b408054a2c2478d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Core Main Story NPCs/Party NPCs/IMPULSE.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06eb9c28a1d0ff49",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -232,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Core Main Story NPCs/Party NPCs/IMPULSE.md",
+                "file": "Players/Lillian Eosphoros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Core Main Story NPCs/Party NPCs/IMPULSE.md",
+                "file": "Players/Lillian Eosphoros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Core Main Story NPCs/Party NPCs/IMPULSE.md"
+                "file": "Players/Lillian Eosphoros.md"
               }
             }
           },
@@ -360,15 +246,27 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "06eb9c28a1d0ff49",
+  "active": "50467a6677d640f2",
   "lastOpenFiles": [
+    "Players/Danyver Nightbloom.md",
+    "Players/Folgaira Gigalad.md",
+    "Players/Lillian Eosphoros.md",
+    "Players/Spoon (Unknown Name).md",
+    "Players/Utrilius (Conquest).md",
+    "Worlds-Timelines/Addola 2063/Auguste/Auguste.md",
     "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Lumidos (God of Water).md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Vestarean (God of Earth).md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Xyphera (Goddess of Fire).md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Xypheros (God of Air).md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Elysara (Goddess of Spirit).md",
+    "NPCs/Core Main Story NPCs/Party NPCs/IMPULSE.md",
+    "NPCs/Random NPCs/Cyberpunk/Gangs/The M.A.F.I.A.md",
     "Base Info Folder/Images/The Anachronism/Wasteland_With_City.jpg",
     "Base Info Folder/Images/The Anachronism/Blood_Moon_Wasteland.jpg",
     "Base Info Folder/Images/The Anachronism/The_Anachronism.jpg",
     "NPCs/Side Story NPCs/Auguste/The MAFIA/Chico Stephano (Boss's Right Hand Man).md",
     "NPCs/Side Story NPCs/Auguste/The MAFIA/Boss (Giggles Capone).md",
-    "NPCs/Random NPCs/Cyberpunk/Gangs/The M.A.F.I.A.md",
     "NPCs/Side Story NPCs/Auguste/The MAFIA",
     "NPCs/Side Story NPCs/Auguste",
     "NPCs/Random NPCs/Untitled",
@@ -380,21 +278,9 @@
     "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Knock Out Inn.md",
     "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/The Steam Engine (Body Enhancements).md",
     "Important Artifacts/Multidimensional Compass of Desire.md",
-    "Worlds-Timelines/Addola 2063/Auguste/Auguste.md",
     "Important Artifacts/The Compass of Desire.md",
     "Main Story Points/Battles/Battle for the Isles.md",
-    "Players/Danyver Nightbloom.md",
-    "Players/Lillian Eosphoros.md",
     "Worlds-Timelines/Addola 2063/Auguste",
-    "Worlds-Timelines/The Hidden Line/The Hidden Line.md",
-    "Worlds-Timelines/The Hidden Line/Norwich.md",
-    "Worlds-Timelines/Contritum 372/Dordaral.md",
-    "Players/Spoon (Unknown Name).md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Xypheros (God of Air).md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Lumidos (God of Water).md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Vestarean (God of Earth).md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Elysara (Goddess of Spirit).md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Xyphera (Goddess of Fire).md",
     "NPCs/Arc Important NPCs/Addola 2063",
     "Worlds-Timelines/Addola 2063",
     "Base Info Folder/Images/Core NPCs/Gods/Xypheros (God of Air).webp",
