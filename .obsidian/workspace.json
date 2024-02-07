@@ -68,8 +68,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8dc4a8d7fb91e107",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Base Info Folder/Images/Maps/Carnival Base Overview (Guard).PNG"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -143,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base Info Folder/Images/Maps/Carnival Base Overview (Guard).PNG",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base Info Folder/Images/Maps/Carnival Base Overview (Guard).PNG",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base Info Folder/Images/Maps/Carnival Base Overview (Guard).PNG"
+              }
             }
           },
           {
@@ -267,8 +282,17 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "69f148469d531d19",
+  "active": "8dc4a8d7fb91e107",
   "lastOpenFiles": [
+    "Base Info Folder/Images/Maps/Tent Internal (First Floor).JPG",
+    "Base Info Folder/Images/Maps/Carnival Base Overview.PNG",
+    "Base Info Folder/Images/Maps/Tent Internal (Second Floor) Vents w Blocking.PNG",
+    "Base Info Folder/Images/Maps/Tent Internal (Second Floor) Vents.PNG",
+    "Base Info Folder/Images/Maps/Tent Internal (Second Floor).jpg",
+    "Base Info Folder/Images/Players/Spoon.jpg",
+    "Base Info Folder/Images/Maps/Carnival Base Overview (Guard).PNG",
+    "Base Info Folder/Images/Players",
+    "Base Info Folder/Images/Maps/Eclipse City.png",
     "NPCs/Family NPCs/Spoon/Old Man Chester.md",
     "NPCs/Side Story NPCs/Auguste/The MAFIA/Chico Stephano (Boss's Right Hand Man).md",
     "NPCs/Side Story NPCs/Auguste 1/The MAFIA/Boss (Giggles Capone).md",
@@ -302,18 +326,9 @@
     "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Schools/Central Engineering Academy.md",
     "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/The Tower.md",
     "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Knock Out Inn.md",
-    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/The Steam Engine (Body Enhancements).md",
     "Worlds-Timelines/Addola 2063/Auguste",
     "NPCs/Arc Important NPCs/Addola 2063",
     "Worlds-Timelines/Addola 2063",
-    "Base Info Folder/Images/Core NPCs/Gods/Xypheros (God of Air).webp",
-    "Base Info Folder/Images/Core NPCs/Gods/Xyphera (Goddess of Fire).webp",
-    "Base Info Folder/Images/Core NPCs/Gods/Lumidos (God of Water).webp",
-    "Base Info Folder/Images/Core NPCs/Gods/Elysara (Goddess of Spirit).webp",
-    "Base Info Folder/Images/Core NPCs/Gods/Vestarean (God of Earth).webp",
-    "Base Info Folder/Images/Core NPCs/Gods",
-    "Worlds-Timelines/Nezzi 909",
-    "Base Info Folder/Images/Main Story/New_Team_Creation.png",
-    "Base Info Folder/Images/Graphics/Creation.jpg"
+    "Base Info Folder/Images/Core NPCs/Gods"
   ]
 }
