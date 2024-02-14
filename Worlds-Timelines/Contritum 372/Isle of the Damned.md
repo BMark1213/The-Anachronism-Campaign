@@ -6,6 +6,6 @@ A Pirate empire which is ruled by the pirate royal family.
 
 
 
-[[Folgaira Gigalad]]
+[[Danyver Nightbloom]]
 
 [[The Red Scarves]]

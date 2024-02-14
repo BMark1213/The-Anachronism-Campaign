@@ -3,4 +3,4 @@
 
 [[Isle of the Damned]]
 
-[[Folgaira Gigalad]]
+[[Danyver Nightbloom]]

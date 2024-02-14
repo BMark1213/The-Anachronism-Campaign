@@ -7,8 +7,8 @@ tags: [timeline, inftime]
 
 
 
+[[Delete this]]
 [[Danyver Nightbloom]]
-[[Folgaira Gigalad]]
 [[Lillian Eosphoros]]
 [[Utrilius (Conquest)]]
 [[IMPULSE]]

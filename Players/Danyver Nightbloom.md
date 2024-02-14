@@ -1,12 +1,15 @@
 #player 
 
+Godly Parent [[Lumidos (God of Water)]] 
 
+God Touched: [[Vestarean (God of Earth)]] 
 
+[[Dordaral]]
+ 
 
-[[Vestarean (God of Earth)]]
+[[Divinas Agran]]
 
-
-Has snake the snake who is her mother
+[[Horgar Agran]]
 
 
 Deepest Desire:
