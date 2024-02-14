@@ -2,5 +2,5 @@
 
 [[The Warden (Balance)]]
 
-[[Instability]]
+[[NPCs/Core Main Story NPCs/High Deities/High Table/Instability]]
 

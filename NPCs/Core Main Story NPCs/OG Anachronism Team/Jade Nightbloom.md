@@ -1,9 +1,9 @@
 
 #OG_Team 
 
-[[Dordaral]]
+[[Isle of the Damned]]
 
-
+[[Danyver Nightbloom]]
 
 [[The Anachronism Teams Creation]]
 
@@ -12,6 +12,4 @@
 [[The First Anachronism Team]]
 
 
-[[Horgar Agran]]
 
-[[Ilta Agran]]

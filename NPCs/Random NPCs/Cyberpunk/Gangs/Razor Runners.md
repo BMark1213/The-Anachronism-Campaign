@@ -1,4 +1,0 @@
-#Gang
-
-[[Hobin Ball Tournament]]
-

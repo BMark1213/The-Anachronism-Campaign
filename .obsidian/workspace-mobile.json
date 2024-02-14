@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "817441c33921c803",
+            "id": "81f149df3085be12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Core Main Story NPCs/Party NPCs/Snake.md",
+                "file": "NPCs/Family NPCs/Spoon/Azul Place Holder.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -31,12 +31,12 @@
             }
           },
           {
-            "id": "8f307faaa6ebb559",
+            "id": "44fd1a6f3b10a973",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Core Main Story NPCs/Party NPCs/Snake.md",
+                "file": "Important Artifacts/The Orbs/Orb of Spirit.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "eebdd56c1cc9aa70",
+            "id": "d8ac3e739c5325f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Story Points/The Anachronism/Zatana Wynlana/Frozen Universe.md",
+                "file": "Important Artifacts/The Orbs/Orb of Earth.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,12 +57,12 @@
             }
           },
           {
-            "id": "5ae76080407fa823",
+            "id": "44564602228e587b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Story Points/The Anachronism/Zatana Wynlana/The Machine’s Curse.md",
+                "file": "Important Artifacts/The Orbs/Orb of Earth.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,12 +70,12 @@
             }
           },
           {
-            "id": "6d41b6e5451ea3de",
+            "id": "9a1583141b0d5009",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Story Points/The Anachronism/Zatana Wynlana/The Machine’s Curse.md",
+                "file": "Important Artifacts/The Orbs/Orb of Earth.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -83,12 +83,77 @@
             }
           },
           {
-            "id": "b66cbcf0dec6dce3",
+            "id": "ac93b1332bcafdae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worlds-Timelines/The Original Timeline/The Original Timeline 13879/Black Crystal.md",
+                "file": "Important Artifacts/The Orbs/Orb of Wardens.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83906a6e172fb0ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Important Artifacts/The Orbs/Orb of Instability.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1939b12c8ca244c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Important Artifacts/The Orbs/Orb of Water.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad012f28acea4516",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Hobin Ball Tournament.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4397dccc53a6e8fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Random NPCs/Gangs/The M.A.F.I.A.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fd6213383f7c054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Random NPCs/Gangs/The M.A.F.I.A.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -262,21 +327,36 @@
   },
   "active": "0fedfce836917d58",
   "lastOpenFiles": [
-    "Worlds-Timelines/The Original Timeline/The Original Timeline 13879/Black Crystal.md",
-    "Main Story Points/The Anachronism/Zatana Wynlana/The Machine’s Curse.md",
-    "Main Story Points/The Anachronism/Zatana Wynlana/Frozen Universe.md",
-    "NPCs/Core Main Story NPCs/Party NPCs/Snake.md",
-    "NPCs/Family NPCs/Danyver Nightbloom/Jade Nightbloom.md",
+    "NPCs/Random NPCs/Gangs/The M.A.F.I.A.md",
+    "NPCs/Side Story NPCs/Cyberpunk 101010010/Science Competition/Mezroius.md",
+    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Schools/Steal Coast Artificer Academy.md",
+    "NPCs/Random NPCs/Gangs",
+    "NPCs/Side Story NPCs/Auguste/The MAFIA/Boss (Giggles Capone).md",
+    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Hobin Ball Tournament.md",
+    "Important Artifacts/The Orbs/Orb of Water.md",
+    "Important Artifacts/The Orbs/Orb of Fire.md",
+    "Important Artifacts/The Orbs/Orb of Spirit.md",
+    "Important Artifacts/The Orbs/Orb of Air.md",
+    "Important Artifacts/The Orbs/Orb of Wardens.md",
+    "Important Artifacts/The Orbs/Orb of Earth.md",
+    "Important Artifacts/The Orbs/Orb of Instability.md",
     "NPCs/Core Main Story NPCs/High Deities/Gods/Xypheros (God of Air).md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Xyphera (Goddess of Fire).md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Vestarean (God of Earth).md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Lumidos (God of Water).md",
+    "Worlds-Timelines/The Anachronism (World)/The Artifact Room.md",
     "NPCs/Core Main Story NPCs/High Deities/Gods/Elysara (Goddess of Spirit).md",
-    "Players/Danyver Nightbloom.md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods Alliases/Loien, Goddess of The Forge.md",
-    "NPCs/Core Main Story NPCs/OG Anachronism Team/Divinas Agran.md",
-    "Worlds-Timelines/Contritum 372/Dordaral.md",
-    "Players/Delete this.md",
+    "Important Artifacts/The Orbs",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Old Man Chester.md",
+    "NPCs/Family NPCs/Spoon/Azul Place Holder.md",
+    "Players/Spoon (Unknown Name).md",
+    "Worlds-Timelines/Ucrerea 98649/Dunes Corner.md",
+    "Worlds-Timelines/The Anachronism (World)/The Anachronism Tavern.md",
+    "Worlds-Timelines/Ucrerea 98649/Temple of Lumidos.md",
+    "Worlds-Timelines/Ucrerea 98649/Ucrerea 98649.md",
+    "Important Artifacts/The Compass of Desire.md",
+    "Worlds-Timelines/Addola 2063/Addola 2063.md",
+    "Worlds-Timelines/Ucrerea 98649",
+    "Main Story Points/The Anachronism/The Anachronism Teams Creation.md",
+    "NPCs/Family NPCs/Danyver Nightbloom/Horgar Agran.md",
+    "Base Info Folder/Images/Maps/Artifact Room.jpg",
     "Base Info Folder/Images/Core NPCs/Gods/IMG_0306.WEBP",
     "Base Info Folder/Images/Core NPCs/Gods/IMG_0307.WEBP",
     "Base Info Folder/Images/Core NPCs/Gods/IMG_0308.WEBP",
@@ -286,28 +366,13 @@
     "Base Info Folder/Images/Core NPCs/Gods/Xypheros (God of Air).PNG",
     "Base Info Folder/Images/Core NPCs/Gods/Xyphera (Goddess of Fire).PNG",
     "Base Info Folder/Images/Core NPCs/Gods/Vestarean (God of Earth).PNG",
-    "Base Info Folder/Images/Core NPCs/Gods/IMG_0300 2.PNG",
     "Base Info Folder/Images/Core NPCs/Gods/IMG_0300.zip",
     "Base Info Folder/Images/Core NPCs/Gods",
-    "Worlds-Timelines/Nezzi 909/Aroonshire.md",
-    "Main Story Points/The Anachronism/The New Anachronism Team (PIT VIPERS).md",
-    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Eclipse City.md",
-    "Worlds-Timelines/Cyberpunk 101010010/Cyberpunk 101010010.md",
-    "NPCs/Random NPCs/Cyberpunk/Gangs/Razor Runners.md",
-    "NPCs/Random NPCs/Cyberpunk/Glaisa.md",
-    "Worlds-Timelines/Cyberpunk 101010010/Elon Musk Tomb.md",
-    "Important Artifacts/Microchip 01001001 01101110 01100110.md",
-    "Important Artifacts/The God Killer.md",
-    "Important Artifacts/Void Key.md",
-    "Important Artifacts/Wanjala’s Ring.md",
     "Worlds-Timelines/Nezzi 909",
-    "Worlds-Timelines/Untitled",
     "Worlds-Timelines/Pradenia 5863",
     "Untitled.canvas",
     "Main Story Points/Battles",
     "NPCs/Arc Important NPCs/Contritum 1",
-    "NPCs/Arc Important NPCs/Contritum",
-    "NPCs/Core Main Story NPCs/High Deities/High Table",
-    "NPCs/Core Main Story NPCs/High Deities/Gods Alliases"
+    "NPCs/Arc Important NPCs/Contritum"
   ]
 }

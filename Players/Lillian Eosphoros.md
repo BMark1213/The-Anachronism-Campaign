@@ -2,7 +2,7 @@
 #player 
 
 
-Spirit of [[Instability]] is their patron
+Spirit of [[NPCs/Core Main Story NPCs/High Deities/High Table/Instability]] is their patron
 
 
 Void Born Soul

@@ -1,4 +1,8 @@
+
 #OG_Team 
+
+[[Dordaral]]
+
 
 
 [[The Anachronism Teams Creation]]
@@ -8,8 +12,8 @@
 [[The First Anachronism Team]]
 
 
-[[Spoon (Unknown Name)]]
+[[Horgar Agran]]
 
+[[Ilta Agran]]
 
-
-[[THE KING]]
+Killed by [[Jade Nightbloom]]
