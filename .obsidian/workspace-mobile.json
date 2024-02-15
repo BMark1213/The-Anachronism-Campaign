@@ -8,156 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0fedfce836917d58",
+            "id": "81f149df3085be12",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
               "pinned": true
-            }
-          },
-          {
-            "id": "81f149df3085be12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Family NPCs/Spoon/Azul Place Holder.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44fd1a6f3b10a973",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Important Artifacts/The Orbs/Orb of Spirit.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8ac3e739c5325f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Important Artifacts/The Orbs/Orb of Earth.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44564602228e587b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Important Artifacts/The Orbs/Orb of Earth.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a1583141b0d5009",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Important Artifacts/The Orbs/Orb of Earth.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac93b1332bcafdae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Important Artifacts/The Orbs/Orb of Wardens.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83906a6e172fb0ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Important Artifacts/The Orbs/Orb of Instability.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1939b12c8ca244c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Important Artifacts/The Orbs/Orb of Water.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad012f28acea4516",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Hobin Ball Tournament.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4397dccc53a6e8fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Random NPCs/Gangs/The M.A.F.I.A.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fd6213383f7c054",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Random NPCs/Gangs/The M.A.F.I.A.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
             }
           }
         ]
@@ -325,27 +182,27 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "0fedfce836917d58",
+  "active": "81f149df3085be12",
   "lastOpenFiles": [
     "NPCs/Random NPCs/Gangs/The M.A.F.I.A.md",
+    "Important Artifacts/The Orbs/Orb of Water.md",
+    "Important Artifacts/The Orbs/Orb of Wardens.md",
+    "Important Artifacts/The Orbs/Orb of Earth.md",
+    "Worlds-Timelines/The Anachronism (World)/The Artifact Room.md",
+    "NPCs/Family NPCs/Spoon/Azul Place Holder.md",
     "NPCs/Side Story NPCs/Cyberpunk 101010010/Science Competition/Mezroius.md",
     "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Schools/Steal Coast Artificer Academy.md",
     "NPCs/Random NPCs/Gangs",
     "NPCs/Side Story NPCs/Auguste/The MAFIA/Boss (Giggles Capone).md",
     "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Hobin Ball Tournament.md",
-    "Important Artifacts/The Orbs/Orb of Water.md",
     "Important Artifacts/The Orbs/Orb of Fire.md",
     "Important Artifacts/The Orbs/Orb of Spirit.md",
     "Important Artifacts/The Orbs/Orb of Air.md",
-    "Important Artifacts/The Orbs/Orb of Wardens.md",
-    "Important Artifacts/The Orbs/Orb of Earth.md",
     "Important Artifacts/The Orbs/Orb of Instability.md",
     "NPCs/Core Main Story NPCs/High Deities/Gods/Xypheros (God of Air).md",
-    "Worlds-Timelines/The Anachronism (World)/The Artifact Room.md",
     "NPCs/Core Main Story NPCs/High Deities/Gods/Elysara (Goddess of Spirit).md",
     "Important Artifacts/The Orbs",
     "NPCs/Core Main Story NPCs/OG Anachronism Team/Old Man Chester.md",
-    "NPCs/Family NPCs/Spoon/Azul Place Holder.md",
     "Players/Spoon (Unknown Name).md",
     "Worlds-Timelines/Ucrerea 98649/Dunes Corner.md",
     "Worlds-Timelines/The Anachronism (World)/The Anachronism Tavern.md",

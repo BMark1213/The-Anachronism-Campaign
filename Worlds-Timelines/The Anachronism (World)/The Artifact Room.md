@@ -1,4 +1,3 @@
-A Tavern inside of [[Worlds-Timelines/The Anachronism (World)/The Anachronism (World)]]
-
+A Tavern inside of [[The Anachronism Tavern]]
 #Location
 
