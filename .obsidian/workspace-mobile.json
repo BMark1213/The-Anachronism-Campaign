@@ -16,8 +16,95 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "99afa8da9acb570a",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": []
+            }
+          },
+          {
+            "id": "c51b5a5c3a8df6c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05321d3bc60a8f57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Family NPCs/Lillian Eosphoros/Jules Ramos.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6611b828869f5a07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Core Main Story NPCs/High Deities/Gods/Xyphera (Goddess of Fire).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c2838efcaa32205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds-Timelines/Hell 397832/Hell 397832.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7be6dc586250e8f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Important Artifacts/The Orbs/Orb of Balance.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "730a73e99fbde5ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Players/Utrilius (Conquest).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -84,7 +171,9 @@
         "state": {
           "type": "all-properties",
           "state": {
-            "sortOrder": "frequency"
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
           }
         }
       }
@@ -101,6 +190,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Players/Utrilius (Conquest).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,6 +207,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Players/Utrilius (Conquest).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +218,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Players/Utrilius (Conquest).md"
+          }
         }
       },
       {
@@ -182,11 +275,29 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "81f149df3085be12",
+  "active": "730a73e99fbde5ee",
   "lastOpenFiles": [
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Xyphera (Goddess of Fire).md",
+    "NPCs/Core Main Story NPCs/High Deities/High Table/The Warden (Balance).md",
+    "Base Info Folder/Timelines/Zatana Full Story.md",
+    "Main Story Points/Universe Creation.md",
+    "Base Info Folder/Timelines/Overall Timeline/Overall Timeline.md",
+    "Players/Utrilius (Conquest).md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Lumidos (God of Water).md",
+    "NPCs/Core Main Story NPCs/High Deities/Gods/Vestarean (God of Earth).md",
+    "Important Artifacts/The Orbs/Orb of Balance.md",
+    "Worlds-Timelines/Hell 397832/Hell 397832.md",
+    "NPCs/Family NPCs/Lillian Eosphoros/Jules Ramos.md",
+    "NPCs/Family NPCs/Lillian Eosphoros/Fabian Eosphoros.md",
+    "Players/Lillian Eosphoros.md",
+    "Main Story Points/The Anachronism/The Anachronism Teams Destruction.md",
+    "Base Info Folder/Images/Maps/Artifact Room.jpg",
+    "NPCs/Side Story NPCs/The Original Timeline 13879/Evedarin.md",
+    "Worlds-Timelines/Nezzi 909/Nezzi 909.md",
+    "Worlds-Timelines/Nezzi 909/The Dunes of Donaar.md",
+    "NPCs/Core Main Story NPCs/OG Anachronism Team/Zatana Wynlana/Zatana Wynlana.md",
     "NPCs/Random NPCs/Gangs/The M.A.F.I.A.md",
     "Important Artifacts/The Orbs/Orb of Water.md",
-    "Important Artifacts/The Orbs/Orb of Wardens.md",
     "Important Artifacts/The Orbs/Orb of Earth.md",
     "Worlds-Timelines/The Anachronism (World)/The Artifact Room.md",
     "NPCs/Family NPCs/Spoon/Azul Place Holder.md",
@@ -194,26 +305,8 @@
     "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Schools/Steal Coast Artificer Academy.md",
     "NPCs/Random NPCs/Gangs",
     "NPCs/Side Story NPCs/Auguste/The MAFIA/Boss (Giggles Capone).md",
-    "Worlds-Timelines/Cyberpunk 101010010/Eclipse City/Events/Hobin Ball Tournament.md",
-    "Important Artifacts/The Orbs/Orb of Fire.md",
-    "Important Artifacts/The Orbs/Orb of Spirit.md",
-    "Important Artifacts/The Orbs/Orb of Air.md",
-    "Important Artifacts/The Orbs/Orb of Instability.md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Xypheros (God of Air).md",
-    "NPCs/Core Main Story NPCs/High Deities/Gods/Elysara (Goddess of Spirit).md",
     "Important Artifacts/The Orbs",
-    "NPCs/Core Main Story NPCs/OG Anachronism Team/Old Man Chester.md",
-    "Players/Spoon (Unknown Name).md",
-    "Worlds-Timelines/Ucrerea 98649/Dunes Corner.md",
-    "Worlds-Timelines/The Anachronism (World)/The Anachronism Tavern.md",
-    "Worlds-Timelines/Ucrerea 98649/Temple of Lumidos.md",
-    "Worlds-Timelines/Ucrerea 98649/Ucrerea 98649.md",
-    "Important Artifacts/The Compass of Desire.md",
-    "Worlds-Timelines/Addola 2063/Addola 2063.md",
     "Worlds-Timelines/Ucrerea 98649",
-    "Main Story Points/The Anachronism/The Anachronism Teams Creation.md",
-    "NPCs/Family NPCs/Danyver Nightbloom/Horgar Agran.md",
-    "Base Info Folder/Images/Maps/Artifact Room.jpg",
     "Base Info Folder/Images/Core NPCs/Gods/IMG_0306.WEBP",
     "Base Info Folder/Images/Core NPCs/Gods/IMG_0307.WEBP",
     "Base Info Folder/Images/Core NPCs/Gods/IMG_0308.WEBP",

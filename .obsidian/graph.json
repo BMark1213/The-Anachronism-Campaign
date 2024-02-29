@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file:\"Zatana\"",
@@ -209,62 +209,6 @@
         "a": 1,
         "rgb": 10616642
       }
-    },
-    {
-      "query": "REAL LIFE MARKER",
-      "color": {
-        "a": 1,
-        "rgb": 5395026
-      }
-    },
-    {
-      "query": "tag:#DM",
-      "color": {
-        "a": 1,
-        "rgb": 3997696
-      }
-    },
-    {
-      "query": "tag:#The_Last_Yam_Inn",
-      "color": {
-        "a": 1,
-        "rgb": 6287
-      }
-    },
-    {
-      "query": "tag:#IRL",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "tag:#Department",
-      "color": {
-        "a": 1,
-        "rgb": 16904
-      }
-    },
-    {
-      "query": "path:\"Real Life/Places\"",
-      "color": {
-        "a": 1,
-        "rgb": 1179392
-      }
-    },
-    {
-      "query": "path:\"Real Life/Guests\"",
-      "color": {
-        "a": 1,
-        "rgb": 6094991
-      }
-    },
-    {
-      "query": "path:\"Real Life/Events\"",
-      "color": {
-        "a": 1,
-        "rgb": 16774912
-      }
     }
   ],
   "collapse-display": true,
@@ -277,6 +221,6 @@
   "repelStrength": 19.247311827957,
   "linkStrength": 0.645161290322581,
   "linkDistance": 255,
-  "scale": 0.6106395591318622,
+  "scale": 0.708944998329828,
   "close": false
 }
