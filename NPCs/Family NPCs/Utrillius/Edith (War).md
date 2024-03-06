@@ -1,9 +1,12 @@
 
-* [[Utrilius (Conquest)]]
+#demigods/mythborn 
+
+* [[Utrilius (Corruption)]]
+* [[Edith (War)]]
 * [[Dearil (Death)]]
-* [[Sin]]
-* [[Wanjala (Famine)]]
+* [[Wanjala (Chaos)]]
 * [[Virna (Time)]]
+* [[Sin]]
 
 
 Demi God Child of [[Xyphera (Goddess of Fire)]]

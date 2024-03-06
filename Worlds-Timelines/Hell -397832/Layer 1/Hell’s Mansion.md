@@ -1,10 +1,11 @@
-
-#demigods/mythborn 
+#Location 
 
 * [[Utrilius (Corruption)]]
 * [[Edith (War)]]
-* [[Sin]]
+* [[Dearil (Death)]]
 * [[Wanjala (Chaos)]]
 * [[Virna (Time)]]
+* [[Sin]]
+* [[Xyphera (Goddess of Fire)]]
 
-Demi God Child of [[Xyphera (Goddess of Fire)]]
+[[Layer 1]]

@@ -9,7 +9,7 @@
 
 * [[The Anachronism (World)]]
 * [[The Original Timeline 13879]] 
-* [[Hell 397832]] 
+* [[Hell -397832]] 
 
 **Discovered:**
 
@@ -51,7 +51,7 @@
 * [[Sin]] (Mom)
 * [[Dearil (Death)]] (Sister)
 * [[Edith (War)]] (Sister)
-* [[Wanjala (Famine)]] (Sister)
+* [[Wanjala (Chaos)]] (Sister)
 
 
 

@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "file:\"Zatana\"",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "query": "tag:#DemiGods",
+      "query": "tag:#Demigods/Mythborn",
       "color": {
         "a": 1,
         "rgb": 8750469
@@ -113,14 +113,14 @@
       }
     },
     {
-      "query": "path:\"NPCs/Side Story NPCs",
+      "query": "path:\"NPCs/Family NPCs\"",
       "color": {
         "a": 1,
-        "rgb": 15766927
+        "rgb": 15766904
       }
     },
     {
-      "query": "path:\"NPCs/Family NPCs\"",
+      "query": "path:\"NPCs/Side Story NPCs",
       "color": {
         "a": 1,
         "rgb": 16566211
@@ -217,10 +217,10 @@
   "nodeSizeMultiplier": 2.20752688172043,
   "lineSizeMultiplier": 1.20645161290323,
   "collapse-forces": true,
-  "centerStrength": 0,
+  "centerStrength": 0.0698924731182796,
   "repelStrength": 19.247311827957,
-  "linkStrength": 0.645161290322581,
-  "linkDistance": 255,
-  "scale": 0.708944998329828,
-  "close": false
+  "linkStrength": 0.489247311827957,
+  "linkDistance": 414,
+  "scale": 0.02586770589419101,
+  "close": true
 }

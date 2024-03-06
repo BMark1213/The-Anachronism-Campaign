@@ -7,10 +7,10 @@ tags: [timeline, inftime]
 
 
 
-[[Delete this]]
+[[Spoon (Unknown Name)]]
 [[Danyver Nightbloom]]
 [[Lillian Eosphoros]]
-[[Utrilius (Conquest)]]
+[[Utrilius (Corruption)]]
 [[IMPULSE]]
 
 ## Worlds Visited

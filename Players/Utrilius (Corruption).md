@@ -1,7 +1,7 @@
 #player 
 
 * [[Sin]]
-* [[Wanjala (Famine)]]
+* [[Wanjala (Chaos)]]
 * [[Dearil (Death)]]
 * [[Edith (War)]]
 * [[Virna (Time)]]

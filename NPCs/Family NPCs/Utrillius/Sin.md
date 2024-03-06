@@ -1,9 +1,9 @@
-Mother of 
+#demigods/mythborn 
 
 [[Xyphera (Goddess of Fire)]]
 
-* [[Utrilius (Conquest)]]
+* [[Utrilius (Corruption)]]
 * [[Dearil (Death)]]
 * [[Edith (War)]]
-* [[Wanjala (Famine)]]
+* [[Wanjala (Chaos)]]
 * [[Virna (Time)]]

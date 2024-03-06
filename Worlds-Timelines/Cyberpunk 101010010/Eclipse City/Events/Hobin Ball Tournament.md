@@ -4,21 +4,14 @@
 
 Teams:
 
-[[Razor Runners]]
-[[Electric Eliminators]]
-[[Titans]]
-[[Crusaders]]
-[[Hidden Phantoms]]
-[[Frozen Mafia]]
-[[Crimson Bombers]]
-[[Dark Ravens]]
+[[The New Anachronism Team (PIT VIPERS)]]
 
 
 
 
 ## Hobin-Ball Rules
 
-For this version of Hobin-Ball, teams **aren't allowed to use weapons or wear armor**. Instead, have players use the 10 + DEX modifier rule to calculate their AC. This better represents the ability to dodge in this dodgeball-like game, and also evens the playing field so that paladins/fighters aren't untouchable. One team starts on left end of the field, the other on the right. They can pick any platform to stand on, so long as it's within three rows of their end of the field. Each team gets one ball, given to the player of their choice. Roll initiative.
+For this version of Hobin-Ball, teams **aren't allowed to use weapons or wear armor**. Instead, have players use the 10 + DEX modifier rule to calculate their AC. This better represents the ability to dodge in this dodgeball-like game, and also evens the playing field so that paladins/fighters aren't untouchable. One team starts on left end of the field, the other on the right. They can pick any platform to stand on, so long as it's within three rows of their end of the field. Each team gets one ball, given to the player of their choice. Roll initiative.
 
 **IF YOU HAVE A BALL YOU MUST PASS OR THROW IT ON YOUR TURN**
 
